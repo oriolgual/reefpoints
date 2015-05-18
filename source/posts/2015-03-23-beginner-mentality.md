@@ -11,7 +11,7 @@ tags: design, observations
 
 ---
 
-When making any product, the experts are clearly the best people for the job. But experts have one significant blind spot - their extensive knowledge of the system makes them less likely to see the potential problems a novice would encounter. Anyone who is very familiar with a system, a discipline, or a product has put some distance between them and their beginning level challenges that cause them to develop an [expert blind spot](http://c4ed.lib.kmutt.ac.th/sites/default/files/HowLearningWorks-Ambrose.pdf).
+Many people consider us UX or Web experts, and experts are clearly the best people for the job. But we know we have a significant blind spot - our extensive knowledge of the system makes us less likely to see the potential problems a novice might encounter. Anyone who is very familiar with a system, a discipline, or a product has put some distance between them and their beginning level challenges that cause them to develop an [expert blind spot](http://c4ed.lib.kmutt.ac.th/sites/default/files/HowLearningWorks-Ambrose.pdf).
 
 I am sure you are familiar with this situation: you’re invited (or invite yourself) to an event at a university campus. You arrive a bit earlier than you needed, so you can orient yourself in the unfamiliar space. The map on your phone is only accurate to the nearest block, so you get a campus map and try to find room 41-B in the Humanities building named after someone important. You feel stupid.
 
