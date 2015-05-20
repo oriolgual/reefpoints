@@ -23,7 +23,7 @@ The new website is also built how we believe modern web applications
 should be built: with [Ember.js](http://emberjs.com) on the front-end
 and [Phoenix](http://phoenixframework.org) on the backend.
 
-Over the next few weeks we're going to share the story on how to rebuilt
+Over the next few weeks we're going to share the story on how our team rebuilt
 DockYard.com. You'll hear from our [Creative Director Steven Trevathan](http://twitter.com/strevat) on
 what went into the Discovery of our new website, the design decisions
 made, as well as a view of some early mockups and how we came to the
