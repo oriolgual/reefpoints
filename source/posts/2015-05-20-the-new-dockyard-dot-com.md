@@ -27,13 +27,13 @@ Over the next few weeks we're going to share the story of how our team rebuilt
 DockYard.com. You'll hear from our [Creative Director Steven Trevathan](http://twitter.com/strevat) on
 what went into the Discovery of our new website, the design decisions
 made, as well as a view of some early mockups and how we came to the
-final design. [Dan McClain](http://twitter.com/_danmcclain), our head of our Engineering team will discuss
-how we built the Ember application the "DockYard Way" which meant we
-actually had to make contributions back to Ember itself, as well as
+final design. [Dan McClain](http://twitter.com/_danmcclain), the head of our Engineering team will discuss
+how we built our Ember application the "DockYard Way" which meant we
+had to make contributions back to Ember itself, as well as
 several other libraries, in order to get the experience just right.
 [Amanda Cheung](http://twitter.com/acacheung), our Lead UX Developer, will share what efforts went into the implementation of
 the design; how we build modern responsive markup. Finally you'll hear
-from [Jon Lacks](http://twitter.com/jon_lacks), our Project Manager, will show how we managed the rebuild
+from [Jon Lacks](http://twitter.com/jon_lacks), our Project Manager, who will show how we managed the rebuild
 of our own website using the exact same processes we use on our client
 projects.
 
