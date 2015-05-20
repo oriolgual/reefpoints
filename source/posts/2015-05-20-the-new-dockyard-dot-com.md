@@ -15,13 +15,13 @@ I'm proud to announce the new [DockYard.com](http://dockyard.com)
 
 With this relaunch of our website we are also changing our direction as
 a company. We've always been considered an *engineering* company but we
-are now considering *ourselves* a **User Experience** company. All of
+are now considering ourselves a **User Experience** company. All of
 our design and engineering decisions go into delivering a modern user
-experience for web application to our clients.
+experience on the web for clients.
 
 The new website is also built how we believe modern web applications
 should be built: with [Ember.js](http://emberjs.com) on the front-end
-and [Phoenix](http://phoenixframework.org) on the backend.
+and [Phoenix](http://phoenixframework.org) on the backend. 
 
 Over the next few weeks we're going to share the story on how our team rebuilt
 DockYard.com. You'll hear from our [Creative Director Steven Trevathan](http://twitter.com/strevat) on
@@ -39,7 +39,7 @@ projects.
 
 Along with these stories we'll not just tell you how we did things, we
 plan to show you. We'll be open sourcing all of the code for the Ember
-front and as well as the Phoenix back end in the coming weeks. There are
+front-end as well as the Phoenix back-end in the coming weeks. There are
 also many libraries that we plan to extract from the application to
 share with everyone.
 
