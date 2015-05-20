@@ -17,9 +17,9 @@ With this relaunch of our website we are also changing our direction as
 a company. We've always been considered an *engineering* company but we
 are now considering ourselves a **User Experience** company. All of
 our design and engineering decisions go into delivering a modern user
-experience on the web for clients.
+experience on the web for our clients.
 
-The new website is also built how we believe modern web applications
+This new website is also built how we believe modern web applications
 should be built: with [Ember.js](http://emberjs.com) on the front-end
 and [Phoenix](http://phoenixframework.org) on the backend. 
 
