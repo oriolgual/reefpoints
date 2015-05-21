@@ -991,13 +991,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/categories/team</loc>
+    <loc>http://dockyard.com/blog/2015/01/05/avoid-chaining-modifiers</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember</loc>
+    <loc>http://dockyard.com/blog/categories/team</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1214,6 +1214,12 @@
   </url>
   <url>
     <loc>http://dockyard.com/blog/2015/05/20/the-new-dockyard-dot-com</loc>
+    <lastmod>2015-05-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/2015/05/21/sign-up-for-the-dockyard-newsletter</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1813,7 +1819,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/2015/01/05/avoid-chaining-modifiers</loc>
+    <loc>http://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

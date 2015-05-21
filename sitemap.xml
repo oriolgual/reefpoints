@@ -931,13 +931,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://reefpoints.dockyard.com//categories/team.html</loc>
+    <loc>http://reefpoints.dockyard.com//2015/01/05/avoid-chaining-modifiers.html</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://reefpoints.dockyard.com//2015/01/07/complex-search-pages-feel-better-in-ember.html</loc>
+    <loc>http://reefpoints.dockyard.com//categories/team.html</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1154,6 +1154,12 @@
   </url>
   <url>
     <loc>http://reefpoints.dockyard.com//2015/05/20/the-new-dockyard-dot-com.html</loc>
+    <lastmod>2015-05-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://reefpoints.dockyard.com//2015/05/21/sign-up-for-the-dockyard-newsletter.html</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1753,7 +1759,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://reefpoints.dockyard.com//2015/01/05/avoid-chaining-modifiers.html</loc>
+    <loc>http://reefpoints.dockyard.com//2015/01/07/complex-search-pages-feel-better-in-ember.html</loc>
     <lastmod>2015-05-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
