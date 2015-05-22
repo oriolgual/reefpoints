@@ -997,7 +997,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/categories/team</loc>
+    <loc>http://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1015,7 +1015,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/2015/01/13/should-we-consider</loc>
+    <loc>http://dockyard.com/blog/categories/broccoli</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1225,6 +1225,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://dockyard.com/blog/2015/05/22/begin-with-benchmarking</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://dockyard.com/blog/shared/ads/wicked-good-ember</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1339,6 +1345,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://dockyard.com/blog/categories/design-strategy</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/categories/benchmarking</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/categories/design-research</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://dockyard.com/blog/categories/addon</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1370,24 +1394,6 @@
   </url>
   <url>
     <loc>http://dockyard.com/blog/categories/ux-design</loc>
-    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dockyard.com/blog/categories/broccoli</loc>
-    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dockyard.com/blog/categories/native-web</loc>
-    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dockyard.com/blog/categories/interaction</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1819,7 +1825,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember</loc>
+    <loc>http://dockyard.com/blog/categories/team</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/categories/interaction</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/categories/native-web</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dockyard.com/blog/2015/01/13/should-we-consider</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
