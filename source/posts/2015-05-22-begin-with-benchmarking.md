@@ -6,7 +6,7 @@ social: true
 author: 'Ashley Treni'
 twitter: '_ashleytreni'
 github: 'atreni'
-summary: 'utilizing design research strategies'
+summary: 'Utilizing design research strategies'
 published: true
 tags: design research, benchmarking, design strategy
 ---
