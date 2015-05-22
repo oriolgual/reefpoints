@@ -12,7 +12,7 @@ comments: true
 published: true
 ---
 
-One of the early hurdles a Ruby developer faces when working on an Ember.js application is dependency management. A popular mechanism for managing a Ruby application’s dependencies is the [Gemfile](http://bundler.io/gemfile.html) provided by [Bundler](http://bundler.io/ ). Including a library is as easy as declaring it in the Gemfile and running `bundle install`:
+At DockYard, we have a lot of Ruby on Rails experts who have adopted Ember on the frontend. One of the early hurdles a Ruby developer faces when working on an Ember.js application is dependency management. A popular mechanism for managing a Ruby application’s dependencies is the [Gemfile](http://bundler.io/gemfile.html) provided by [Bundler](http://bundler.io/ ). Including a library is as easy as declaring it in the Gemfile and running `bundle install`:
 
 ```ruby
 # Gemfile
