@@ -13,7 +13,8 @@ tags: ember, testing
 ---
 
 The last project I worked on was an Ember app that had a Rails backend that was
-deployed on Heroku. One of the great things about being at a high end web development shop, is we get to see all kinds of technology stacks, some of which present challenges for development or deployment. We had this application as a single repository, where there were two folders at the root, `frontend` and `backend`. This was somewhat easy
+deployed on Heroku. We had this application as a single repository, where there
+were two folders at the root, `frontend` and `backend`. This was somewhat easy
 to test on Travis-CI; it would check out the one repository, run the Rails
 tests, start the Rails server, then run the ember tests that hit the Rails
 server. This ended up being a pain to deploy, as when you changed the Rails app,
