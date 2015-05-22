@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Importance of Benchmarking'
+title: 'Begin with Benchmarking'
 comments: true
 social: true
 author: 'Ashley Treni'
