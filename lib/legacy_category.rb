@@ -2,6 +2,10 @@ module ::Middleman::Blog::BlogArticle
   def legacy_category
     data['legacy_category']
   end
+
+  def shallow?
+    !!data['shallow']
+  end
 end
 
 module LegacyCategory
@@ -23,7 +27,12 @@ module LegacyCategory
 
           # compute output path:
           #   substitute date parts to path pattern
-          permalink = options.permalink
+          if resource.shallow?
+            permalink = ":title.html"
+          else
+            permalink = options.permalink
+          end
+
           if resource.legacy_category
             permalink = "#{resource.legacy_category}/#{permalink}"
           end
