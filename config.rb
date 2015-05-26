@@ -90,6 +90,7 @@ helpers do
         illustration: article.illustration,
         illustration_alt: article.illustration_alt,
         tags: article.tags.map { |tag| Utils.normalize_tag(tag).parameterize },
+        shallow: article.shallow?,
         date: article.date
       }
     end
