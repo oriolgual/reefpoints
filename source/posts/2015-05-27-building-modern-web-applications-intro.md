@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Building a modern web application"
+title: "Building Modern Web Applications"
 comments: true
 author: 'Brian Cardarella'
 twitter: 'bcardarella'
 social: true
 published: true
+shallow: true
 tags: business, technology
 ---
 
@@ -22,7 +23,6 @@ the latest technology the web has to offer.
 
 1. User Experiences
 2. Single Page Applications
-3. Lightning fast backend APIs
+3. Lightning fast backends
 4. Databases
 5. Application Hosting
-6. Best Practices

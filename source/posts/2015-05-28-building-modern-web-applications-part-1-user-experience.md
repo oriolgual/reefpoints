@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Building a Modern Web Application: Part 1 User Experience"
+title: "Building Modern Web Applications: Part 1 User Experience"
 comments: true
 author: 'Brian Cardarella'
 twitter: 'bcardarella'
 social: true
 published: true
+shallow: true
 tags: business, technology
 ---
 

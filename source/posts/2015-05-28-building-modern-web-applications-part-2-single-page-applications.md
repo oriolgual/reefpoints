@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Building a Modern Web Application: Part 2 Single Page Applications"
+title: "Building Modern Web Applications: Part 2 Single Page Applications"
 comments: true
 author: 'Brian Cardarella'
 twitter: 'bcardarella'
 social: true
 published: true
+shallow: true
 tags: business, technology
 ---
 
-I new web technology that has come about in the past two years are
+A new web technology that has come about in the past two years are
 *Single Page Applications*. In my opinion they are a major game changer
 in how modern web applications should be built. However, there are many
 choices on how to build a single page app, almost too many chioces.
