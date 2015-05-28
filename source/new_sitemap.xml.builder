@@ -24,6 +24,12 @@ xml.urlset 'xmlns' => "http://www.sitemaps.org/schemas/sitemap/0.9" do
       xml.priority '0.7'
     end
   end
+  xml.url do
+      xml.loc "http://dockyard.com/ember-consulting"
+      xml.lastmod Date.today.to_time.iso8601
+      xml.changefreq 'weekly'
+      xml.priority '0.9'
+    end
   sitemap.resources.select { |page| page.path =~ /\.html/ }.each do |page|
     xml.url do
       xml.loc "http://dockyard.com/blog#{page.url.sub(/.html/, '')}"
