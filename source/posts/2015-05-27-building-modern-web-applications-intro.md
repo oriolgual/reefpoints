@@ -21,8 +21,8 @@ the latest technology the web has to offer.
 
 ## Series Parts
 
-1. User Experiences
-2. Single Page Applications
-3. Lightning fast backends
-4. Databases
-5. Application Hosting
+1. [User Experiences](building-modern-web-applications-part-1-user-experience)
+2. [Single Page Applications](building-modern-web-applications-part-2-single-page-applications)
+3. [Lightning Fast Backends](building-modern-web-applications-part-3-lightning-fast-backends)
+4. [Databases](building-modern-web-applications-part-1-user-experience)
+5. [Application Hosting](building-modern-web-applications-part-1-user-experience)

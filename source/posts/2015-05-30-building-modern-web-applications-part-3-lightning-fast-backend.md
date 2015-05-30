@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Modern Web Applications: Part 4 Lightning Fast Backends"
+title: "Building Modern Web Applications: Part 3 Lightning Fast Backends"
 comments: true
 author: 'Brian Cardarella'
 twitter: 'bcardarella'
@@ -10,7 +10,7 @@ shallow: true
 tags: business, technology
 ---
 
-In Part 3 you learned about Single Page Applications (SPA). In order to feed
+In [Part 2 you learned about Single Page Applications (SPA)](/building-modern-web-applications-part-2-single-page-applications). In order to feed
 these new web applications with data our backend needs to play a
 different role than it traditionally has in the past. This is where
 lighting fast response times really matter as you'll be writing real API
