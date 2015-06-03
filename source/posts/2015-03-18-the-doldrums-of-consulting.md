@@ -46,7 +46,7 @@ this is true then I'm quite confident in us.
 I also realize that we're towards the end of a financial quarter.
 Companies tend to reach out after the start of a quarter, but if I were
 them I wouldn't wait. If companies were to [contact
-us](http://dockyard.com/contact) now they would find us in a position that
+us](https://dockyard.com/contact) now they would find us in a position that
 would be easy to negotiate with.
 
 I'd be interested in hearing from other shops: have you experienced The

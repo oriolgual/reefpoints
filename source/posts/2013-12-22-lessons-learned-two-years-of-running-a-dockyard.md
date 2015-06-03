@@ -339,7 +339,7 @@ brought Steve on as our Creative Director and a partner. Logan came on as a lead
 is the best move we've made to date. Steve and Logan quickly took
 ownership of the design direction of DockYard and have along with Amanda
 and Angelo put out a [website that really represents who we
-are](http://dockyard.com) and have also put together some amazing
+are](https://dockyard.com) and have also put together some amazing
 designs for our clients.
 
 While earlier I mentioned how it was very difficult to differentiate

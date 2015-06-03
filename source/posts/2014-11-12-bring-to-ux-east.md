@@ -15,7 +15,7 @@ This weekend, I am heading to [UX East's camp](http://uxeast.org/) in Maine. It 
 
 My project is practicing how to quickly sketch ideas by hand.
 
-When I first started as a UX Designer at [DockYard](http://dockyard.com/), I noticed how confident the other designers were at sketching. [Logan](http://dockyard.com/team#logan-faerber) just happens to be a [kickass illustrator](https://dribbble.com/shots/1765074-UX-East-Icons?list=users&offset=3), which helps. But still, I felt like I lacked confidence in comparison. I’ve been trying to improve, but had not tried anything focused on sketching specifically yet.
+When I first started as a UX Designer at [DockYard](https://dockyard.com/), I noticed how confident the other designers were at sketching. [Logan](https://dockyard.com/team#logan-faerber) just happens to be a [kickass illustrator](https://dribbble.com/shots/1765074-UX-East-Icons?list=users&offset=3), which helps. But still, I felt like I lacked confidence in comparison. I’ve been trying to improve, but had not tried anything focused on sketching specifically yet.
 
 
 ## Why is sketching useful?

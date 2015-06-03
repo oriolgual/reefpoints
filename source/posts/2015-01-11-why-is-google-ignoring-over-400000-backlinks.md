@@ -32,7 +32,7 @@ this over the past two months.
 
 At the time of launch RubyGems.org had over 90,000 gems published. This
 meant a sponsor link at the bottom of every page that was backlinking
-to [DockYard.com](http://dockyard.com). In addition to the landing page
+to [DockYard.com](https://dockyard.com). In addition to the landing page
 and the other static pages. This was an appealing value to gain from a
 re-design effort. According to Google's own backlink search DockYard had
 only 65 pages linking back. This struck me as odd considering this blog

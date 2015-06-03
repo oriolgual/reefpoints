@@ -80,7 +80,7 @@ I would argue any day of the week that a Linux server properly locked
 down is more secure than any Microsoft based server. And did I mention
 that Linux is free? No more license fees, but finding a good Linux
 sys-op is not easy. If you have one on staff, pay that person very well.
-We at [DockYard](http://dockyard.com) are very experienced in Linux. I
+We at [DockYard](https://dockyard.com) are very experienced in Linux. I
 personally recommend using CentOS as it is (out of the box) the most secure of all the
 Linux distributions out there.
 
@@ -106,7 +106,7 @@ Now onto the framework itself. Out of the box Rails has baked-in Bcrypt
 authentication. Bcrypt was developed by the NSA and can be fine tuned to
 just how secure a system is desired. We can increase the complexity and
 passwords become more and more difficult to decrypt. At
-[DockYard](http://dockyard.com) we have built a Rails Engine (plugin)
+[DockYard](https://dockyard.com) we have built a Rails Engine (plugin)
 called EasyAuth that allows us to quickly build out very secure identity
 based accounts. By default is uses Bcrypt but we can quickly swap that
 out for different authentication strategy. We take security very

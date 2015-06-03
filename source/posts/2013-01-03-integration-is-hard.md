@@ -93,4 +93,4 @@ with three different systems, you're probably thinking that integration
 can be tricky.  But if you're in a progressive organization that uses
 VAN, Salsa, or Amicus - remember that [here at DockYard we have the
 expertise and experience to make it look
-easy](http://dockyard.com/contact).
+easy](https://dockyard.com/contact).

@@ -32,7 +32,7 @@ Our current tech stack:
 * Most of our apps deploy to [Heroku](http://heroku.com), if not then
   to [Linode](http://linode.com)
 
-[DockYard](http://dockyard.com) is a Boston-based consultancy that always wants to work with
+[DockYard](https://dockyard.com) is a Boston-based consultancy that always wants to work with
 the best people and the best technology. We are committed to Ember.js as
 a client side framework. We help organize the Boston [Ember.js
 meetup](http://www.meetup.com/Boston-Ember-js) and

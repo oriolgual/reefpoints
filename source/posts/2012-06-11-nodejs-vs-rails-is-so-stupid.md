@@ -14,7 +14,7 @@ social: true
 Let me start this by admitting a few things:
 
 1. I am a Ruby/Rails developer
-2. My consulatncy, [DockYard](http://dockyard.com) specializes in Rails
+2. My consulatncy, [DockYard](https://dockyard.com) specializes in Rails
 3. I organize [The Boston Ruby Group](http://bostonrb.org)
 
 Ok, so now that we have established that a grieat argument can be made

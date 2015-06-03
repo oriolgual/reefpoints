@@ -9,7 +9,7 @@ published: true
 tags: business, announcement
 ---
 
-I'm proud to announce the new [DockYard.com](http://dockyard.com)
+I'm proud to announce the new [DockYard.com](https://dockyard.com)
 
 ![](http://i.imgur.com/D3KeY1b.jpg)
 
