@@ -38,7 +38,7 @@ actions: {
   showModal(modalDialogName, modalContext) {
     const applicationController = this.controller;
 
-    set(applicationController, {
+    setProperties(applicationController, {
       modalDialogName,
       modalContext,
       isModalVisible: true
