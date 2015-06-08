@@ -97,7 +97,7 @@ actions: {
   showModal(modalDialogName, modalContext) {
     const applicationController = <span class="local-variable">this</span>.controller;
 
-    set(applicationController, {
+    setProperties(applicationController, {
       modalDialogName,
       modalContext,
       <span class="key">isModalVisible</span>: <span class="predefined-constant">true</span>
