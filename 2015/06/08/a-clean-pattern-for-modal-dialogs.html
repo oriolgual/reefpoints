@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><title>Announcing PostgresExt-PostGIS</title><link href="/stylesheets/all-84f1eb0e.css" media="screen" rel="stylesheet" type="text/css" /><script src="/javascripts/all-ce68a29a.js" type="text/javascript"></script><meta content='NO-CACHE' http-equiv='CACHE-CONTROL'><meta content='DockYard is a Ruby on Rails, PostgreSQL, and, Ember.js, web / mobile application development software consultancy based in Boston, MA.' namer='description'><meta content='ruby on rails, rails, ruby, ruby on rails training, ruby application development, ruby on rails application development, ember application development, ember.js application development, software application development, web, web application development, mobile, mobile application development, ios, ios application development, iphone, iphone application development, android, android application development, postgres, startups, enterprise, Boston, MA, Massachusetts, for hire' name='keywords'><meta content='web development, mobile development, startups, enterprise, ruby on rails, rails, ruby, ruby on rails training, Boston, for hire' name='keywords'><meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0' name='viewport'><meta charset='utf-8'><meta content='DockYard.com - PostgresExt-PostGIS adds PostGIS support to ActiveRecord' name='description'><link href='https://plus.google.com/102648938707671188640' rel='author'><meta content='_danmcclain' name='twitter:creator'><meta content='summary' name='twitter:card'><meta content='@DockYard' name='twitter:site'><meta content='http://reefpoints.dockyard.com/2014/02/07/announcing-postgres_ext-postgis.html' name='twitter:url'><meta content='Announcing PostgresExt-PostGIS' name='twitter:title'><meta content='PostgresExt-PostGIS adds PostGIS support to ActiveRecord' name='twitter:description'><link href='//cloud.typography.com/6496052/702882/css/fonts.css' rel='stylesheet' type='text/css'><link href='http://dockyard.com/humans.txt' rel='author'><link href='/favicon-573a5e34.png' rel='shortcut icon' type='image/x-icon'><link href='/favicon-573a5e34.png' rel='icon' type='image/x-icon'><link href='/apple-touch-icon.png' rel='apple-touch-icon'><link href='/apple-touch-icon-precomposed.png' rel='apple-touch-icon-precomposed'><link href='/atom.xml' rel='alternate' title='DockYard - Reefpoints' type='application/atom+xml'><script>
+<!DOCTYPE html><html><head><title>A clean pattern for modal dialogs</title><link href="/stylesheets/all-84f1eb0e.css" media="screen" rel="stylesheet" type="text/css" /><script src="/javascripts/all-ce68a29a.js" type="text/javascript"></script><meta content='NO-CACHE' http-equiv='CACHE-CONTROL'><meta content='DockYard is a Ruby on Rails, PostgreSQL, and, Ember.js, web / mobile application development software consultancy based in Boston, MA.' namer='description'><meta content='ruby on rails, rails, ruby, ruby on rails training, ruby application development, ruby on rails application development, ember application development, ember.js application development, software application development, web, web application development, mobile, mobile application development, ios, ios application development, iphone, iphone application development, android, android application development, postgres, startups, enterprise, Boston, MA, Massachusetts, for hire' name='keywords'><meta content='web development, mobile development, startups, enterprise, ruby on rails, rails, ruby, ruby on rails training, Boston, for hire' name='keywords'><meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0' name='viewport'><meta charset='utf-8'><meta content='DockYard.com - The project you are working on has a number of modal dialogs, and the component helper can help' name='description'><link href='https://plus.google.com/102648938707671188640' rel='author'><meta content='_danmcclain' name='twitter:creator'><meta content='summary' name='twitter:card'><meta content='@DockYard' name='twitter:site'><meta content='http://reefpoints.dockyard.com/2015/06/08/a-clean-pattern-for-modal-dialogs.html' name='twitter:url'><meta content='A clean pattern for modal dialogs' name='twitter:title'><meta content='The project you are working on has a number of modal dialogs, and the component helper can help' name='twitter:description'><link href='//cloud.typography.com/6496052/702882/css/fonts.css' rel='stylesheet' type='text/css'><link href='http://dockyard.com/humans.txt' rel='author'><link href='/favicon-573a5e34.png' rel='shortcut icon' type='image/x-icon'><link href='/favicon-573a5e34.png' rel='icon' type='image/x-icon'><link href='/apple-touch-icon.png' rel='apple-touch-icon'><link href='/apple-touch-icon-precomposed.png' rel='apple-touch-icon-precomposed'><link href='/atom.xml' rel='alternate' title='DockYard - Reefpoints' type='application/atom+xml'><script>
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-24185112-2']);
     _gaq.push(['_trackPageview']);
@@ -37,7 +37,7 @@
       8OOOOOOOOOOOOOOOOOOOOOOOODO:
          :OOOOOOOOOOOOOOOOOOOO::
 
---></head><body class='x2014 x2014_02 x2014_02_07 x2014_02_07_announcing-postgres_ext-postgis'><header><div class='extended-nav-wrap'><div class='l-wrap--wide'><nav class='extended-nav'><a class="extended-nav--logo" data-icon="⌂" href="http://dockyard.com/"><span class='is-hidden'>Home</span></a>
+--></head><body class='x2015 x2015_06 x2015_06_08 x2015_06_08_a-clean-pattern-for-modal-dialogs'><header><div class='extended-nav-wrap'><div class='l-wrap--wide'><nav class='extended-nav'><a class="extended-nav--logo" data-icon="⌂" href="http://dockyard.com/"><span class='is-hidden'>Home</span></a>
 <a class="extended-nav--close" data-icon="X" href="#"><span class='is-hidden'>Close</span></a><div class='extended-nav__items'><div class='extended-nav__items--mobile'><a class="extended-nav__item--work extended-nav__item" href="#">Work</a><nav class='work-nav--mobile'><a href="http://dockyard.com/work/credit-card-reviews" class="work-nav-item"><strong class='work-nav-item__title'>Credit Card Reviews</strong></a>
 <a href="http://dockyard.com/work/scratch" class="work-nav-item"><strong class='work-nav-item__title'>Scratch Wireless</strong></a>
 <a href="http://dockyard.com/work/coachup" class="work-nav-item"><strong class='work-nav-item__title'>CoachUp</strong></a>
@@ -46,78 +46,98 @@
 <a href="http://dockyard.com/work/scratch" class="work-nav-item"><strong class='work-nav-item__title'>Scratch Wireless</strong><p>Never pay another penny for smartphone service.</p></a>
 <a href="http://dockyard.com/work/coachup" class="work-nav-item"><strong class='work-nav-item__title'>CoachUp</strong><p>You should be training. Right now.</p></a>
 <a href="http://dockyard.com/work/askthem" class="work-nav-item"><strong class='work-nav-item__title'>AskThem</strong><p>Ask officials questions on city, state, and federal levels.</p></a>
-<a href="http://dockyard.com/work/beacon-hill-blitz" class="work-nav-item"><strong class='work-nav-item__title'>Beacon Hill Blitz</strong><p>How technology helped repeal the #TechTax.</p></a></nav></div></div><nav class='main-nav-wrap'><div class='main-nav l-wrap--wide'><a class="logo" href="http://dockyard.com">DockYard</a><a class="club-sandwich" data-icon="☰" href="#"><span class='is-hidden'>Navigation</span></a></div></nav></header><div class='push--header'></div><div class='l-wrap--blog'><a href="/"><strong class='logo--blog'>ReefPoints</strong><strong class='logo--blog__tagline'>Blog</strong></a><nav class='blog-nav'><a class="blog-nav__item " href="/">Posts</a><a class="blog-nav__item " href="/categories.html">Categories</a><a class="blog-nav__item " href="/authors.html">Authors</a></nav></div><div class='l-wrap--blog__post'><h1 class='post__title'>Announcing PostgresExt-PostGIS</h1><a class="post__author" href="/authors/dan-mcclain.html">Dan McClain</a><time class='post__date'>February 7<sup>th</sup>, 2014</time><div class='post__content'><p>Today I released the first version of
-<a href="https://github.com/dockyard/postgres_ext-postgis">postgres_ext-postgis</a>, which
-extends ActiveRecord to support PostGIS data types and some querying.
-This is definitely a beta release, but ready to the point where people
-can play around with it.</p>
+<a href="http://dockyard.com/work/beacon-hill-blitz" class="work-nav-item"><strong class='work-nav-item__title'>Beacon Hill Blitz</strong><p>How technology helped repeal the #TechTax.</p></a></nav></div></div><nav class='main-nav-wrap'><div class='main-nav l-wrap--wide'><a class="logo" href="http://dockyard.com">DockYard</a><a class="club-sandwich" data-icon="☰" href="#"><span class='is-hidden'>Navigation</span></a></div></nav></header><div class='push--header'></div><div class='l-wrap--blog'><a href="/"><strong class='logo--blog'>ReefPoints</strong><strong class='logo--blog__tagline'>Blog</strong></a><nav class='blog-nav'><a class="blog-nav__item " href="/">Posts</a><a class="blog-nav__item " href="/categories.html">Categories</a><a class="blog-nav__item " href="/authors.html">Authors</a></nav></div><div class='l-wrap--blog__post'><h1 class='post__title'>A clean pattern for modal dialogs</h1><a class="post__author" href="/authors/dan-mcclain.html">Dan McClain</a><time class='post__date'>June 8<sup>th</sup>, 2015</time><div class='post__content'><p>Recently, I was working on a project which had a number of different modals. I
+discovered a really clean pattern for implementing modals via actions and
+<a href="https://github.com/yapplabs/ember-modal-dialog"><code>ember-modal-dialog</code></a>.</p>
 
-<h2>Migrations</h2>
-
-<p>With postgres_ext-postgis, you can easily add geometry columns:</p>
-<div class="highlight ruby "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
+<p>We implemented each of the different modals as separate components, and
+rendered <code>ember-modal-dialog</code> in the <code>application</code> template the following
+way:</p>
+<div class="highlight hbs "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
   <td class="line-numbers"><pre>1
 2
 3
+4
+5
 </pre></td>
-  <td class="code"><pre>create_table <span class="symbol">:districts</span> <span class="keyword">do</span> |t|
-  t.geometry <span class="symbol">:district_boundries</span>
-<span class="keyword">end</span>
+  <td class="code"><pre>{{#if isModalVisible}}
+  {{#modal-dialog}}
+    {{component modalDialogName modalContext=modalContext closeAction=&quot;closeModal&quot;}}
+  {{/modal-dialog}}
+{{/if}}
 </pre></td>
 </tr></table>
 </div></div>
-<p>If you&#39;d like to include your projection or geometry type, just include
-them as options to your column:</p>
-<div class="highlight ruby "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
+<p>The component helper allows us to dynamically choose which modal we&#39;d like to
+see. We call the modal via the following action in the application route;</p>
+<div class="highlight js "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
   <td class="line-numbers"><pre>1
 2
 3
+4
+5
+6
+7
+8
+9
+<strong>10</strong>
+11
+12
+13
+14
+15
+16
+17
+18
+19
 </pre></td>
-  <td class="code"><pre>create_table <span class="symbol">:districts</span> <span class="keyword">do</span> |t|
-  t.geometry <span class="symbol">:district_boundries</span>, <span class="key">spatial_type</span>: <span class="symbol">:multipolygon</span>, <span class="key">srid</span>: <span class="integer">4326</span>
-<span class="keyword">end</span>
+  <td class="code"><pre>const { setProperties, set } = Ember;
+
+actions: {
+  showModal(modalDialogName, modalContext) {
+    const applicationController = <span class="local-variable">this</span>.controller;
+
+    set(applicationController, {
+      modalDialogName,
+      modalContext,
+      <span class="key">isModalVisible</span>: <span class="predefined-constant">true</span>
+    });
+  },
+
+  closeModal() {
+    const applicationController = <span class="local-variable">this</span>.controller;
+
+    set(applicationController, <span class="string"><span class="delimiter">'</span><span class="content">isModalVisible</span><span class="delimiter">'</span></span>, <span class="predefined-constant">false</span>);
+  }
+}
 </pre></td>
 </tr></table>
 </div></div>
-<h2>Type Casting</h2>
-
-<p>Your geometry columns will be typecasted into
-<a href="http://dazuma.github.io/rgeo/">RGeo</a> objects. You can set your
-attributes with RGeo objects or EWKT/EWKB strings. EWKT/EWKB strings
-will be converted to RGeo objects:</p>
-<div class="highlight ruby "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
+<p>We invoke the modal via a normal action call:</p>
+<div class="highlight hbs "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
   <td class="line-numbers"><pre>1
 </pre></td>
-  <td class="code"><pre>user.location = <span class="string"><span class="delimiter">'</span><span class="content">SRID=4623;POINT(1 1)</span><span class="delimiter">'</span></span>
+  <td class="code"><pre>&lt;button {{action &quot;showModal&quot; &quot;my-component-name&quot; contextForModal}}&gt;Show the modal!&lt;/button&gt;
 </pre></td>
 </tr></table>
 </div></div>
-<h2>Querying</h2>
+<p>The <code>modalContext</code> could be as simple as a string, or as complex as an
+Ember-Data model. It gets passed to the component as the <code>modalContext</code>
+attribute, so you&#39;ll need to remember to retrieve your properties from within
+there if you are trying to do something a bit more complex.</p>
 
-<p>For now, the only added querying method for ActiveRecord is <code>contains</code>:</p>
-<div class="highlight ruby "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
-  <td class="line-numbers"><pre>1
-</pre></td>
-  <td class="code"><pre><span class="constant">District</span>.where.contains(<span class="key">district_boundries</span>: user.location)
-</pre></td>
-</tr></table>
-</div></div>
-<p>The above query will utilize PostGIS&#39;s <code>ST_CONTAINS</code> to see if the
-<code>district_boundries</code> column contains the <code>user.location</code>. I plan to add
-a convience method to convert EWKT strings to RGeo object, something
-like <code>PostgreExt.geom(&#39;SRID=4623;POINT(1 1)&#39;)</code>, to make generating
-queries from, say, a mobile user&#39;s current location a bit easier.</p>
-
-<p>As I get feedback and use postgres_ext-postgis, more features will get
-added. Stay tuned!</p>
-</div><div class='post__share'><a class='twitter-share-button' data-url='http://reefpoints.dockyard.com/2014/02/07/announcing-postgres_ext-postgis.html' data-via='DockYard' href='https://twitter.com/share'>Tweet</a><script>
+<p>The component helper is really what enables this pattern, otherwise you&#39;d need
+to either have a series of <code>if</code>s to display the correct modal. I may extract
+this pattern into a separate addon, as I see it as one I&#39;ll reuse frequently
+whenever we have multiple modal dialogs.</p>
+</div><div class='post__share'><a class='twitter-share-button' data-url='http://reefpoints.dockyard.com/2015/06/08/a-clean-pattern-for-modal-dialogs.html' data-via='DockYard' href='https://twitter.com/share'>Tweet</a><script>
   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
 </script><div class='g-plusone' data-href='#' data-size='medium' data-width='100'></div><script>
   (function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
 </script><span class='post__share--github'>If you see an issue, please send a <a href='https://github.com/dockyard/reefpoints/blob/master/source/posts/', class='text-link post__issue', target: '_blank'>pull request</a> to contribute.</span></div><div class='related-posts-wrap'><div class='post__avatar-wrap'><img class='post__avatar' src='/images/team/dan-mcclain.jpg'><h5 class='post__avatar__name'>Dan McClain</h5><h5 class='post__avatar__position headline--sub'>Partner &amp; Developer At DockYard
-</h5><nav class='post__avatar__social-links'><a target="_blank" class="post__avatar__social-link--twitter" data-icon="#" href="http://twitter.com/_danmcclain">_danmcclain</a><a target="_blank" class="post__avatar__social-link--github" data-icon="★" href="https://github.com/danmcclain">danmcclain</a></nav></div><div class='related-posts'><h3 class='related-posts__header headline--sub'>Other posts by Dan</h3><a class="related-post" href="/2015/06/08/a-clean-pattern-for-modal-dialogs.html"><h2 class='related-post__title'>A clean pattern for modal dialogs</h2><p>June 8<sup>th</sup>, 2015</p></a>
-<a class="related-post" href="/2015/05/29/announcing-voorhees.html"><h2 class='related-post__title'>Announcing Voorhees</h2><p>May 29<sup>th</sup>, 2015</p></a>
-<a class="related-posts-link text-link" href="/authors/dan-mcclain.html">See all 23 posts by Dan</a></div></div><p class='post__tags'><a class="post__tag" href="/categories/ruby.html">Ruby&nbsp;<span class='post__tag__count'>(49)</span></a> <a class="post__tag" href="/categories/ruby-on-rails.html">Ruby on Rails&nbsp;<span class='post__tag__count'>(37)</span></a> <a class="post__tag" href="/categories/postgresql.html">PostgreSQL&nbsp;<span class='post__tag__count'>(12)</span></a> <a class="post__tag" href="/categories/postgis.html">Postgis&nbsp;<span class='post__tag__count'>(1)</span></a> <a class="post__tag" href="/categories/postgres_ext.html">Postgres_ext&nbsp;<span class='post__tag__count'>(4)</span></a> <a class="post__tag" href="/categories/postgres_ext-postgis.html">Postgres_ext-postgis&nbsp;<span class='post__tag__count'>(1)</span></a></p><div id='disqus_thread'></div><script>
+</h5><nav class='post__avatar__social-links'><a target="_blank" class="post__avatar__social-link--twitter" data-icon="#" href="http://twitter.com/_danmcclain">_danmcclain</a><a target="_blank" class="post__avatar__social-link--github" data-icon="★" href="https://github.com/danmcclain">danmcclain</a></nav></div><div class='related-posts'><h3 class='related-posts__header headline--sub'>Other posts by Dan</h3><a class="related-post" href="/2015/05/29/announcing-voorhees.html"><h2 class='related-post__title'>Announcing Voorhees</h2><p>May 29<sup>th</sup>, 2015</p></a>
+<a class="related-post" href="/2015/03/25/testing-when-your-frontend-and-backend-are-separated.html"><h2 class='related-post__title'>Testing when your frontend and backend are separated</h2><p>March 25<sup>th</sup>, 2015</p></a>
+<a class="related-posts-link text-link" href="/authors/dan-mcclain.html">See all 23 posts by Dan</a></div></div><p class='post__tags'><a class="post__tag" href="/categories/ember.html">Ember.js&nbsp;<span class='post__tag__count'>(43)</span></a> <a class="post__tag" href="/categories/components.html">Components&nbsp;<span class='post__tag__count'>(1)</span></a></p><div id='disqus_thread'></div><script>
   var disqus_shortname = 'reefpoints';
   (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
