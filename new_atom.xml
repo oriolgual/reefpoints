@@ -13,7 +13,7 @@
     <link rel="alternate" href="https://dockyard.com/blog/2015/06/09/ux-camp-2015"/>
     <id>https://dockyard.com/blog/2015/06/09/ux-camp-2015</id>
     <published>2015-06-09T00:00:00Z</published>
-    <updated>2015-06-10T12:24:29-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -36,7 +36,7 @@
     <link rel="alternate" href="https://dockyard.com/blog/2015/06/08/a-clean-pattern-for-modal-dialogs"/>
     <id>https://dockyard.com/blog/2015/06/08/a-clean-pattern-for-modal-dialogs</id>
     <published>2015-06-08T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -132,7 +132,7 @@ whenever we have multiple modal dialogs.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/06/02/ember-crumbly"/>
     <id>https://dockyard.com/blog/2015/06/02/ember-crumbly</id>
     <published>2015-06-02T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Lauren Tan</name>
     </author>
@@ -640,7 +640,7 @@ const breadCrumbType = typeOf(breadCrumb);
     <link rel="alternate" href="https://dockyard.com/blog/2015/05/29/announcing-voorhees"/>
     <id>https://dockyard.com/blog/2015/05/29/announcing-voorhees</id>
     <published>2015-05-29T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -851,7 +851,7 @@ true
     <link rel="alternate" href="https://dockyard.com/blog/2015/05/22/begin-with-benchmarking"/>
     <id>https://dockyard.com/blog/2015/05/22/begin-with-benchmarking</id>
     <published>2015-05-22T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Ashley Treni</name>
     </author>
@@ -888,7 +888,7 @@ true
     <link rel="alternate" href="https://dockyard.com/blog/2015/05/21/sign-up-for-the-dockyard-newsletter"/>
     <id>https://dockyard.com/blog/2015/05/21/sign-up-for-the-dockyard-newsletter</id>
     <published>2015-05-21T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -906,7 +906,7 @@ newsletter.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/05/20/the-new-dockyard-dot-com"/>
     <id>https://dockyard.com/blog/2015/05/20/the-new-dockyard-dot-com</id>
     <published>2015-05-20T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -955,7 +955,7 @@ capabilities to date.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/04/20/ember-in-viewport"/>
     <id>https://dockyard.com/blog/2015/04/20/ember-in-viewport</id>
     <published>2015-04-20T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Lauren Tan</name>
     </author>
@@ -1545,7 +1545,7 @@ for the Mixin!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/04/10/the-beginners-fallacy"/>
     <id>https://dockyard.com/blog/2015/04/10/the-beginners-fallacy</id>
     <published>2015-04-10T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -1601,7 +1601,7 @@ a better (and more in demand) developer for it.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/04/09/the-importance-of-being-experience-first"/>
     <id>https://dockyard.com/blog/2015/04/09/the-importance-of-being-experience-first</id>
     <published>2015-04-09T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Lauren Tan</name>
     </author>
@@ -1720,7 +1720,7 @@ else who helped review this post.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/04/08/elixir-come-for-the-syntax-stay-for-everything-else"/>
     <id>https://dockyard.com/blog/2015/04/08/elixir-come-for-the-syntax-stay-for-everything-else</id>
     <published>2015-04-08T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -1839,7 +1839,7 @@ Book&lt;/a&gt;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/31/helping-our-engineers"/>
     <id>https://dockyard.com/blog/2015/03/31/helping-our-engineers</id>
     <published>2015-03-31T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Amanda Cheung</name>
     </author>
@@ -1985,7 +1985,7 @@ re-organizing the template!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/27/pluralize-your-words-with-ember-pluralize"/>
     <id>https://dockyard.com/blog/2015/03/27/pluralize-your-words-with-ember-pluralize</id>
     <published>2015-03-27T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Romina Vargas</name>
     </author>
@@ -2107,7 +2107,7 @@ word based on a given a count.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/26/bringing-ember-to-the-desktop-part"/>
     <id>https://dockyard.com/blog/2015/03/26/bringing-ember-to-the-desktop-part</id>
     <published>2015-03-26T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Estelle DeBlois</name>
     </author>
@@ -2346,7 +2346,7 @@ on this topic in the future!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/25/testing-when-your-frontend-and-backend-are-separated"/>
     <id>https://dockyard.com/blog/2015/03/25/testing-when-your-frontend-and-backend-are-separated</id>
     <published>2015-03-25T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -2476,7 +2476,7 @@ have separate repositories!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/24/rubyists-guide-to-ember-dependencies"/>
     <id>https://dockyard.com/blog/2015/03/24/rubyists-guide-to-ember-dependencies</id>
     <published>2015-03-24T00:00:00Z</published>
-    <updated>2015-03-24T13:38:32-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Michael Dupuis</name>
     </author>
@@ -2602,7 +2602,7 @@ Gemfile to working with the package managers JavaScript offers.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/23/beginner-mentality"/>
     <id>https://dockyard.com/blog/2015/03/23/beginner-mentality</id>
     <published>2015-03-23T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -2636,7 +2636,7 @@ Gemfile to working with the package managers JavaScript offers.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/22/tips-for-writing-ember-addons"/>
     <id>https://dockyard.com/blog/2015/03/22/tips-for-writing-ember-addons</id>
     <published>2015-03-22T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -2796,7 +2796,7 @@ in the comments below. &lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/19/lean-project-management"/>
     <id>https://dockyard.com/blog/2015/03/19/lean-project-management</id>
     <published>2015-03-19T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Jon Lacks</name>
     </author>
@@ -2851,7 +2851,7 @@ in the comments below. &lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/18/the-doldrums-of-consulting"/>
     <id>https://dockyard.com/blog/2015/03/18/the-doldrums-of-consulting</id>
     <published>2015-03-18T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -2906,7 +2906,7 @@ to avoid them in the future?&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/16/thriving-in-a-new-work-environment"/>
     <id>https://dockyard.com/blog/2015/03/16/thriving-in-a-new-work-environment</id>
     <published>2015-03-16T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Cory Tanner</name>
     </author>
@@ -2986,7 +2986,7 @@ class naming conventions and rules for Scalable and Modular Architecture for CSS
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/11/ask-good-questions"/>
     <id>https://dockyard.com/blog/2015/03/11/ask-good-questions</id>
     <published>2015-03-11T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -3028,7 +3028,7 @@ This question is so bad it&amp;#39;s grotesque, but it may still happen to novic
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/09/dockyard-is-now-accepting-staff-augmentation-ember-js-contracts"/>
     <id>https://dockyard.com/blog/2015/03/09/dockyard-is-now-accepting-staff-augmentation-ember-js-contracts</id>
     <published>2015-03-09T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -3055,7 +3055,7 @@ hit your delivery deadline.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/04/ember-conf"/>
     <id>https://dockyard.com/blog/2015/03/04/ember-conf</id>
     <published>2015-03-04T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Marin Abernethy</name>
     </author>
@@ -3548,7 +3548,7 @@ hit your delivery deadline.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/03/03/ember-conf"/>
     <id>https://dockyard.com/blog/2015/03/03/ember-conf</id>
     <published>2015-03-03T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Marin Abernethy</name>
     </author>
@@ -4059,7 +4059,7 @@ hit your delivery deadline.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/24/rubyists-guide-to-executing-javascript"/>
     <id>https://dockyard.com/blog/2015/02/24/rubyists-guide-to-executing-javascript</id>
     <published>2015-02-24T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Michael Dupuis</name>
     </author>
@@ -4128,7 +4128,7 @@ during compilation, which is just the process of translating one language to ano
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/12/automating-reefpoints"/>
     <id>https://dockyard.com/blog/2015/02/12/automating-reefpoints</id>
     <published>2015-02-12T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -4240,7 +4240,7 @@ request is merged.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/11/managing-the-conversation"/>
     <id>https://dockyard.com/blog/2015/02/11/managing-the-conversation</id>
     <published>2015-02-11T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -4304,7 +4304,7 @@ request is merged.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/06/ember-qunit-0-2"/>
     <id>https://dockyard.com/blog/2015/02/06/ember-qunit-0-2</id>
     <published>2015-02-06T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Robert Jackson</name>
     </author>
@@ -4561,7 +4561,7 @@ test(&lt;span class="string"&gt;&lt;span class="delimiter"&gt;'&lt;/span&gt;&lt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/04/vim-jump-jump-jump"/>
     <id>https://dockyard.com/blog/2015/02/04/vim-jump-jump-jump</id>
     <published>2015-02-04T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -4757,7 +4757,7 @@ and flying to different files with jumps, my workflow has greatly improved.&lt;/
     <link rel="alternate" href="https://dockyard.com/blog/2015/02/02/debugging-a-broccoli-tree"/>
     <id>https://dockyard.com/blog/2015/02/02/debugging-a-broccoli-tree</id>
     <published>2015-02-02T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Robert Jackson</name>
     </author>
@@ -4912,7 +4912,7 @@ module.exports = transpiledTree;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/30/why-i-am-disappointed-in-react-native"/>
     <id>https://dockyard.com/blog/2015/01/30/why-i-am-disappointed-in-react-native</id>
     <published>2015-01-30T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -4990,7 +4990,7 @@ Native doesn&amp;#39;t impede that progress in any way.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/30/empowering-through-design"/>
     <id>https://dockyard.com/blog/2015/01/30/empowering-through-design</id>
     <published>2015-01-30T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Ashley Treni</name>
     </author>
@@ -5017,7 +5017,7 @@ Native doesn&amp;#39;t impede that progress in any way.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/28/estimation-buyers-guide"/>
     <id>https://dockyard.com/blog/2015/01/28/estimation-buyers-guide</id>
     <published>2015-01-28T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Jon Lacks</name>
     </author>
@@ -5051,7 +5051,7 @@ Native doesn&amp;#39;t impede that progress in any way.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/28/bubbling-actions-through-components"/>
     <id>https://dockyard.com/blog/2015/01/28/bubbling-actions-through-components</id>
     <published>2015-01-28T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -5190,7 +5190,7 @@ tie all your pieces together.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/20/is-your-homepage-as-good-as-your-door-sign"/>
     <id>https://dockyard.com/blog/2015/01/20/is-your-homepage-as-good-as-your-door-sign</id>
     <published>2015-01-20T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -5370,7 +5370,7 @@ tie all your pieces together.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/16/joining-dockyard"/>
     <id>https://dockyard.com/blog/2015/01/16/joining-dockyard</id>
     <published>2015-01-16T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Estelle DeBlois</name>
     </author>
@@ -5473,7 +5473,7 @@ something promising, yet unknown. You may be pleasantly surprised.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/14/sr-ui-designer"/>
     <id>https://dockyard.com/blog/2015/01/14/sr-ui-designer</id>
     <published>2015-01-14T00:00:00Z</published>
-    <updated>2015-01-14T10:59:40-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -5502,7 +5502,7 @@ something promising, yet unknown. You may be pleasantly surprised.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/14/check-your-expectations"/>
     <id>https://dockyard.com/blog/2015/01/14/check-your-expectations</id>
     <published>2015-01-14T00:00:00Z</published>
-    <updated>2015-01-13T13:41:22-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -5536,7 +5536,7 @@ something promising, yet unknown. You may be pleasantly surprised.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/13/should-we-consider"/>
     <id>https://dockyard.com/blog/2015/01/13/should-we-consider</id>
     <published>2015-01-13T00:00:00Z</published>
-    <updated>2015-01-13T13:36:20-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -5576,7 +5576,7 @@ something promising, yet unknown. You may be pleasantly surprised.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/13/book-design-and-the-web"/>
     <id>https://dockyard.com/blog/2015/01/13/book-design-and-the-web</id>
     <published>2015-01-13T00:00:00Z</published>
-    <updated>2015-01-13T13:41:22-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -5618,7 +5618,7 @@ something promising, yet unknown. You may be pleasantly surprised.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/11/why-is-google-ignoring-over-400000-backlinks"/>
     <id>https://dockyard.com/blog/2015/01/11/why-is-google-ignoring-over-400000-backlinks</id>
     <published>2015-01-11T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -5694,7 +5694,7 @@ appreciate any thoughts in the comments.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember"/>
     <id>https://dockyard.com/blog/2015/01/07/complex-search-pages-feel-better-in-ember</id>
     <published>2015-01-07T00:00:00Z</published>
-    <updated>2015-03-02T17:05:52-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -5829,7 +5829,7 @@ conversions, and Ember can provide a faster, more intuitive experience.&lt;/p&gt
     <link rel="alternate" href="https://dockyard.com/blog/2015/01/05/avoid-chaining-modifiers"/>
     <id>https://dockyard.com/blog/2015/01/05/avoid-chaining-modifiers</id>
     <published>2015-01-05T00:00:00Z</published>
-    <updated>2015-01-12T19:41:55-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Amanda Cheung</name>
     </author>
@@ -5874,7 +5874,7 @@ chaining modifiers can be confusing.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/12/30/modeling-mental-models"/>
     <id>https://dockyard.com/blog/2014/12/30/modeling-mental-models</id>
     <published>2014-12-30T00:00:00Z</published>
-    <updated>2014-12-30T15:08:38-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -5932,7 +5932,7 @@ chaining modifiers can be confusing.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/12/28/lessons-learned-three-years-running-a-software-consultancy"/>
     <id>https://dockyard.com/blog/2014/12/28/lessons-learned-three-years-running-a-software-consultancy</id>
     <published>2014-12-28T00:00:00Z</published>
-    <updated>2015-01-12T19:41:55-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -6373,7 +6373,7 @@ other&amp;#39;s experiences as well in the comments.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists"/>
     <id>https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists</id>
     <published>2014-12-26T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -6526,7 +6526,7 @@ information.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/12/12/importance-of-process"/>
     <id>https://dockyard.com/blog/2014/12/12/importance-of-process</id>
     <published>2014-12-12T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Paul Webb</name>
     </author>
@@ -6564,7 +6564,7 @@ completely dismissing it.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/30/htmlbars_calling_all_testers"/>
     <id>https://dockyard.com/blog/2014/11/30/htmlbars_calling_all_testers</id>
     <published>2014-11-30T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Robert Jackson</name>
     </author>
@@ -6652,7 +6652,7 @@ testing on those edge-case platforms today will help us resolve issues in time f
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/28/ember-wish-list"/>
     <id>https://dockyard.com/blog/2014/11/28/ember-wish-list</id>
     <published>2014-11-28T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -6825,7 +6825,7 @@ Ember. Here&amp;#39;s to hoping that 2015 will see a more lean Tomster.&lt;/p&gt
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/18/we-did-it"/>
     <id>https://dockyard.com/blog/2014/11/18/we-did-it</id>
     <published>2014-11-18T00:00:00Z</published>
-    <updated>2014-11-18T14:03:12-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -6846,7 +6846,7 @@ Ember. Here&amp;#39;s to hoping that 2015 will see a more lean Tomster.&lt;/p&gt
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/18/rubygems-redesign"/>
     <id>https://dockyard.com/blog/2014/11/18/rubygems-redesign</id>
     <published>2014-11-18T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -6880,7 +6880,7 @@ enjoys the new look!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/12/bring-to-ux-east"/>
     <id>https://dockyard.com/blog/2014/11/12/bring-to-ux-east</id>
     <published>2014-11-12T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -6927,7 +6927,7 @@ enjoys the new look!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/11/07/pitch-this"/>
     <id>https://dockyard.com/blog/2014/11/07/pitch-this</id>
     <published>2014-11-07T00:00:00Z</published>
-    <updated>2014-11-12T18:39:05-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -7014,7 +7014,7 @@ here.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/10/30/motivation-vs-discipline"/>
     <id>https://dockyard.com/blog/2014/10/30/motivation-vs-discipline</id>
     <published>2014-10-30T00:00:00Z</published>
-    <updated>2014-11-12T18:39:05-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -7063,7 +7063,7 @@ decision they&amp;#39;re going to wade through the muck to get what they want.&l
     <link rel="alternate" href="https://dockyard.com/blog/2014/10/24/kss-your-styleguide"/>
     <id>https://dockyard.com/blog/2014/10/24/kss-your-styleguide</id>
     <published>2014-10-24T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Christopher Plummer</name>
     </author>
@@ -7226,7 +7226,7 @@ decision they&amp;#39;re going to wade through the muck to get what they want.&l
     <link rel="alternate" href="https://dockyard.com/blog/2014/09/24/announcing-ux-east-camp"/>
     <id>https://dockyard.com/blog/2014/09/24/announcing-ux-east-camp</id>
     <published>2014-09-24T00:00:00Z</published>
-    <updated>2014-11-18T12:46:26-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -7247,7 +7247,7 @@ decision they&amp;#39;re going to wade through the muck to get what they want.&l
     <link rel="alternate" href="https://dockyard.com/blog/2014/09/22/javascript-performance-for-the-win"/>
     <id>https://dockyard.com/blog/2014/09/22/javascript-performance-for-the-win</id>
     <published>2014-09-22T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Alex Navasardyan</name>
     </author>
@@ -7555,7 +7555,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/09/19/building-quality-into-our-projects"/>
     <id>https://dockyard.com/blog/2014/09/19/building-quality-into-our-projects</id>
     <published>2014-09-19T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Jon Lacks</name>
     </author>
@@ -7619,7 +7619,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/09/12/features-as-business-objectives"/>
     <id>https://dockyard.com/blog/2014/09/12/features-as-business-objectives</id>
     <published>2014-09-12T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Michael Dupuis</name>
     </author>
@@ -7665,7 +7665,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/09/11/fear-of-failure"/>
     <id>https://dockyard.com/blog/2014/09/11/fear-of-failure</id>
     <published>2014-09-11T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Logan Faerber</name>
     </author>
@@ -7688,7 +7688,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/08/25/design-and-big-data"/>
     <id>https://dockyard.com/blog/2014/08/25/design-and-big-data</id>
     <published>2014-08-25T00:00:00Z</published>
-    <updated>2014-09-19T13:56:59-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Ashley Treni</name>
     </author>
@@ -7715,7 +7715,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/08/22/design-an-experience"/>
     <id>https://dockyard.com/blog/2014/08/22/design-an-experience</id>
     <published>2014-08-22T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Tim Walsh</name>
     </author>
@@ -7736,7 +7736,7 @@ to parameter in arguments object&amp;quot;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/08/06/the-most-difficult-position-to-hire-for-in-tech-right-now"/>
     <id>https://dockyard.com/blog/2014/08/06/the-most-difficult-position-to-hire-for-in-tech-right-now</id>
     <published>2014-08-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -7785,7 +7785,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/07/29/project-carpe-diem"/>
     <id>https://dockyard.com/blog/2014/07/29/project-carpe-diem</id>
     <published>2014-07-29T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Jon Lacks</name>
     </author>
@@ -7831,7 +7831,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/07/25/on-selling-ux"/>
     <id>https://dockyard.com/blog/2014/07/25/on-selling-ux</id>
     <published>2014-07-25T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -7878,7 +7878,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/07/23/repeat-patterns"/>
     <id>https://dockyard.com/blog/2014/07/23/repeat-patterns</id>
     <published>2014-07-23T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -7925,7 +7925,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/07/18/facebook-experimentation"/>
     <id>https://dockyard.com/blog/2014/07/18/facebook-experimentation</id>
     <published>2014-07-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -7962,7 +7962,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/07/18/design-as-conversation"/>
     <id>https://dockyard.com/blog/2014/07/18/design-as-conversation</id>
     <published>2014-07-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Ashley Treni</name>
     </author>
@@ -7987,7 +7987,7 @@ growing field? I&amp;#39;d like to hear from some people.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code"/>
     <id>https://dockyard.com/blog/2014/06/27/ember-macros-for-DRY-and-testable-code</id>
     <published>2014-06-27T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Lin Reid</name>
     </author>
@@ -8757,7 +8757,7 @@ community!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/24/introducing_ember_cli_addons"/>
     <id>https://dockyard.com/blog/2014/06/24/introducing_ember_cli_addons</id>
     <published>2014-06-24T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Robert Jackson</name>
     </author>
@@ -8840,7 +8840,7 @@ community!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/23/kapow-using-framer"/>
     <id>https://dockyard.com/blog/2014/06/23/kapow-using-framer</id>
     <published>2014-06-23T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -8871,7 +8871,7 @@ community!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/23/goodbye-heroku"/>
     <id>https://dockyard.com/blog/2014/06/23/goodbye-heroku</id>
     <published>2014-06-23T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -8943,7 +8943,7 @@ service.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/21/making-the-diy-badges"/>
     <id>https://dockyard.com/blog/2014/06/21/making-the-diy-badges</id>
     <published>2014-06-21T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -9016,7 +9016,7 @@ Next time around we can also experiment with other paper types and have the pape
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/15/swift-and-javascript"/>
     <id>https://dockyard.com/blog/2014/06/15/swift-and-javascript</id>
     <published>2014-06-15T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Alex Navasardyan</name>
     </author>
@@ -9348,7 +9348,7 @@ quite a bit without damaging the power of the language. I feel like it looks rea
     <link rel="alternate" href="https://dockyard.com/blog/2014/06/06/process-paradox"/>
     <id>https://dockyard.com/blog/2014/06/06/process-paradox</id>
     <published>2014-06-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Jon Lacks</name>
     </author>
@@ -9373,7 +9373,7 @@ quite a bit without damaging the power of the language. I feel like it looks rea
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/31/building-an-ember-app-with-rails-part-4"/>
     <id>https://dockyard.com/blog/2014/05/31/building-an-ember-app-with-rails-part-4</id>
     <published>2014-05-31T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -9778,7 +9778,7 @@ part&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql"/>
     <id>https://dockyard.com/blog/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql</id>
     <published>2014-05-27T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -10358,7 +10358,7 @@ Rails when generating API responses.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/09/building-an-ember-app-with-rails-part-3"/>
     <id>https://dockyard.com/blog/2014/05/09/building-an-ember-app-with-rails-part-3</id>
     <published>2014-05-09T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -10943,7 +10943,7 @@ part&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/08/building-an-ember-app-with-rails-part-2"/>
     <id>https://dockyard.com/blog/2014/05/08/building-an-ember-app-with-rails-part-2</id>
     <published>2014-05-08T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11065,7 +11065,7 @@ part&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/07/building-an-ember-app-with-rails-part-1"/>
     <id>https://dockyard.com/blog/2014/05/07/building-an-ember-app-with-rails-part-1</id>
     <published>2014-05-07T00:00:00Z</published>
-    <updated>2015-03-22T14:34:07-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11277,7 +11277,7 @@ part&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/06/the-other-thing-dhh-mentioned"/>
     <id>https://dockyard.com/blog/2014/05/06/the-other-thing-dhh-mentioned</id>
     <published>2014-05-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11339,7 +11339,7 @@ microphone say you should.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/05/preserve-scroll-position-in-ember-apps"/>
     <id>https://dockyard.com/blog/2014/05/05/preserve-scroll-position-in-ember-apps</id>
     <published>2014-05-05T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11440,7 +11440,7 @@ the following mixin:&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/04/stop-using-ember-appkit-rails"/>
     <id>https://dockyard.com/blog/2014/05/04/stop-using-ember-appkit-rails</id>
     <published>2014-05-04T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11480,7 +11480,7 @@ We actually sunset the gem about 2 months ago.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/03/guarding-with-arrays"/>
     <id>https://dockyard.com/blog/2014/05/03/guarding-with-arrays</id>
     <published>2014-05-03T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11588,7 +11588,7 @@ an actual name for this. If you do please share!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/02/what-is-holding-up-uniqueness-validator"/>
     <id>https://dockyard.com/blog/2014/05/02/what-is-holding-up-uniqueness-validator</id>
     <published>2014-05-02T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11653,7 +11653,7 @@ few months from now.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/05/01/alert-messages-in-ember-apps"/>
     <id>https://dockyard.com/blog/2014/05/01/alert-messages-in-ember-apps</id>
     <published>2014-05-01T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11727,7 +11727,7 @@ css opacity transition completes. Browser support may vary.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/30/understanding-validation-graphs"/>
     <id>https://dockyard.com/blog/2014/04/30/understanding-validation-graphs</id>
     <published>2014-04-30T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -11873,7 +11873,7 @@ can see the &lt;code&gt;isValid&lt;/code&gt; states bubbling up to the original 
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/29/the-problem-with-server-rendered-errors"/>
     <id>https://dockyard.com/blog/2014/04/29/the-problem-with-server-rendered-errors</id>
     <published>2014-04-29T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -12001,7 +12001,7 @@ direction for this. Please feel free to comment below.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/28/first-few-months"/>
     <id>https://dockyard.com/blog/2014/04/28/first-few-months</id>
     <published>2014-04-28T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Maria Matveeva</name>
     </author>
@@ -12044,7 +12044,7 @@ direction for this. Please feel free to comment below.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/28/dont-override-init"/>
     <id>https://dockyard.com/blog/2014/04/28/dont-override-init</id>
     <published>2014-04-28T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -12115,7 +12115,7 @@ behavior of the object.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/25/ryo-takemasa"/>
     <id>https://dockyard.com/blog/2014/04/25/ryo-takemasa</id>
     <published>2014-04-25T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Logan Faerber</name>
     </author>
@@ -12142,7 +12142,7 @@ behavior of the object.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/17/ember-object-self-troll"/>
     <id>https://dockyard.com/blog/2014/04/17/ember-object-self-troll</id>
     <published>2014-04-17T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Alex Navasardyan</name>
     </author>
@@ -12333,7 +12333,7 @@ its own implementation of &lt;code&gt;setWeeks&lt;/code&gt;:&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/10/vim-on-your-mark"/>
     <id>https://dockyard.com/blog/2014/04/10/vim-on-your-mark</id>
     <published>2014-04-10T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -12556,7 +12556,7 @@ you&amp;#39;d like to learn more check the docs.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/04/04/design-within-the-browser"/>
     <id>https://dockyard.com/blog/2014/04/04/design-within-the-browser</id>
     <published>2014-04-04T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Steven Trevathan</name>
     </author>
@@ -12607,7 +12607,7 @@ you&amp;#39;d like to learn more check the docs.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/03/30/magic_behind_es6_generators"/>
     <id>https://dockyard.com/blog/2014/03/30/magic_behind_es6_generators</id>
     <published>2014-03-30T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Alex Navasardyan</name>
     </author>
@@ -12781,7 +12781,7 @@ years from now, we all will be writing code using generators (hopefully).&lt;/p&
     <link rel="alternate" href="https://dockyard.com/blog/2014/03/17/emberconf-picks-ups-where-the-rails-community-left-off"/>
     <id>https://dockyard.com/blog/2014/03/17/emberconf-picks-ups-where-the-rails-community-left-off</id>
     <published>2014-03-17T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -12930,7 +12930,7 @@ charset="utf-8"&gt;&lt;/script&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/03/03/using-database-templates"/>
     <id>https://dockyard.com/blog/2014/03/03/using-database-templates</id>
     <published>2014-03-03T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Romina Vargas</name>
     </author>
@@ -13032,7 +13032,7 @@ that, we can now modify our &lt;code&gt;config/database.yml&lt;/code&gt;.&lt;/p&
     <link rel="alternate" href="https://dockyard.com/blog/2014/03/03/a-simple-ember-data-route"/>
     <id>https://dockyard.com/blog/2014/03/03/a-simple-ember-data-route</id>
     <published>2014-03-03T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13091,7 +13091,7 @@ the app will guard against the transition and allow the user to confirm with a n
     <link rel="alternate" href="https://dockyard.com/blog/2014/02/07/native-app-developers-we-can-help-you"/>
     <id>https://dockyard.com/blog/2014/02/07/native-app-developers-we-can-help-you</id>
     <published>2014-02-07T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -13124,7 +13124,7 @@ us&lt;/a&gt;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/02/07/announcing-postgres_ext-postgis"/>
     <id>https://dockyard.com/blog/2014/02/07/announcing-postgres_ext-postgis</id>
     <published>2014-02-07T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -13200,7 +13200,7 @@ added. Stay tuned!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/02/04/ember-conf-ember-for-rails-devs"/>
     <id>https://dockyard.com/blog/2014/02/04/ember-conf-ember-for-rails-devs</id>
     <published>2014-02-04T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13267,7 +13267,7 @@ Kit&lt;/a&gt; for the Rails Asset Pipeline.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/01/02/romina-vargas-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/2014/01/02/romina-vargas-is-a-dockyarder</id>
     <published>2014-01-02T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13289,7 +13289,7 @@ Time&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/01/02/robert-jackson-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/2014/01/02/robert-jackson-is-a-dockyarder</id>
     <published>2014-01-02T00:00:00Z</published>
-    <updated>2014-12-28T15:56:14-05:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13310,7 +13310,7 @@ open source Ember projects over the past few months.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2014/01/02/lin-reid-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/2014/01/02/lin-reid-is-a-dockyarder</id>
     <published>2014-01-02T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13333,7 +13333,7 @@ developer horizons with Ember over the past few months. He is also the
     <link rel="alternate" href="https://dockyard.com/blog/2013/12/22/lessons-learned-two-years-of-running-a-dockyard"/>
     <id>https://dockyard.com/blog/2013/12/22/lessons-learned-two-years-of-running-a-dockyard</id>
     <published>2013-12-22T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13853,7 +13853,7 @@ decisions we&amp;#39;ve made.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/12/19/ember-enum-property-cycler"/>
     <id>https://dockyard.com/blog/2013/12/19/ember-enum-property-cycler</id>
     <published>2013-12-19T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -13879,7 +13879,7 @@ src="http://static.jsbin.com/js/embed.js"&gt;&lt;/script&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/12/18/be-a-blunt-axe"/>
     <id>https://dockyard.com/blog/2013/12/18/be-a-blunt-axe</id>
     <published>2013-12-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Logan Faerber</name>
     </author>
@@ -13898,7 +13898,7 @@ src="http://static.jsbin.com/js/embed.js"&gt;&lt;/script&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/12/08/introducing-easydir-vim"/>
     <id>https://dockyard.com/blog/2013/12/08/introducing-easydir-vim</id>
     <published>2013-12-08T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -13989,7 +13989,7 @@ difficult to write something up.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/12/06/always-be-exploring"/>
     <id>https://dockyard.com/blog/2013/12/06/always-be-exploring</id>
     <published>2013-12-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Logan Faerber</name>
     </author>
@@ -14014,7 +14014,7 @@ difficult to write something up.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/11/27/vim-windows"/>
     <id>https://dockyard.com/blog/2013/11/27/vim-windows</id>
     <published>2013-11-27T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -14256,7 +14256,7 @@ your workflow will prove pretty helpful. Thanks for reading!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/11/15/think"/>
     <id>https://dockyard.com/blog/2013/11/15/think</id>
     <published>2013-11-15T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -14380,7 +14380,7 @@ benefits, not just the benefits that everyone is touting.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/11/11/capybara-extensions"/>
     <id>https://dockyard.com/blog/2013/11/11/capybara-extensions</id>
     <published>2013-11-11T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Michael Dupuis</name>
     </author>
@@ -14669,7 +14669,7 @@ from a search engine optimization standpoint.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/11/05/design-patterns-command-pattern"/>
     <id>https://dockyard.com/blog/2013/11/05/design-patterns-command-pattern</id>
     <published>2013-11-05T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -15027,7 +15027,7 @@ execution.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/10/22/vim-buffers"/>
     <id>https://dockyard.com/blog/2013/10/22/vim-buffers</id>
     <published>2013-10-22T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -15254,7 +15254,7 @@ comment in the discussion area. Thanks!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/10/06/namespaced-pages"/>
     <id>https://dockyard.com/blog/2013/10/06/namespaced-pages</id>
     <published>2013-10-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -15294,7 +15294,7 @@ name of serving up static page goodness!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/10/01/design-patterns-composite-pattern"/>
     <id>https://dockyard.com/blog/2013/10/01/design-patterns-composite-pattern</id>
     <published>2013-10-01T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -15672,7 +15672,7 @@ Ultimately, our coffee makers are able to treat each step,
     <link rel="alternate" href="https://dockyard.com/blog/2013/09/26/vim-moving-lines-aint-hard"/>
     <id>https://dockyard.com/blog/2013/09/26/vim-moving-lines-aint-hard</id>
     <published>2013-09-26T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -15873,7 +15873,7 @@ share, please let me know!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/09/11/vim-staying-on-home-row-via-map"/>
     <id>https://dockyard.com/blog/2013/09/11/vim-staying-on-home-row-via-map</id>
     <published>2013-09-11T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -16105,7 +16105,7 @@ comments! Thanks!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/09/06/postgres_ext-adds-rank-and-common-table-expressions"/>
     <id>https://dockyard.com/blog/2013/09/06/postgres_ext-adds-rank-and-common-table-expressions</id>
     <published>2013-09-06T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -16305,7 +16305,7 @@ add the others shortly.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/09/04/computed_properties_in_ember_js"/>
     <id>https://dockyard.com/blog/2013/09/04/computed_properties_in_ember_js</id>
     <published>2013-09-04T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Alex Navasardyan</name>
     </author>
@@ -16560,7 +16560,7 @@ Happy Coding!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/09/04/alex-navasardyan-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/09/04/alex-navasardyan-is-a-dockyarder</id>
     <published>2013-09-04T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -16584,7 +16584,7 @@ we&amp;#39;re well on our way to building out one of the best teams around.&lt;/
     <link rel="alternate" href="https://dockyard.com/blog/2013/08/23/announcing-postgres_ext-version-1-0-and-2-0"/>
     <id>https://dockyard.com/blog/2013/08/23/announcing-postgres_ext-version-1-0-and-2-0</id>
     <published>2013-08-23T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -16620,7 +16620,7 @@ but pull requests for bug fixes would be graciously accepted.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/08/20/design-patterns-observer-pattern"/>
     <id>https://dockyard.com/blog/2013/08/20/design-patterns-observer-pattern</id>
     <published>2013-08-20T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -16999,7 +16999,7 @@ informs the &lt;em&gt;observers&lt;/em&gt; of what is going on with the &lt;em&g
     <link rel="alternate" href="https://dockyard.com/blog/2013/08/05/testing-context-validations"/>
     <id>https://dockyard.com/blog/2013/08/05/testing-context-validations</id>
     <published>2013-08-05T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -17211,7 +17211,7 @@ us know!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/07/29/putting-things-next-to-things-with-susy"/>
     <id>https://dockyard.com/blog/2013/07/29/putting-things-next-to-things-with-susy</id>
     <published>2013-07-29T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Angelo Simeoni</name>
     </author>
@@ -17306,7 +17306,7 @@ us know!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/2013/07/25/design-patterns-strategy-pattern"/>
     <id>https://dockyard.com/blog/2013/07/25/design-patterns-strategy-pattern</id>
     <published>2013-07-25T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -17600,7 +17600,7 @@ example.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/07/10/design-patterns-template-pattern"/>
     <id>https://dockyard.com/blog/ruby/2013/07/10/design-patterns-template-pattern</id>
     <published>2013-07-10T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Doug Yun</name>
     </author>
@@ -18016,7 +18016,7 @@ helps keep our code clean by the use of inheritance.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/office/2013/07/09/first-month-at-dockyard"/>
     <id>https://dockyard.com/blog/office/2013/07/09/first-month-at-dockyard</id>
     <published>2013-07-09T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Marin Abernethy</name>
     </author>
@@ -18062,7 +18062,7 @@ thoroughly look forward to the rest of the summer.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/07/08/steven-trevathan-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/07/08/steven-trevathan-is-a-dockyarder</id>
     <published>2013-07-08T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18088,7 +18088,7 @@ together a formal concept design process for us.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/07/08/logan-faerber-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/07/08/logan-faerber-is-a-dockyarder</id>
     <published>2013-07-08T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18113,7 +18113,7 @@ are excited to have his unique talents at DockYard.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/07/08/dockyard-acquires-dobot"/>
     <id>https://dockyard.com/blog/announcement/2013/07/08/dockyard-acquires-dobot</id>
     <published>2013-07-08T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18137,7 +18137,7 @@ Faerber&lt;/a&gt;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/07/01/sean-hussey-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/07/01/sean-hussey-is-a-dockyarder</id>
     <published>2013-07-01T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18156,7 +18156,7 @@ level Ruby experience to our team.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/06/28/introducing-destroyed_at"/>
     <id>https://dockyard.com/blog/ruby/2013/06/28/introducing-destroyed_at</id>
     <published>2013-06-28T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Michael Dupuis</name>
     </author>
@@ -18190,7 +18190,7 @@ GitHub page&lt;/a&gt; .&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/06/19/michael-dupuis-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/06/19/michael-dupuis-is-a-dockyarder</id>
     <published>2013-06-19T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18207,7 +18207,7 @@ some design chops. Welcome Mike!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/06/19/marin-abernethy-is-a-dockyarder"/>
     <id>https://dockyard.com/blog/announcement/2013/06/19/marin-abernethy-is-a-dockyarder</id>
     <published>2013-06-19T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18224,7 +18224,7 @@ remainder of the summer.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/05/09/tildes-ember-training"/>
     <id>https://dockyard.com/blog/ember/2013/05/09/tildes-ember-training</id>
     <published>2013-05-09T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -18299,7 +18299,7 @@ any upcoming side projects, to really explore it further. &lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/05/09/context-validations"/>
     <id>https://dockyard.com/blog/ruby/2013/05/09/context-validations</id>
     <published>2013-05-09T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18534,7 +18534,7 @@ now I am happy with the direction.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/design/2013/04/26/thoughts-on-designing-responsive-websites"/>
     <id>https://dockyard.com/blog/design/2013/04/26/thoughts-on-designing-responsive-websites</id>
     <published>2013-04-26T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Amanda Cheung</name>
     </author>
@@ -18561,7 +18561,7 @@ now I am happy with the direction.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/04/04/we-are-hiring-for-an-emberjs-dev"/>
     <id>https://dockyard.com/blog/ruby/2013/04/04/we-are-hiring-for-an-emberjs-dev</id>
     <published>2013-04-04T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18608,7 +18608,7 @@ fulltime Ember.js developer.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/03/29/running-postgresql-9-2-on-travis-ci"/>
     <id>https://dockyard.com/blog/ruby/2013/03/29/running-postgresql-9-2-on-travis-ci</id>
     <published>2013-03-29T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -18734,7 +18734,7 @@ to postgres&lt;em&gt;ext, which was added in 9.2. You should be able use this
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/03/27/body-class-tags-in-ember"/>
     <id>https://dockyard.com/blog/ember/2013/03/27/body-class-tags-in-ember</id>
     <published>2013-03-27T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18785,7 +18785,7 @@ building an Ember app and this is how I got it working:&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/03/26/concurrent-indexes-in-postgresql-for-rails-4-and-postgres_ext"/>
     <id>https://dockyard.com/blog/ruby/2013/03/26/concurrent-indexes-in-postgresql-for-rails-4-and-postgres_ext</id>
     <published>2013-03-26T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -18830,7 +18830,7 @@ issues, &lt;a href="https://github.com/dockyard/postgres_ext/issue"&gt;open an i
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/03/25/igata"/>
     <id>https://dockyard.com/blog/ruby/2013/03/25/igata</id>
     <published>2013-03-25T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18909,7 +18909,7 @@ well.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/03/21/capybara-and-unique-labels"/>
     <id>https://dockyard.com/blog/ember/2013/03/21/capybara-and-unique-labels</id>
     <published>2013-03-21T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -18982,7 +18982,7 @@ following code into your &lt;code&gt;test_helper.rb&lt;/code&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/announcement/2013/03/19/mike-sager-joins-dockyard"/>
     <id>https://dockyard.com/blog/announcement/2013/03/19/mike-sager-joins-dockyard</id>
     <published>2013-03-19T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -19010,7 +19010,7 @@ in politics. &lt;a href="mailto:contact@dockyard.com"&gt;Join us!&lt;/a&gt;&lt;/
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/02/21/ember-easy-form"/>
     <id>https://dockyard.com/blog/ember/2013/02/21/ember-easy-form</id>
     <published>2013-02-21T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -19156,7 +19156,7 @@ idea in the issues for this project on GitHub&lt;/a&gt;&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/01/10/building-an-ember-app-with-rails-api-part-3"/>
     <id>https://dockyard.com/blog/ember/2013/01/10/building-an-ember-app-with-rails-api-part-3</id>
     <published>2013-01-10T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -19663,7 +19663,7 @@ buttonTitle: 'Update'
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/01/09/building-an-ember-app-with-rails-api-part-2"/>
     <id>https://dockyard.com/blog/ember/2013/01/09/building-an-ember-app-with-rails-api-part-2</id>
     <published>2013-01-09T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -20090,7 +20090,7 @@ App.UsersRoute = Ember.Route.extend
     <link rel="alternate" href="https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1"/>
     <id>https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1</id>
     <published>2013-01-07T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -20473,7 +20473,7 @@ rails-api g serializer User
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2013/01/04/dismissible_helpers-released"/>
     <id>https://dockyard.com/blog/ruby/2013/01/04/dismissible_helpers-released</id>
     <published>2013-01-04T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -20665,7 +20665,7 @@ to your model:&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/politics/2013/01/03/integration-is-hard"/>
     <id>https://dockyard.com/blog/politics/2013/01/03/integration-is-hard</id>
     <published>2013-01-03T00:00:00Z</published>
-    <updated>2015-06-09T09:09:46-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Chris Gill</name>
     </author>
@@ -20760,7 +20760,7 @@ easy&lt;/a&gt;.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/community/2012/10/26/openhack-boston"/>
     <id>https://dockyard.com/blog/community/2012/10/26/openhack-boston</id>
     <published>2012-10-26T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -20791,7 +20791,7 @@ announcements.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/design/2012/10/11/expanding-the-yard"/>
     <id>https://dockyard.com/blog/design/2012/10/11/expanding-the-yard</id>
     <published>2012-10-11T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Angelo Simeoni</name>
     </author>
@@ -20833,7 +20833,7 @@ announcements.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/10/09/client-side-validations-3-2-released"/>
     <id>https://dockyard.com/blog/ruby/2012/10/09/client-side-validations-3-2-released</id>
     <published>2012-10-09T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -20972,7 +20972,7 @@ removed. Please add &lt;code&gt;ClientSideValidations::Config.disabled_validator
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/09/21/querying-postgresql-datatypes-in-active-record-with-postgres_ext"/>
     <id>https://dockyard.com/blog/ruby/2012/09/21/querying-postgresql-datatypes-in-active-record-with-postgres_ext</id>
     <published>2012-09-21T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -21150,7 +21150,7 @@ Github&lt;/a&gt;!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/design/2012/09/20/making-of-the-dockyard-narwin"/>
     <id>https://dockyard.com/blog/design/2012/09/20/making-of-the-dockyard-narwin</id>
     <published>2012-09-20T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Amanda Cheung</name>
     </author>
@@ -21169,7 +21169,7 @@ Github&lt;/a&gt;!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/09/18/rails-4-sneak-peek-postgresql-array-support"/>
     <id>https://dockyard.com/blog/ruby/2012/09/18/rails-4-sneak-peek-postgresql-array-support</id>
     <published>2012-09-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -21355,7 +21355,7 @@ postgres_ext and Rails 4.0. Go forth and use arrays in Rails 4.0!&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/opinion/2012/08/30/lessons-learned-the-first-hire"/>
     <id>https://dockyard.com/blog/opinion/2012/08/30/lessons-learned-the-first-hire</id>
     <published>2012-08-30T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -21521,7 +21521,7 @@ perspective, or any general advice I&amp;#39;d love to hear it.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/06/26/rails-4-sneak-peek-async-actionmailer"/>
     <id>https://dockyard.com/blog/ruby/2012/06/26/rails-4-sneak-peek-async-actionmailer</id>
     <published>2012-06-26T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -21624,7 +21624,7 @@ Plante&lt;/a&gt;&amp;#39;s
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/06/25/rails-4-sneak-peek-queueing"/>
     <id>https://dockyard.com/blog/ruby/2012/06/25/rails-4-sneak-peek-queueing</id>
     <published>2012-06-25T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -21891,7 +21891,7 @@ versioned as &amp;#39;beta&amp;#39;. This API could change.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/training/2012/06/21/models-views-and-controllers-oh-my"/>
     <id>https://dockyard.com/blog/training/2012/06/21/models-views-and-controllers-oh-my</id>
     <published>2012-06-21T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Amanda Cheung</name>
     </author>
@@ -21906,7 +21906,7 @@ versioned as &amp;#39;beta&amp;#39;. This API could change.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard"/>
     <id>https://dockyard.com/blog/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard</id>
     <published>2012-06-21T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -22190,7 +22190,7 @@ always looking to improve.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/06/18/postgres_ext-adding-postgres-data-types-to-active-record"/>
     <id>https://dockyard.com/blog/ruby/2012/06/18/postgres_ext-adding-postgres-data-types-to-active-record</id>
     <published>2012-06-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -22379,7 +22379,7 @@ INET and CIDR comparisons.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/05/18/rails-4-sneak-peek-expanded-activerecord-support-for-postgresql-datatype"/>
     <id>https://dockyard.com/blog/ruby/2012/05/18/rails-4-sneak-peek-expanded-activerecord-support-for-postgresql-datatype</id>
     <published>2012-05-18T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -22416,7 +22416,7 @@ while MACADDR will continue to be converted to a string.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/05/01/simple-sleeper-for-request-testing"/>
     <id>https://dockyard.com/blog/ruby/2012/05/01/simple-sleeper-for-request-testing</id>
     <published>2012-05-01T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Brian Cardarella</name>
     </author>
@@ -22458,7 +22458,7 @@ much time was remaining. So I whipped up the following:&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/04/10/tmux-for-fun-and-profit"/>
     <id>https://dockyard.com/blog/ruby/2012/04/10/tmux-for-fun-and-profit</id>
     <published>2012-04-10T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>
@@ -22540,7 +22540,7 @@ an issue.&lt;/p&gt;
     <link rel="alternate" href="https://dockyard.com/blog/ruby/2012/03/05/our-ci-setup"/>
     <id>https://dockyard.com/blog/ruby/2012/03/05/our-ci-setup</id>
     <published>2012-03-05T00:00:00Z</published>
-    <updated>2014-09-11T16:10:51-04:00</updated>
+    <updated>2015-06-10T16:26:48+00:00</updated>
     <author>
       <name>Dan McClain</name>
     </author>

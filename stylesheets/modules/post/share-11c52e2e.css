@@ -1,0 +1,25 @@
+/* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/post/share.sass */
+.post__share {
+  margin-bottom: 50px; }
+
+@media (max-width: 699px) {
+  /* line 6, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/post/share.sass */
+  .twitter-share-button {
+    margin-bottom: 0.5em;
+    display: block; } }
+
+/* line 11, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/post/share.sass */
+.post__share--github {
+  font-size: 16px;
+  line-height: 1.35;
+  color: #8d8d8d; }
+  @media (max-width: 699px) {
+    /* line 11, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/post/share.sass */
+    .post__share--github {
+      margin-top: 1em;
+      display: block; } }
+  @media (min-width: 700px) {
+    /* line 11, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/post/share.sass */
+    .post__share--github {
+      position: relative;
+      top: -6px; } }
