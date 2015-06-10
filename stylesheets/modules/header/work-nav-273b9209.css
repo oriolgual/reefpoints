@@ -1,9 +1,9 @@
 @media (max-width: 529px) {
-  /* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+  /* line 5, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
   .work-nav--mobile {
     text-align: center; } }
 
-/* line 9, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+/* line 9, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
 .work-nav--mobile {
   height: 0;
   -webkit-transition-duration: 0.25s;
@@ -15,22 +15,22 @@
   -o-transition-property: height;
   transition-property: height; }
 
-/* line 14, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+/* line 14, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
 .work-nav--mobile-is-extended {
   height: 290px; }
 
 @media (max-width: 529px) {
-  /* line 19, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+  /* line 19, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
   .work-nav {
     display: none; } }
 @media (min-width: 530px) {
-  /* line 19, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+  /* line 19, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
   .work-nav {
     padding-top: 3em;
     padding-bottom: 3em;
     text-align: center; } }
 
-/* line 28, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+/* line 28, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
 .work-nav-item {
   display: block;
   -webkit-transition-duration: 0.25s;
@@ -41,11 +41,11 @@
   -moz-transition-property: color;
   -o-transition-property: color;
   transition-property: color; }
-  /* line 55, /home/travis/build/dockyard/reefpoints/source/stylesheets/load.sass */
+  /* line 55, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/load.sass */
   .work-nav-item:hover {
     color: #8d8d8d; }
   @media (max-width: 529px) {
-    /* line 28, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 28, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item {
       padding-bottom: 22px;
       opacity: 0;
@@ -53,30 +53,30 @@
       -moz-transition: opacity 1s, color 0.25s;
       -o-transition: opacity 1s, color 0.25s;
       transition: opacity 1s, color 0.25s; }
-      /* line 36, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+      /* line 36, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
       .work-nav--mobile-is-extended .work-nav-item {
         opacity: 1; } }
   @media (min-width: 530px) {
-    /* line 28, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 28, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item {
       margin-right: auto;
       margin-left: auto;
       padding-top: 2em;
       padding-bottom: 1em;
       max-width: 480px; }
-      /* line 47, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+      /* line 47, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
       .work-nav-item:not(:last-child) {
         border-bottom: 1px dashed #e5e5e5; } }
   @media (max-width: 419px) {
-    /* line 50, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 50, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item.active {
       color: #43c0ef; } }
   @media (min-width: 420px) {
-    /* line 54, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 54, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item.active .work-nav-item__title {
       position: relative; } }
   @media (min-width: 420px) {
-    /* line 58, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 58, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item.active .work-nav-item__title:before {
       position: absolute;
       font-size: 35px;
@@ -84,24 +84,24 @@
       content: attr(data-icon);
       color: #fb755a; } }
   @media (min-width: 420px) and (max-width: 650px) {
-    /* line 58, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 58, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item.active .work-nav-item__title:before {
       margin-left: -42px;
       top: -5px; } }
   @media (min-width: 650px) {
-    /* line 58, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 58, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item.active .work-nav-item__title:before {
       margin-left: -50px;
       top: 8px; } }
 
-/* line 73, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+/* line 73, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
 .work-nav-item__title {
   line-height: 1.2; }
   @media (max-width: 650px) {
-    /* line 73, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 73, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item__title {
       font-size: 30px; } }
   @media (min-width: 650px) {
-    /* line 73, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/work-nav.sass */
+    /* line 73, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/header/work-nav.sass */
     .work-nav-item__title {
       font-size: 54px; } }

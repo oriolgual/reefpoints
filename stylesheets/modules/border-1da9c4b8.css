@@ -1,4 +1,4 @@
-/* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+/* line 5, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
 .has-border {
   border-width: 1px;
   border-color: #e5e5e5;
@@ -7,7 +7,7 @@
   border-bottom-style: solid;
   border-left-style: solid; }
 
-/* line 8, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+/* line 8, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
 .border--half {
   height: 36px;
   width: 50%;
@@ -15,7 +15,7 @@
   border-color: #e5e5e5;
   border-right-style: solid; }
 
-/* line 13, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+/* line 13, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
 .border--double-icon {
   margin-right: auto;
   margin-left: auto;
@@ -27,7 +27,7 @@
   border-bottom-style: solid;
   border-left-style: solid; }
 
-/* line 21, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+/* line 21, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
 .case-study__testimonial, .case-study__image__desc__text, .dockyarder__header, .person__header--case-study, .headline--icon {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -36,11 +36,11 @@
   border-top-style: solid;
   border-bottom-style: solid; }
 
-/* line 27, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+/* line 27, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
 .intro, .case-study__testimonial {
   margin-bottom: calc(15px);
   position: relative; }
-  /* line 30, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+  /* line 30, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
   .intro:before, .intro:after, .case-study__testimonial:before, .case-study__testimonial:after {
     content: "";
     border-style: solid;
@@ -51,10 +51,10 @@
     top: 100%;
     left: -1000%;
     left: calc(50% - 26px); }
-  /* line 41, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+  /* line 41, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
   .intro:before, .case-study__testimonial:before {
     border-color: #e5e5e5 transparent transparent; }
-  /* line 43, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/border.sass */
+  /* line 43, /Users/steventrevathan/Sites/reefpoints/source/stylesheets/modules/border.sass */
   .intro:after, .case-study__testimonial:after {
     margin-top: -1px;
     border-color: white transparent transparent; }
