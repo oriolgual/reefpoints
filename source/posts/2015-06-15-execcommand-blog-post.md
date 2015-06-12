@@ -13,7 +13,7 @@ tags: javascript
 
 For a long time we've had to rely on Flash plugins like [ZeroClipboard](https://github.com/zeroclipboard/zeroclipboard) 
 to copy text to the clipboard. While Flash still remains the only cross-browser solution for copying to a user’s clipboard, 
-some browsers have recently added the ability to trigger `cut` and `copy` using `Document.execCommand()`! Specifically, 
+some browsers have recently added the ability to trigger `cut` and `copy` using `document.execCommand()`! Specifically, 
 [IE10+, Chrome 43+, and Opera29+](http://caniuse.com/#search=clipboard%20API). Firefox seems to have some
 [options](http://kb.mozillazine.org/Granting_JavaScript_access_to_the_clipboard) that allow users to grant permissions 
 to certain sites to access the clipboard, but I haven't tried it out myself.
@@ -31,15 +31,15 @@ specified range through various commands. Some other common commands include: `b
 depend on the command. Pass an argument of null if no argument is needed.
 
 However, take note that, like `cut` and `copy`, not all commands are enabled across all browsers. I created 
-an [Ember JSBin](http://emberjs.jsbin.com/hagupu/3/edit?html,js,output) with a simple WISYWIG
+an [Ember JSBin](http://emberjs.jsbin.com/hagupu/3/edit?html,js,output) with a simple WYSIWYG
 to demonstrate some of what `execCommand()` can do. Feel free to play around!
 
 Now to demonstrate how `execCommand` paired with the Selection API can easily copy to a user's clipboard. 
 Below is our HTMLBars with a promo code string that we want to copy.
 
-```
+```hbs
 <p>Promo code: <span class="promo-code">SALE123</span></p>
-<p><button {{action 'copyToClip'}}>Copy</button></p>
+<p><button {{action "copyToClip"}}>Copy</button></p>
 ```
 
 When the `Copy` button is clicked, the following action will be called:
@@ -61,7 +61,7 @@ to the user's `selection`. `document.execCommand('copy')` then copies that selec
 And finally, we remove the selection by calling `window.getSelection().removeAllRanges()` so that the user 
 never sees the highlighting.
 
-And thats it! If you wanted to confirm everything worked as expected you can examine the response of 
+And that's it! If you wanted to confirm everything worked as expected you can examine the response of 
 `document.execCommand()`; it returns `false` if the command is not supported or enabled.
 
-You can checkout this example out in this [Ember JSBin](http://emberjs.jsbin.com/faqixa/3/edit?html,js,output).
+You can check this example out in this [Ember JSBin](http://emberjs.jsbin.com/faqixa/3/edit?html,js,output).
