@@ -30,9 +30,11 @@ specified range through various commands. Some other common commands include: `b
   * `value` (DOMString) *optional*: Specifies the string, number, or other value to assign. Possible values
 depend on the command. Pass an argument of null if no argument is needed.
 
-However, take note that, like `cut` and `copy`, not all commands are enabled across all browsers. I created 
-an [Ember JSBin](http://emberjs.jsbin.com/hagupu/3/edit?html,js,output) with a simple WYSIWYG
-to demonstrate some of what `execCommand()` can do. Feel free to play around!
+**Note:** You must set `document.designMode = "on"`, or set `contenteditable="true"` on the element that you wish to use `execCommand()` on. 
+
+However, like `cut` and `copy`, not all commands are enabled across all browsers. I created 
+an [Ember JSBin](http://emberjs.jsbin.com/hagupu/5/edit?html,js,output) with a simple WYSIWYG
+to demonstrate some of what `execCommand()` can do. Feel free to play around! 
 
 Now to demonstrate how `execCommand` paired with the Selection API can easily copy to a user's clipboard. 
 Below is our HTMLBars with a promo code string that we want to copy.
