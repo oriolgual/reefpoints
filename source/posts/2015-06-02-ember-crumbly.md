@@ -19,7 +19,7 @@ Let's dive in!
 
 ## Demo & Source
 
-![ember-crumbly-demo](http://i.imgur.com/Sutk1UQ.png)
+![ember-crumbly-demo](https://i.imgur.com/Sutk1UQ.png)
 
 You can take a look at the [demo app](http://development.ember-crumbly-demo.divshot.io/) to see ember-crumbly in action. What's cool about it is how little code it takes to add dynamic breadcrumbs to your app, and how declarative it is. The [source is on GitHub](https://github.com/poteto/ember-crumbly), as always.
 
