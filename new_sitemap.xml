@@ -1039,7 +1039,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/categories/discovery</loc>
+    <loc>https://dockyard.com/blog/2015/01/16/joining-dockyard</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1051,7 +1051,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/2015/01/28/bubbling-actions-through-components</loc>
+    <loc>https://dockyard.com/blog/categories/discovery</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1256,6 +1256,12 @@
   </url>
   <url>
     <loc>https://dockyard.com/blog/2015/06/09/ux-camp-2015</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/2015/06/12/maintaining-session-in-phoenix-integration-tests</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1891,7 +1897,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/2015/01/16/joining-dockyard</loc>
+    <loc>https://dockyard.com/blog/2015/01/28/bubbling-actions-through-components</loc>
     <lastmod>2015-06-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
