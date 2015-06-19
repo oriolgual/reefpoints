@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Copy to Clipboard without Using Flash!"
+title: "Copy to Clipboard Without Using Flash!"
 comments: true
 social: true
 author: Marin Abernethy
