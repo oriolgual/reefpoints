@@ -6,7 +6,7 @@ social: true
 author: Marin Abernethy
 twitter: "maabernethy"
 github: maabernethy
-summary: "`document.execCommand()` has now added support for `copy` in some browsers"
+summary: "\"document.execCommand()\" has now added support for \"copy\" in some browsers"
 published: true
 tags: javascript
 ---
