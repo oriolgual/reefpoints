@@ -1,0 +1,156 @@
+<!DOCTYPE html><html><head><title>Copy to Clipboard without Using Flash!</title><link href="/stylesheets/all-84f1eb0e.css" media="screen" rel="stylesheet" type="text/css" /><script src="/javascripts/all-ce68a29a.js" type="text/javascript"></script><meta content='NO-CACHE' http-equiv='CACHE-CONTROL'><meta content='DockYard is a Ruby on Rails, PostgreSQL, and, Ember.js, web / mobile application development software consultancy based in Boston, MA.' namer='description'><meta content='ruby on rails, rails, ruby, ruby on rails training, ruby application development, ruby on rails application development, ember application development, ember.js application development, software application development, web, web application development, mobile, mobile application development, ios, ios application development, iphone, iphone application development, android, android application development, postgres, startups, enterprise, Boston, MA, Massachusetts, for hire' name='keywords'><meta content='web development, mobile development, startups, enterprise, ruby on rails, rails, ruby, ruby on rails training, Boston, for hire' name='keywords'><meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0' name='viewport'><meta charset='utf-8'><meta content='DockYard.com - `document.execCommand()` has now added support for `copy` in some browsers' name='description'><meta content='maabernethy' name='twitter:creator'><meta content='summary' name='twitter:card'><meta content='@DockYard' name='twitter:site'><meta content='http://reefpoints.dockyard.com/2015/06/19/execcommand-blog-post.html' name='twitter:url'><meta content='Copy to Clipboard without Using Flash!' name='twitter:title'><meta content='`document.execCommand()` has now added support for `copy` in some browsers' name='twitter:description'><link href='//cloud.typography.com/6496052/702882/css/fonts.css' rel='stylesheet' type='text/css'><link href='http://dockyard.com/humans.txt' rel='author'><link href='/favicon-573a5e34.png' rel='shortcut icon' type='image/x-icon'><link href='/favicon-573a5e34.png' rel='icon' type='image/x-icon'><link href='/apple-touch-icon.png' rel='apple-touch-icon'><link href='/apple-touch-icon-precomposed.png' rel='apple-touch-icon-precomposed'><link href='/atom.xml' rel='alternate' title='DockYard - Reefpoints' type='application/atom+xml'><script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-24185112-2']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!--
+                                             ..
+                                           .O.
+                                       .:OO.
+                                      :OOO.
+                                    :OOO:.
+                         ...      :OOOO:
+                   ..ZOOOOOOOOO..OZ.O.
+                   OOOOOOOOOOOOOOOOI
+                  OOOOOOOOOOOOOOOOI,
+                 OOOOOOOO. .OOOOOOOO:
+                 OOOOOOOO   OOOOOOOOO:
+                OOOOOOOOOOOOOOOOOOOOO.
+                OOOOOOOOOOOOOOOOOOOOO:
+               .OOOOOOOOOOOOOOOOOOOOO:
+               .OOOOOOOOOOOOOOOOOOOOO.
+                OOOOOOOOOOOOOOOOOOOOO
+                OOOOOO?:   .OOOOOOOOO
+               .OOOOO      OOOOOOOOOO
+,OO ZO,        OOOOO,     OOOOOOOOOO+
+ OOOOO.        OOOOO     OOOOOOOOOOO+
+  OOO?        OOOOO     .OOOOOOOOOOO:
+   OOO,      OOOOO.    .OOOOOOOOOOOO
+    OOOOOOOOOOOOO.    .OOOOOOOOOOOO.
+     OOOOOOOOOOOO.  .OOOOOOOOOOOOO.
+      8OOOOOOOOOOOOOOOOOOOOOOOODO:
+         :OOOOOOOOOOOOOOOOOOOO::
+
+--></head><body class='x2015 x2015_06 x2015_06_19 x2015_06_19_execcommand-blog-post'><header><div class='extended-nav-wrap'><div class='l-wrap--wide'><nav class='extended-nav'><a class="extended-nav--logo" data-icon="⌂" href="http://dockyard.com/"><span class='is-hidden'>Home</span></a>
+<a class="extended-nav--close" data-icon="X" href="#"><span class='is-hidden'>Close</span></a><div class='extended-nav__items'><div class='extended-nav__items--mobile'><a class="extended-nav__item--work extended-nav__item" href="#">Work</a><nav class='work-nav--mobile'><a href="http://dockyard.com/work/credit-card-reviews" class="work-nav-item"><strong class='work-nav-item__title'>Credit Card Reviews</strong></a>
+<a href="http://dockyard.com/work/scratch" class="work-nav-item"><strong class='work-nav-item__title'>Scratch Wireless</strong></a>
+<a href="http://dockyard.com/work/coachup" class="work-nav-item"><strong class='work-nav-item__title'>CoachUp</strong></a>
+<a href="http://dockyard.com/work/askthem" class="work-nav-item"><strong class='work-nav-item__title'>AskThem</strong></a>
+<a href="http://dockyard.com/work/beacon-hill-blitz" class="work-nav-item"><strong class='work-nav-item__title'>Beacon Hill Blitz</strong></a></nav></div><a class="extended-nav__item" href="http://dockyard.com/team">Our Team</a><a class="extended-nav__item" href="http://dockyard.com/process">Process</a><a class="extended-nav__item" href="http://dockyard.com/community">Community</a><a class="extended-nav__item active" href="/">Blog</a><a class="extended-nav__item" href="http://dockyard.com/hire-us">Hire Us</a></div></nav><nav class='work-nav'><h6>Selected Work</h6><a href="http://dockyard.com/work/credit-card-reviews" class="work-nav-item"><strong class='work-nav-item__title'>Credit Card Reviews</strong><p>Credit card advice from real people.</p></a>
+<a href="http://dockyard.com/work/scratch" class="work-nav-item"><strong class='work-nav-item__title'>Scratch Wireless</strong><p>Never pay another penny for smartphone service.</p></a>
+<a href="http://dockyard.com/work/coachup" class="work-nav-item"><strong class='work-nav-item__title'>CoachUp</strong><p>You should be training. Right now.</p></a>
+<a href="http://dockyard.com/work/askthem" class="work-nav-item"><strong class='work-nav-item__title'>AskThem</strong><p>Ask officials questions on city, state, and federal levels.</p></a>
+<a href="http://dockyard.com/work/beacon-hill-blitz" class="work-nav-item"><strong class='work-nav-item__title'>Beacon Hill Blitz</strong><p>How technology helped repeal the #TechTax.</p></a></nav></div></div><nav class='main-nav-wrap'><div class='main-nav l-wrap--wide'><a class="logo" href="http://dockyard.com">DockYard</a><a class="club-sandwich" data-icon="☰" href="#"><span class='is-hidden'>Navigation</span></a></div></nav></header><div class='push--header'></div><div class='l-wrap--blog'><a href="/"><strong class='logo--blog'>ReefPoints</strong><strong class='logo--blog__tagline'>Blog</strong></a><nav class='blog-nav'><a class="blog-nav__item " href="/">Posts</a><a class="blog-nav__item " href="/categories.html">Categories</a><a class="blog-nav__item " href="/authors.html">Authors</a></nav></div><div class='l-wrap--blog__post'><h1 class='post__title'>Copy to Clipboard without Using Flash!</h1><a class="post__author" href="/authors/marin-abernethy.html">Marin Abernethy</a><time class='post__date'>June 19<sup>th</sup>, 2015</time><div class='post__content'><p>For a long time we&#39;ve had to rely on Flash plugins like <a href="https://github.com/zeroclipboard/zeroclipboard">ZeroClipboard</a> 
+to copy text to the clipboard. While Flash still remains the only cross-browser solution for copying to a user’s clipboard, 
+some browsers have recently added the ability to trigger <code>cut</code> and <code>copy</code> using <code>document.execCommand()</code>! Specifically, 
+<a href="http://caniuse.com/#search=clipboard%20API">IE10+, Chrome 43+, and Opera29+</a>. Firefox seems to have some
+<a href="http://kb.mozillazine.org/Granting_JavaScript_access_to_the_clipboard">options</a> that allow users to grant permissions 
+to certain sites to access the clipboard, but I haven&#39;t tried it out myself.</p>
+
+<p>For those of you not familiar with <code>execCommand()</code>, it is  more than just <code>cut</code> and <code>copy</code>! It is one of the core methods
+of rich-text editing in browsers. You can manipulate the contents of the current document, current selection, or a 
+specified range through various commands. Some other common commands include: <code>bold</code>, <code>delete</code>,  <code>createLink</code>, and 
+<code>indent</code>.</p>
+
+<p><strong><code>execCommand(commandName [, showUI [, value]])</code></strong></p>
+
+<ul>
+<li><code>commandName</code> (String): the property that you are validating.</li>
+<li><code>showUI</code> (Boolean) <em>optional</em>: Display a user interface if the command supports one. Defaults to false.</li>
+<li><code>value</code> (DOMString) <em>optional</em>: Specifies the string, number, or other value to assign. Possible values
+depend on the command. Pass an argument of null if no argument is needed.</li>
+</ul>
+
+<p><strong>Note:</strong> You must set <code>document.designMode = &quot;on&quot;</code>, or set <code>contenteditable=&quot;true&quot;</code> on the element that you wish to use <code>execCommand()</code> on. </p>
+
+<p>However, like <code>cut</code> and <code>copy</code>, not all commands are enabled across all browsers. I created 
+an <a href="http://emberjs.jsbin.com/hagupu/5/edit?html,js,output">Ember JSBin</a> with a simple WYSIWYG
+to demonstrate some of what <code>execCommand()</code> can do. Feel free to play around! </p>
+
+<p>Now to demonstrate how <code>execCommand</code> paired with the Selection API can easily copy to a user&#39;s clipboard. 
+Below is our HTMLBars with a promo code string that we want to copy.</p>
+<div class="highlight hbs "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
+  <td class="line-numbers"><pre>1
+2
+</pre></td>
+  <td class="code"><pre>&lt;p&gt;Promo code: &lt;span class=&quot;promo-code&quot;&gt;SALE123&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button {{action &quot;copyToClip&quot;}}&gt;Copy&lt;/button&gt;&lt;/p&gt;
+</pre></td>
+</tr></table>
+</div></div>
+<p>When the <code>Copy</code> button is clicked, the following action will be called:</p>
+<div class="highlight js "><div class="ribbon"></div><div class="scroller"><table class="CodeRay"><tr>
+  <td class="line-numbers"><pre>1
+2
+3
+4
+5
+6
+7
+8
+</pre></td>
+  <td class="code"><pre><span class="function">copyToClip</span>: <span class="keyword">function</span>() {
+  const promoCode = document.querySelector(<span class="string"><span class="delimiter">'</span><span class="content">.promo-code</span><span class="delimiter">'</span></span>);
+  const range = document.createRange();  
+  range.selectNode(promoCode);  
+  window.getSelection().addRange(range);
+  document.execCommand(<span class="string"><span class="delimiter">'</span><span class="content">copy</span><span class="delimiter">'</span></span>); 
+  window.getSelection().removeAllRanges();
+}
+</pre></td>
+</tr></table>
+</div></div>
+<p>In this action we create a range of the document and add our promo code text as a node of that range. We then 
+use the Selection API method <code>window.getSelection().addRange()</code> to add the part of the document we want to copy
+to the user&#39;s <code>selection</code>. <code>document.execCommand(&#39;copy&#39;)</code> then copies that selection to the clipboard. 
+And finally, we remove the selection by calling <code>window.getSelection().removeAllRanges()</code> so that the user 
+never sees the highlighting.</p>
+
+<p>And that&#39;s it! If you wanted to confirm everything worked as expected you can examine the response of 
+<code>document.execCommand()</code>; it returns <code>false</code> if the command is not supported or enabled.</p>
+
+<p>You can check this example out in this <a href="http://emberjs.jsbin.com/faqixa/3/edit?html,js,output">Ember JSBin</a>.</p>
+</div><div class='post__share'><a class='twitter-share-button' data-url='http://reefpoints.dockyard.com/2015/06/19/execcommand-blog-post.html' data-via='DockYard' href='https://twitter.com/share'>Tweet</a><script>
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
+</script><div class='g-plusone' data-href='#' data-size='medium' data-width='100'></div><script>
+  (function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
+</script><span class='post__share--github'>If you see an issue, please send a <a href='https://github.com/dockyard/reefpoints/blob/master/source/posts/', class='text-link post__issue', target: '_blank'>pull request</a> to contribute.</span></div><div class='related-posts-wrap'><div class='post__avatar-wrap'><img class='post__avatar' src='/images/team/marin-abernethy.jpg'><h5 class='post__avatar__name'>Marin Abernethy</h5><h5 class='post__avatar__position headline--sub'>Developer At DockYard
+</h5><nav class='post__avatar__social-links'><a target="_blank" class="post__avatar__social-link--twitter" data-icon="#" href="http://twitter.com/maabernethy">maabernethy</a><a target="_blank" class="post__avatar__social-link--github" data-icon="★" href="https://github.com/maabernethy">maabernethy</a></nav></div><div class='related-posts'><h3 class='related-posts__header headline--sub'>Other posts by Marin</h3><a class="related-post" href="/2015/03/04/ember-conf.html"><h2 class='related-post__title'>EmberConf 2015 Day 2</h2><p>March 4<sup>th</sup>, 2015</p></a>
+<a class="related-post" href="/2015/03/03/ember-conf.html"><h2 class='related-post__title'>EmberConf 2015 Day 1</h2><p>March 3<sup>rd</sup>, 2015</p></a>
+<a class="related-posts-link text-link" href="/authors/marin-abernethy.html">See all 4 posts by Marin</a></div></div><p class='post__tags'><a class="post__tag" href="/categories/javascript.html">JavaScript&nbsp;<span class='post__tag__count'>(19)</span></a></p><div id='disqus_thread'></div><script>
+  var disqus_shortname = 'reefpoints';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script><noscript>Please enable JavaScript to view the <a href='http://disqus.com/?ref_noscript'>comments powered by Disqus</a>.</noscript></noscript><script>
+  var path = window.location.pathname.split('/').reverse();
+  var postname = path[0].split('.');
+  var change = postname[0] + '.md';
+  var newpath = 'https://github.com/dockyard/reefpoints/blob/master/source/posts/' + path[3] + '-' + path[2] + '-' + path[1] + '-' + change
+  $('.post__issue').attr('href', newpath);
+</script></div><div class='push--footer'></div><footer><div class='l-wrap'><div class='l-footer-group'><h3 class='footer-group__title'>EVENTS</h3><a class="footer__event--wgc" target="_blank" href="http://wickedgoodember.com/">Wicked Good Ember Conf</a><a class="footer__event--ember" target="_blank" href="http://www.meetup.com/Boston-Ember-js/">Boston Ember.js Meetup</a><a class="footer__event--openhack" target="_blank" href="http://openhack.github.io/boston/">OpenHack Boston</a><a class="footer__event--ux" target="_blank" href="http://www.meetup.com/uxboston/">UX Boston Meetup</a><a class="footer__event--swift" target="_blank" href="http://www.meetup.com/Boston-Swift/">Boston Swift</a><a class="footer__event--uxhh" target="_blank" href="http://www.uxhappyhour.com/bos">UX Happy Hour</a></div><div class='l-footer-group'><a href="/"><h3 class='footer-group__title'>BLOG</h3></a>
+<a class="footer__post" href="/2015/06/19/execcommand-blog-post.html"><strong>Copy to Clipboard without Using Flash!</strong><h6 class='footer-desc'>`document.execCommand()` has now added support for `copy` in some browsers</h6></a>
+<a class="footer__post" href="/2015/06/12/maintaining-session-in-phoenix-integration-tests.html"><strong>Maintaining a session in Phoenix integration tests</strong><h6 class='footer-desc'>Your server has authentication, and you want to be authenticated in your tests</h6></a>
+<a class="footer__post" href="/2015/06/09/ux-camp-2015.html"><strong>Go: UX Camp 2015</strong><h6 class='footer-desc'>A weekend away for design collaboration and learning.</h6></a></div><div class='l-footer-group'><a href="http://dockyard.com/hire-us"><h3 class='footer-group__title'>CONTACT</h3></a><h6 class='footer-desc'>DockYard HQ is located in Boston. Stop in sometime and meet our team!</h6><a class="footer__address" target="_blank" href="http://goo.gl/maps/zBGfn"><h6>DockYard Inc.<br>294 Washington St<br>Suite 1150<br>Boston, MA 02108</h6></a>
+<a class="text-link" href="http://dockyard.com/hire-us">Get in touch.</a><div class='social-links--footer'><a target="_blank" data-icon="#" class="social-link" href="https://twitter.com/dockyard"><span class='is-hidden'>Twitter</span></a>
+<a target="_blank" data-icon="★" class="social-link" href="https://github.com/dockyard"><span class='is-hidden'>GitHub</span></a>
+<a target="_blank" data-icon="✒" class="social-link" href="/atom.xml"><span class='is-hidden'>RSS</span></a></div></div></div></footer><script>
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'reefpoints'; // required: replace example with your forum shortname
+  
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function () {
+      var s = document.createElement('script'); s.async = true;
+      s.type = 'text/javascript';
+      s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+      (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script></body></html>
