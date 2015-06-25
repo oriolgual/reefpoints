@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: “Use of color through art history”
 comments: true
@@ -8,7 +8,7 @@ twitter: “rgbcolor”
 summary: “Part 1 of 4 in the UX color series”
 published: true
 tags: UX, UX design, Design, color, art
-—
+---
 
 *This post is based on a talk I presented at [UX Burlington](http://uxburlington.com/)*
 
