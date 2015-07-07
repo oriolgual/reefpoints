@@ -1,23 +1,23 @@
 ---
 layout: post
-title: “Use of color through art history”
+title: "Use of color through art history"
 comments: true
 social: true
 author: Maria Matveeva
-twitter: “rgbcolor”
-summary: “Part 1 of 4 in the UX color series”
+twitter: "rgbcolor"
+summary: "Part 1 of 4 in the UX color series"
 published: true
 tags: UX, UX design, Design, color, art
 ---
 
 *This post is based on a talk I presented at [UX Burlington](http://uxburlington.com/)*
 
-Color is one of the basic tools for UX design. It is very powerful: it affects us psychologically, physiologically, and, of course, aesthetically. But color selection can be intimidating: with millions of options, designers often feel lost because all the options look equally valid. 
+Color is one of the basic tools for UX design. It is very powerful: it affects us psychologically, physiologically, and, of course, aesthetically. But color selection can be intimidating: with millions of options, designers often feel lost because all the options look equally valid.
 
 In this series, I will show where color is complex, and then suggest a step—by-step process to make color selection less intimidating.
 
 ## Color was not always a thing.
-People’s understanding of what color *is* has changed over time. Today, we think of it as a continuous spectrum, consisting of millions of options. 
+People’s understanding of what color *is* has changed over time. Today, we think of it as a continuous spectrum, consisting of millions of options.
 
 ![Photoshop gradient color picker](http://i.imgur.com/C6BX139.jpg)
 
@@ -38,7 +38,7 @@ In the 1600s, we start seeing the use of color loosen up a bit. Pigments are no 
 
 ## Industrial revolution: OMG COLORS!
 
-The Industrial revolution brought two important innovations to art: synthetic pigments and tube paints. Synthetic pigments started making vibrant colors more available and affordable for artists, and tubes made paint portable for the first time. 
+The Industrial revolution brought two important innovations to art: synthetic pigments and tube paints. Synthetic pigments started making vibrant colors more available and affordable for artists, and tubes made paint portable for the first time.
 
 ![William Perkin’s synthetic mauve color](http://i.imgur.com/UWmb9pz.jpg)
 
@@ -56,7 +56,7 @@ After impressionism came expressionism. Here, Van Gogh does not show his impress
 
 ## 1950s: color is the message
 
-Even farther from references to reality - this 1950s piece by Yves Klein uses color by itself as the message. In fact, the artist patented the chemical process to make this pigment (very similar to a synthetic ultramarine) and made the pigment itself a central part of his artwork for the remainder of his career. 
+Even farther from references to reality - this 1950s piece by Yves Klein uses color by itself as the message. In fact, the artist patented the chemical process to make this pigment (very similar to a synthetic ultramarine) and made the pigment itself a central part of his artwork for the remainder of his career.
 
 ![IK Blue as a monumental art piece](http://i.imgur.com/bGYDuTJ.jpg)
 
