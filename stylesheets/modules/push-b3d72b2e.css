@@ -1,0 +1,30 @@
+/* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+.push--header, .push--header--index, .push--header--short {
+  height: 3em; }
+
+@media (min-width: 650px) and (min-height: 650px) {
+  /* line 8, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+  .push--header, .push--header--index {
+    height: 12em; } }
+
+@media (min-width: 650px) and (min-height: 650px) {
+  /* line 12, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+  .push--header--short {
+    height: 8em; } }
+
+@media (min-width: 649px) and (max-height: 650px) {
+  /* line 16, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+  .push--header--index {
+    height: 8em; } }
+
+/* line 21, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+.push--footer {
+  clear: both; }
+  @media (max-width: 800px) {
+    /* line 21, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+    .push--footer {
+      height: 6em; } }
+  @media (min-width: 800px) {
+    /* line 21, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/push.sass */
+    .push--footer {
+      height: 12em; } }

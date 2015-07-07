@@ -1,4 +1,4 @@
-/* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+/* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
 .extended-nav-wrap {
   border-width: 1px;
   border-color: #e5e5e5;
@@ -16,47 +16,47 @@
   -o-transition-timing-function: ease;
   transition-timing-function: ease; }
   @media (min-width: 650px) and (min-height: 650px) {
-    /* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav-wrap {
       background-color: rgba(255, 255, 255, 0.98); } }
   @media (max-width: 529px) {
-    /* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav-wrap {
       margin-top: -440px;
       height: 440px; } }
   @media (min-width: 530px) and (max-width: 650px) {
-    /* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav-wrap {
       margin-top: -915px;
       height: 915px; } }
   @media (min-width: 650px) {
-    /* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav-wrap {
       margin-top: -1060px;
       height: 1060px; } }
 
 @media (max-width: 529px) {
-  /* line 26, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 26, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav-wrap-is-extended {
     margin-top: -730px;
     height: 730px; } }
 
-/* line 34, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+/* line 34, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
 .extended-nav {
   position: relative;
   overflow: hidden; }
   @media (min-width: 530px) {
-    /* line 34, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 34, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav {
       border-bottom: 1px solid #e5e5e5; } }
 
-/* line 40, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+/* line 40, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
 .extended-nav--logo {
   padding: 12px;
   position: absolute;
   font-size: 2em; }
   @media (min-width: 530px) and (max-width: 819px) {
-    /* line 40, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 40, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav--logo {
       width: 100%;
       border-width: 1px;
@@ -64,36 +64,36 @@
       border-bottom-style: solid; } }
 
 @media (max-width: 529px) {
-  /* line 48, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 48, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items {
     border-width: 1px;
     border-color: #e5e5e5;
     border-top-style: solid; } }
 @media (max-width: 679px) {
-  /* line 48, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 48, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items {
     margin-top: 71px; } }
 @media (min-width: 530px) {
-  /* line 48, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 48, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items {
     margin-right: auto;
     margin-left: auto; } }
 @media (min-width: 530px) and (max-width: 819px) {
-  /* line 48, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 48, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items {
     width: 465px;
     position: relative; } }
 @media (min-width: 820px) {
-  /* line 48, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 48, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items {
     width: 600px; } }
 
 @media (min-width: 530px) {
-  /* line 63, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 63, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__items--mobile {
     display: none; } }
 
-/* line 67, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+/* line 67, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
 .extended-nav__item {
   padding: 20px 6px;
   border-top-style: solid;
@@ -108,7 +108,7 @@
   -o-transition-property: border-color, color;
   transition-property: border-color, color; }
   @media (max-width: 529px) {
-    /* line 67, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 67, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav__item {
       display: block;
       position: relative;
@@ -117,28 +117,28 @@
       border-top-width: 1px;
       border-top-color: #f4f4f4;
       background-color: white; }
-      /* line 83, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+      /* line 83, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
       .extended-nav__items--mobile .extended-nav__item {
         border-top: none; } }
   @media (min-width: 530px) {
-    /* line 67, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 67, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav__item {
       float: left;
       border-top-width: 6px;
       border-top-color: white; }
-      /* line 90, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+      /* line 90, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
       .extended-nav__item:hover, .extended-nav__item.active {
         border-top-color: #fb755a; } }
   @media (min-width: 530px) and (max-width: 819px) {
-    /* line 67, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 67, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav__item {
       margin-left: 1%;
       margin-right: 1%; } }
   @media (min-width: 820px) {
-    /* line 67, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+    /* line 67, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
     .extended-nav__item {
       margin-left: 3%;
       margin-right: 3%; } }
-  /* line 100, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
+  /* line 100, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/extended-nav.sass */
   .extended-nav__item:hover, .extended-nav__item.active {
     color: #fb755a; }

@@ -1,15 +1,15 @@
-/* line 58, /Users/acheung/work/reefpoints/source/stylesheets/load.sass */
+/* line 58, /home/travis/build/dockyard/reefpoints/source/stylesheets/load.sass */
 .social-link:before {
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
   -ms-font-smoothing: antialiased;
   -o-font-smoothing: antialiased; }
 
-/* line 5, /Users/acheung/work/reefpoints/source/stylesheets/modules/social.sass */
+/* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/social.sass */
 .social-links {
   text-align: center; }
 
-/* line 8, /Users/acheung/work/reefpoints/source/stylesheets/modules/social.sass */
+/* line 8, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/social.sass */
 .social-links--footer {
   margin-top: 1.5em;
   padding-top: 0.75em;
@@ -18,7 +18,7 @@
   border-top-style: solid;
   text-indent: -3px; }
 
-/* line 14, /Users/acheung/work/reefpoints/source/stylesheets/modules/social.sass */
+/* line 14, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/social.sass */
 .social-link {
   display: inline-block;
   width: 40px;
@@ -32,10 +32,10 @@
   -moz-transition-property: color;
   -o-transition-property: color;
   transition-property: color; }
-  /* line 55, /Users/acheung/work/reefpoints/source/stylesheets/load.sass */
+  /* line 55, /home/travis/build/dockyard/reefpoints/source/stylesheets/load.sass */
   .social-link:hover {
     color: #a7a7a7; }
-  /* line 20, /Users/acheung/work/reefpoints/source/stylesheets/modules/social.sass */
+  /* line 20, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/social.sass */
   .social-link:before {
     font-family: "icomoon";
     content: attr(data-icon); }

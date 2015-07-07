@@ -1,13 +1,13 @@
-/* line 5, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 header {
   width: 100%;
   z-index: 5; }
   @media (min-width: 650px) and (min-height: 650px) {
-    /* line 5, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+    /* line 5, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
     header {
       position: fixed; } }
 
-/* line 11, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 11, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .main-nav-wrap {
   border-width: 1px;
   border-color: #e5e5e5;
@@ -23,24 +23,24 @@ header {
   -o-transition-property: background-color;
   transition-property: background-color; }
 
-/* line 18, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 18, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .main-nav {
   position: relative;
   text-align: center; }
 
-/* line 22, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 22, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .logo {
   padding: 17px;
   display: inline-block;
   font-size: 1.875em;
   font-family: "Tungsten A", "Tungsten B"; }
 
-/* line 30, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 30, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .club-sandwich:before, .extended-nav--logo:before, .extended-nav--close:before {
   font-family: "icomoon";
   content: attr(data-icon); }
 
-/* line 34, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 34, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .club-sandwich, .extended-nav--close {
   padding-top: 12px;
   padding-bottom: 12px;
@@ -48,7 +48,7 @@ header {
   position: absolute;
   right: 0;
   font-size: 41px; }
-  /* line 42, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+  /* line 42, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
   .club-sandwich:before, .extended-nav--close:before {
     -webkit-transition-duration: 0.25s;
     -moz-transition-duration: 0.25s;
@@ -58,15 +58,15 @@ header {
     -moz-transition-property: color;
     -o-transition-property: color;
     transition-property: color; }
-  /* line 46, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+  /* line 46, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
   .club-sandwich:hover:before, .extended-nav--close:hover:before {
     color: #8d8d8d; }
 
-/* line 51, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 51, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .main-nav-wrap {
   border-bottom: none; }
 
-/* line 54, /Users/acheung/work/reefpoints/source/stylesheets/modules/header/main-nav.sass */
+/* line 54, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/header/main-nav.sass */
 .main-nav {
   border-width: 1px;
   border-color: #e5e5e5;
