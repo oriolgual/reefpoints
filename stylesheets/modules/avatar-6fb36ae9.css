@@ -1,4 +1,4 @@
-/* line 3, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 3, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .authors__avatar, .author__avatar, .post__avatar {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -6,17 +6,17 @@
   -o-border-radius: 50%;
   border-radius: 50%; }
 
-/* line 6, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 6, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .author__avatar, .post__avatar {
   border: 1px solid #e5e5e5; }
 
 @media (max-width: 699px) {
-  /* line 9, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 9, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .authors__avatar, .author__avatar-wrap {
     display: none; } }
 
 @media (min-width: 700px) {
-  /* line 13, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 13, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .authors__avatar {
     -webkit-transition-duration: 0.25s;
     -moz-transition-duration: 0.25s;
@@ -31,18 +31,18 @@
     height: 38px;
     width: 38px;
     opacity: 0.05; }
-    /* line 23, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+    /* line 23, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
     .authors__avatar.default-avatar {
       opacity: 0.2; } }
 
 @media (min-width: 700px) {
-  /* line 26, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 26, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .author__avatar-wrap {
     margin-bottom: 84px;
     overflow: auto; } }
 
 @media (min-width: 640px) {
-  /* line 31, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 31, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .author__avatar {
     margin-right: 20px;
     padding: 6px;
@@ -51,17 +51,17 @@
     float: left; } }
 
 @media (min-width: 640px) {
-  /* line 39, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 39, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .author__bio, .author__link {
     font-size: 14px; } }
 
 @media (min-width: 640px) {
-  /* line 43, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 43, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .author__bio {
     margin-top: 5px; } }
 
 @media (min-width: 640px) {
-  /* line 47, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 47, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .author__link {
     -webkit-transition-duration: 0.25s;
     -moz-transition-duration: 0.25s;
@@ -72,25 +72,25 @@
     -o-transition-property: color;
     transition-property: color;
     color: #43c0ef; }
-    /* line 55, /home/travis/build/dockyard/reefpoints/source/stylesheets/load.sass */
+    /* line 55, /Users/acheung/work/reefpoints/source/stylesheets/load.sass */
     .author__link:hover {
       color: #72d0f3; } }
 
-/* line 52, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 52, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar-wrap {
   width: 230px;
   text-align: center; }
   @media (max-width: 699px) {
-    /* line 52, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+    /* line 52, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
     .post__avatar-wrap {
       margin-right: auto;
       margin-left: auto; } }
   @media (min-width: 700px) {
-    /* line 52, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+    /* line 52, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
     .post__avatar-wrap {
       float: left; } }
 
-/* line 62, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 62, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar {
   margin-right: auto;
   margin-bottom: 20px;
@@ -100,16 +100,16 @@
   height: 150px;
   width: 150px; }
 
-/* line 72, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 72, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar__name {
   margin-bottom: 12px; }
 
-/* line 75, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 75, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar__position {
   margin-bottom: 20px;
   line-height: 1.33; }
 
-/* line 79, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 79, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar__social-link--twitter, .post__avatar__social-link--github {
   -webkit-transition-duration: 0.25s;
   -moz-transition-duration: 0.25s;
@@ -121,10 +121,10 @@
   transition-property: color;
   display: block;
   color: #cdcdcd; }
-  /* line 84, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 84, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .post__avatar__social-link--twitter:hover, .post__avatar__social-link--github:hover {
     color: #43c0ef; }
-  /* line 86, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+  /* line 86, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
   .post__avatar__social-link--twitter:before, .post__avatar__social-link--github:before {
     margin-right: 3px;
     margin-left: -28px;
@@ -132,7 +132,7 @@
     top: 5px;
     font-size: 24px; }
 
-/* line 94, /home/travis/build/dockyard/reefpoints/source/stylesheets/modules/avatar.sass */
+/* line 94, /Users/acheung/work/reefpoints/source/stylesheets/modules/avatar.sass */
 .post__avatar-wrap-is-centered {
   margin-right: auto;
   margin-left: auto;

@@ -1,0 +1,38 @@
+/* line 5, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+.header-has-background {
+  background-color: white; }
+
+/* line 8, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+.takes-full-height {
+  margin-top: 0 !important; }
+  @media (min-width: 650px) and (min-height: 650px) {
+    /* line 8, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+    .takes-full-height {
+      height: 100%;
+      overflow: scroll; } }
+
+@media (min-width: 650px) and (min-height: 650px) {
+  /* line 14, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+  .has-no-scroll {
+    overflow: hidden; } }
+
+@media (min-width: 650px) and (min-height: 650px) {
+  /* line 18, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+  .header-is-extended {
+    height: 100%; } }
+
+@media (max-width: 480px) {
+  /* line 22, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+  .hide-on-mobile {
+    display: none; } }
+
+@media (max-width: 860px) {
+  /* line 26, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+  .hide-on-tablet {
+    display: none; } }
+
+/* line 30, /Users/acheung/work/reefpoints/source/stylesheets/state.sass */
+.is-hidden {
+  display: block;
+  text-indent: -9999px;
+  height: 0; }
