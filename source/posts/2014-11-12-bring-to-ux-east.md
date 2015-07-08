@@ -11,7 +11,7 @@ comments: false
 
 This weekend, I am heading to [UX East's camp](http://uxeast.org/) in Maine. It is kind of like a conference, except you also get the opportunity to work on your own project and get feedback from others while there. I am helping organize the event, and a large chunk of my time will be spent taking photos and helping with other random tasks, so I wanted to bring a project that’s small and easy to manage.
 
-![](/images/post-assets/maria/ux-east-sketches.jpg)
+![sketches](https://i.imgur.com/K9TBWR9.jpg)
 
 My project is practicing how to quickly sketch ideas by hand.
 
