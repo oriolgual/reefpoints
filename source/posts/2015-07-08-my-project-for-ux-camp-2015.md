@@ -6,7 +6,7 @@ social: true
 author: Maria Matveeva
 twitter: "rgbcolor"
 summary: "I'm making repeat patterns. How about you?"
-published: false
+published: true
 tags: design, pattern, repeat pattern, UX camp, UX East
 ---
 
@@ -44,13 +44,13 @@ To sketch the patterns, I will bring:
 
 **The process**
 
-I plan to start with a grid and play with layering patterns on sheer paper to arrive at different solutions. The initial drawings will likely be very messy, but I  expect that the clarity will improve as I work on the same idea a few times. 
+I plan to start with a grid and play with layering patterns on sheer paper to arrive at different solutions. The initial drawings will likely be very messy, but I  expect that the clarity will improve as I work on the same idea a few times.
 
 **The goal**
 
 I plan to iterate in public so I can take advantage of the camp setting. While a specific result (pattern) may look good and useful to me, others may offer an unexpected opinion. By showing my work early and getting feedback - even if feedback is anecdotal, like - “*yeah, I might use something like that for a web project*” - I will have the advantage of many people’s perspectives.
 
-So, here! I’ve shared my plans for camp! My colleagues at DockYard are getting ready as well. 
+So, here! I’ve shared my plans for camp! My colleagues at DockYard are getting ready as well.
 
 **Tim** is planning to either focus on a typeface he’s been crafting this year, or begin conceptualizing an idea for a live music website.
 
