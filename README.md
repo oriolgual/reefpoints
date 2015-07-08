@@ -29,7 +29,6 @@ $ rake preview
 ---
 layout: post
 title: "My Awesome Blog post"
-comments: true
 social: true
 author: Dan McClain
 twitter: "_danmcclain"
@@ -40,6 +39,7 @@ tags: tags, separating each, with commas
 ---
 ```
 
+* Make sure publish is true, otherwise your blog post will not appear
 * Place a new line underneath this meta data, and paste your content
 * Scroll to the bottom, adding a commit message summary in the present
   tense `Adds my awesome blog post`
