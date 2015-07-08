@@ -84,13 +84,6 @@ $ hub pull-request -m "My awesome blog post" -b dockyard:master
 
 * Or do it the old school way via the GitHub UI. Done getting feedback? Merge your branch into `master`.
 
-* Now publish your post to Reefpoints!
-
-```shell
-$ git checkout master
-$ git pull origin master
-$ rake publish
-```
 
 ## Legal ##
 
