@@ -28,11 +28,13 @@ The result was encouraging: I was able to fill about 25 sheets with rough drawin
 This year, I am hoping to try a slightly more involved project: repeat patterns. It will require a few extra tools, and a bit more space than last year’s.
 
 **The inspiration**
+
 I was inspired by Matisse - his paintings and even more, his creative process. He sourced colors and textures for his work from an extensive collection of textiles, artifacts and clothing. I want to create repeat patterns for use online ([an existing interest of mine](https://dockyard.com/blog/2014/07/23/repeat-patterns)) by sourcing color and texture inspiration from Matisse.
 
 ![Matisse and his patterns](https://i.imgur.com/PyK5h0F.jpg)
 
 **The tools**
+
 To sketch the patterns, I will bring:
 - Markers in a few colors
 - Sheer marker paper
@@ -41,9 +43,11 @@ To sketch the patterns, I will bring:
 - Scissors and clear tape to re-combine shapes
 
 **The process**
+
 I plan to start with a grid and play with layering patterns on sheer paper to arrive at different solutions. The initial drawings will likely be very messy, but I  expect that the clarity will improve as I work on the same idea a few times. 
 
 **The goal**
+
 I plan to iterate in public so I can take advantage of the camp setting. While a specific result (pattern) may look good and useful to me, others may offer an unexpected opinion. By showing my work early and getting feedback - even if feedback is anecdotal, like - “*yeah, I might use something like that for a web project*” - I will have the advantage of many people’s perspectives.
 
 So, here! I’ve shared my plans for camp! My colleagues at DockYard are getting ready as well. 
