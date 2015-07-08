@@ -1069,7 +1069,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/categories/design-research</loc>
+    <loc>https://dockyard.com/blog/2015/01/30/why-i-am-disappointed-in-react-native</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1087,7 +1087,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/2015/02/06/ember-qunit-0-2</loc>
+    <loc>https://dockyard.com/blog/categories/components</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1279,6 +1279,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://dockyard.com/blog/2015/07/08/my-project-for-ux-camp-2015</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://dockyard.com/blog/shared/ads/wicked-good-ember</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1393,6 +1399,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://dockyard.com/blog/categories/ux-east</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/ux-camp</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/repeat-pattern</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/pattern</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://dockyard.com/blog/categories/color</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1418,30 +1448,6 @@
   </url>
   <url>
     <loc>https://dockyard.com/blog/categories/uxcamp</loc>
-    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dockyard.com/blog/categories/components</loc>
-    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dockyard.com/blog/categories/phoenix</loc>
-    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dockyard.com/blog/categories/design-strategy</loc>
-    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dockyard.com/blog/categories/benchmarking</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1933,7 +1939,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockyard.com/blog/2015/01/30/why-i-am-disappointed-in-react-native</loc>
+    <loc>https://dockyard.com/blog/categories/design-research</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/benchmarking</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/design-strategy</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/categories/phoenix</loc>
+    <lastmod>2015-07-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockyard.com/blog/2015/02/06/ember-qunit-0-2</loc>
     <lastmod>2015-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
