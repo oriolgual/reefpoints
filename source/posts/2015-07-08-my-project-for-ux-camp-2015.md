@@ -19,7 +19,7 @@ The camp is a project based weekend, meaning that in addition to talks and works
 
 Last year, I focused on improving my visual thought process through quick sketching. I brought a clipboard, a felt tip marker and a stack of paper, and practiced quickly and roughly sketching out any ideas or notes that I wanted to capture throughout the event. My set-up (clipboard, paper and one pen) was intentionally minimal because I wanted to be able to pick up the project in the breaks between helping run and document the event, and listening to lectures and workshops.
 
-[My clipboard from UX Camp last year](https://i.imgur.com/K9TBWR9.jpg)
+![My clipboard from UX Camp last year](https://i.imgur.com/K9TBWR9.jpg)
 
 The result was encouraging: I was able to fill about 25 sheets with rough drawings, and got a bit more comfortable capturing my ideas in drawing form, rather than as a list or a paragraph of text.
 
@@ -30,7 +30,7 @@ This year, I am hoping to try a slightly more involved project: repeat patterns.
 **The inspiration**
 I was inspired by Matisse - his paintings and even more, his creative process. He sourced colors and textures for his work from an extensive collection of textiles, artifacts and clothing. I want to create repeat patterns for use online ([an existing interest of mine](https://dockyard.com/blog/2014/07/23/repeat-patterns)) by sourcing color and texture inspiration from Matisse.
 
-[Matisse and his patterns](https://i.imgur.com/PyK5h0F.jpg)
+![Matisse and his patterns](https://i.imgur.com/PyK5h0F.jpg)
 
 **The tools**
 To sketch the patterns, I will bring:
