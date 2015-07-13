@@ -52,6 +52,6 @@ Sharing your work, even with a small group of like-minded creative people, can a
 I had this “nudge” happen to me recently, as I was presenting a short talk here at DockYard about an idea I had been working on. I mentioned the domain name I had registered for it, but at the time of the talk, the website was still in draft mode. Brian called me out on that – “there’s nothing there yet!” – and I quickly proceeded to publish the site to be able to support my words when I mention the project again.
 
 
-## In summary –
+## In summary
 
 As we prepare for [UX Camp](http://uxcamp.com/), I realize more and more that the environment we are building is special exactly because it embodies all of the qualities of a supportive working environment. And the type of people who will go out of their way to rural Maine for a project-based learning weekend are exactly the type of people I want to be around.
