@@ -20,9 +20,9 @@ Four posts in this series:
 ## A yellow and blue fence
 ![yellow and blue painted fence](https://i.imgur.com/MTiklTJ.jpg)
 
-This is a cute fence that used to be painted blue and yellow and it was around a kindergarten building in Moscow, Russia early last year. But, the color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
+This is a fence that used to be painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
 
-After the brief scare, the kindergarten was not shut down or burned to the ground, but instead, simply had to repaint the fence. 
+After the brief scare, the kindergarten was not shut down or burned to the ground. Instead, they simply had to repaint the fence. 
 
 This shows we can’t use colors without understanding their cultural context. Let’s look at some other curious examples of what colors could mean to audiences of differing cultures.
 
@@ -38,7 +38,7 @@ Not necessarily. It is still a mystery to historians how exactly color was perce
 
 ![Umberto Eco color diagram](https://i.imgur.com/ciUZFQG.jpg)
 
-Color systems in Greek, Latin and other languages do not map neatly to the rainbow. Umberto Eco compares the color terms in the Hanunó'o language to the ones we use today. Instead of hue, tint and shade, they describe objects as light and dark, but also fresh vs. dry and edible vs. inedible.
+Color systems in Greek, Latin and other languages do not map neatly to the rainbow. Umberto Eco compares the [color terms in the Hanunó'o language](https://books.google.com/books?id=DRd1DZ-5MX0C&lpg=PA168&dq=color%20umberto%20eco%20Hanunoo&pg=PA170#v=onepage&q&f=false) to the ones we use today. Instead of hue, tint and shade, they describe objects as light and dark, but also fresh vs. dry and edible vs. inedible.
 
 ## Color is poetry in Heian period Japan
 ![Japanese kimono with layers of colored silk on a print](https://i.imgur.com/JGdn7kd.jpg)
@@ -54,7 +54,7 @@ The lighter blue in this example is called *голубой* and the darker blue 
 
 ![Pink and red in Chinese](https://i.imgur.com/dIiqNWl.jpg)
 
-A counter example in Chinese - the English differentiation between red and pink does not map directly to two separate color-terms. Instead, the pink (粉红, *fěn hóng*) is a *powder red* or a modification of  red (红 or 紅, *hóng*).
+A counter example in Chinese is that the English differentiation between red and pink does not map to two color-terms. Instead, the pink (粉红, *fěn hóng*) is a *powder red* or a modification of red (红 or 紅, *hóng*).
 
 ## Pink aisle blue aisle
 ![pink things photo](https://i.imgur.com/aLYJ3zv.jpg)
