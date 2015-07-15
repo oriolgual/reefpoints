@@ -9,7 +9,7 @@ published: true
 tags: UX, UX design, Design, color, art
 ---
 
-*This post is based on a talk I presented at [UX Burlington](http://uxburlington.com/)*
+*This post is based on a talk I will be presenting at [UX Camp](http://uxcamp.com/) July 18–20, 2015.*
 
 Four posts in this series:
 - [Part 1: Color use in art history](https://dockyard.com/blog/2015/06/25/color-1-art-history)
