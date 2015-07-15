@@ -17,7 +17,7 @@ Four posts in this series:
 - *Part 3: A quick intro to color theory (coming soon)*
 - *Part 4: A three-step approach to selecting color for UX design (coming soon)*
 
-## A yellow and blue fence
+## A dangerous color combination
 ![yellow and blue painted fence](https://i.imgur.com/MTiklTJ.jpg)
 
 This is a fence that used to be painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
