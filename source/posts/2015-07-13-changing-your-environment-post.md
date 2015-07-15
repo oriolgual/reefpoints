@@ -42,7 +42,7 @@ Another important aspect of a working environment is giving and receiving feedba
 
 Creative feedback is a two-way process: in order to receive it, we have to be prepared to give it as well. Investing time to learn about others’ process and goals may feel like a setback when you are eager to make progress on your own ideas, but, aside from being a fair exchange, it’s also beneficial to broaden your frame of reference.
 
-Diving and receiving feedback openly has another advantage. When you expect to share your work in a supportive environment, you’re mentally preparing to explain your project to someone who is unfamiliar with it. Just the effort of translating your thoughts into a clear outline for others to understand can expose potential improvements in the process, and make your work better before you even begin to share it. In a common scenario, you could start explaining a complex bug you’ve been dealing with, then stop halfway with an “aha!” because the explanation caused you to solve the problem yourself.
+Giving and receiving feedback openly has another advantage. When you expect to share your work in a supportive environment, you’re mentally preparing to explain your project to someone who is unfamiliar with it. Just the effort of translating your thoughts into a clear outline for others to understand can expose potential improvements in the process, and make your work better before you even begin to share it. In a common scenario, you could start explaining a complex bug you’ve been dealing with, then stop halfway with an “aha!” because the explanation caused you to solve the problem yourself.
 
 
 ## 5. The nudge
