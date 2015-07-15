@@ -20,7 +20,7 @@ Four posts in this series:
 ## A dangerous color combination
 ![yellow and blue painted fence](https://i.imgur.com/MTiklTJ.jpg)
 
-This is a fence that used to be painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
+This was a fence painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
 
 After the brief scare, the kindergarten was not shut down or burned to the ground. Instead, they simply had to repaint the fence. 
 
