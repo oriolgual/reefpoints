@@ -34,28 +34,27 @@ There are [dozens of references](http://www.nytimes.com/1983/12/20/science/homer
 
 ![Primary colors arranged from light yellow to dark blue with red in the middle](https://i.imgur.com/Eg5k2Kp.jpg)
 
-Not necessarily. It is still a mystery to historians how exactly color was perceived in ancient Greece. My favorite explanation is that color, meaning hue, did not matter as much as how dark or light an object appeared. Another important quality was the surface: a shiny and a matte object that we might describe as the same color would not read as the same color quality in ancient Greece.
+Not necessarily. It is still a mystery to historians how exactly color was perceived in ancient Greece. My favorite explanation is that color, meaning hue, did not matter as much as how dark or light an object appeared.
 
 ![Umberto Eco color diagram](https://i.imgur.com/ciUZFQG.jpg)
 
-In fact, the color systems in Greek, Latin and various other languages and cultures do not convert neatly to our contemporary  R-O-Y-G-B-I-V spectrum of colors. As the most telling example of how different things can be, Umberto Eco uses the color system of the Hanunoo people. They described objects in terms of light and dark, but also fresh vs. dry and edible vs. inedible. 
-
+Color systems in Greek, Latin and other languages do not map neatly to the rainbow. Umberto Eco compares the color terms in the Hanunó'o language to the ones we use today. Instead of hue, tint and shade, they describe objects as light and dark, but also fresh vs. dry and edible vs. inedible.
 
 ## Color is poetry in Heian period Japan
 ![Japanese kimono with layers of colored silk on a print](https://i.imgur.com/JGdn7kd.jpg)
 ![A second print of a group of courtiers in kimono](https://i.imgur.com/SaricBU.jpg)
 
-Compared to Homer’s Greece, Japan, especially in the Heian period, is an opposite extreme. People at court really cared about colors. You could look at the arrangement of the layers of silk in someone’s sleeve, and you’d learn their social status, their sophistication, knowledge of the arts and their ability to poetically reflect the current season and mood through clothing.
+Japan in the Heian period is the opposite of Homer’s Greece. People at court really care about colors. By looking at the arrangement of the layers of silk in someone’s sleeve, you could judge their social status, sophistication, and knowledge of the arts.
 
 
 ## Language differences today
 ![blue vs blue in Russian google image search](https://i.imgur.com/hpXsHzO.jpg)
 
-The lighter blue is called *голубой* and the darker blue is *синий*. They roughly correspond to sky blue and indigo - and actually are different colors in the rainbow, but the most commonly used and translated version is to simply call them both “blue”.
+The lighter blue in this example is called *голубой* and the darker blue is *синий*. They roughly correspond to sky blue and indigo. While they are different colors in the rainbow, the most commonly used translation for both is simply “blue”.
 
 ![Pink and red in Chinese](https://i.imgur.com/dIiqNWl.jpg)
 
-A counter example in Chinese - the English differentiation between red and pink does not map directly to two separate words. Instead, the pink (粉红, *fěn hóng*) is a *powder red* or a modification of  red (红 or 紅, *hóng*).
+A counter example in Chinese - the English differentiation between red and pink does not map directly to two separate color-terms. Instead, the pink (粉红, *fěn hóng*) is a *powder red* or a modification of  red (红 or 紅, *hóng*).
 
 ## Pink aisle blue aisle
 ![pink things photo](https://i.imgur.com/aLYJ3zv.jpg)
@@ -64,11 +63,11 @@ A counter example in Chinese - the English differentiation between red and pink 
 
 Artwork by [JeongMee Yoon](http://www.jeongmeeyoon.com/aw_pinkblue.htm)
 
-And actually - let’s look at pink for a bit. Where did this tradition of pink for girls and blue for boys come from? The concept of pink aisle and blue aisle is clearly a recent marketing construct, but why do we so easily assume that it just makes sense for girls’ things to be pink?
+Let’s take a closer look at pink. Where did the tradition of pink for girls and blue for boys come from? Why do we so easily assume that it just makes sense for girls’ things to be pink?
 
 ![Anthony Van Dyck painting with pink and blue](https://i.imgur.com/5xnNjIE.jpg)
 
-In the 1600s and 1700s it was quite clear that a strong color like red - or its lighter version, pink, would be appropriate for a Flemish boy to grow up strong and masculine. A more subdued, softer shade of blue would clearly fit a girl better, because a 1700s woman was supposed to have a softer, quieter nature.
+In the 1600s and 1700s it was assumed that a strong color like red - or its lighter version, pink, was appropriate for a Flemish boy to grow up strong and masculine. A more subdued, softer shade of blue would clearly fit a girl better, because a 1700s woman was supposed to have a softer, quieter nature.
 
 ![Red states vs blue states](https://i.imgur.com/UIlbnl5.jpg)
 
@@ -79,13 +78,13 @@ Even the seemingly established red for Republican and  and blue for Democrat met
 ### Green
 ![Islam, recycling, yes symbols collage](https://i.imgur.com/PaS1pum.jpg)
 
-The color green is most often used to mean money. Because, well, one of the richest countries in the world happens to print money in this green color. The color of money in the US is actually related to an earlier Dutch reference: the cloth on bankers’ money counting tables used to be a deep emerald green. Regardless of the source - other countries with much more varied color currencies simply had to adjust to how the US read “green”.
+The color green is most often used to mean money. It just happens that one of the richest countries in the world prints “greenbacks”. Our green currency is partially due to the plentiful and stable ink that was available at the time, but also related to an earlier Dutch reference: the cloth on bankers’ money counting tables used to be a deep emerald green. Regardless of the source - other countries with much more varied color currencies simply had to adjust to how the US reads “green”.
 
 In predominantly Muslim countries, a stronger cultural reference for the color green is the religion of Islam. 
 
-When  we’re talking about natural things, or, say, sourcing materials - green stands for ecology and recycling. 
+When  we’re talking about natural things, or, say, sourcing construction materials - green stands for ecology and recycling. 
 
-And finally, the meaning of green in user interfaces (when it is part of a system with red and yellow) is similar to a traffic light: green is “success”. 
+And, of course, the meaning of green in user interfaces is similar to a traffic light: green is “success”. 
 
 Let’s keep going.
 
@@ -107,6 +106,6 @@ Just a few examples of “obvious” meanings of yellow: Buddhist monks, alert m
 
 ## It’s a mess. Where do we go from here?
 
-So we’ve seen examples of color meaning that contradict each other (which one to pick?) There are many more. We took time to look at them in order to become sufficiently scared of misunderstanding our users and then actually do our research. 
+So we’ve seen examples of color meaning that contradict each other (which one to pick?) There are many more. We took time to look at them so that we can be sufficiently scared of misunderstanding our users. This way, we’ll actually do our research.
 
-The formula is this: politics + cultural context + language differences + how important is color to the audience. This is how you know where to check for mistakes in selecting UI and brand colors. Always check your defaults and assumptions, and you’ll reduce the risk of a cultural #facepalm.
+The formula is this: add together politics, cultural context, language differences, and how important color is to the audience. This is how you know where to check for mistakes in selecting UI and brand colors. Always check your defaults and assumptions, and you’ll reduce the risk of a cultural #facepalm.
