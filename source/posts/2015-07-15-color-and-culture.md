@@ -46,33 +46,6 @@ Color systems in Greek, Latin and other languages do not map neatly to the rainb
 
 Japan in the Heian period is the opposite of Homer’s Greece. People at court really care about colors. By looking at the arrangement of the layers of silk in someone’s sleeve, you could judge their social status, sophistication, and knowledge of the arts.
 
-
-## Language differences today
-![blue vs blue in Russian google image search](https://i.imgur.com/hpXsHzO.jpg)
-
-The lighter blue in this example is called *голубой* and the darker blue is *синий*. They roughly correspond to sky blue and indigo. While they are different colors in the rainbow, the most commonly used translation for both is simply “blue”.
-
-![Pink and red in Chinese](https://i.imgur.com/dIiqNWl.jpg)
-
-A counter example in Chinese is that the English differentiation between red and pink does not map to two color-terms. Instead, the pink (粉红, *fěn hóng*) is a *powder red* or a modification of red (红 or 紅, *hóng*).
-
-## Pink aisle blue aisle
-![pink things photo](https://i.imgur.com/aLYJ3zv.jpg)
-
-![blue things photo](https://i.imgur.com/wwCrF4L.jpg)
-
-Artwork by [JeongMee Yoon](http://www.jeongmeeyoon.com/aw_pinkblue.htm)
-
-Let’s take a closer look at pink. Where did the tradition of pink for girls and blue for boys come from? Why do we so easily assume that it just makes sense for girls’ things to be pink?
-
-![Anthony Van Dyck painting with pink and blue](https://i.imgur.com/5xnNjIE.jpg)
-
-In the 1600s and 1700s it was assumed that a strong color like red - or its lighter version, pink, was appropriate for a Flemish boy to grow up strong and masculine. A more subdued, softer shade of blue would clearly fit a girl better, because a 1700s woman was supposed to have a softer, quieter nature.
-
-![Red states vs blue states](https://i.imgur.com/UIlbnl5.jpg)
-
-Even the seemingly established red for Republican and  and blue for Democrat metaphor is quite new. Red and blue states used to switch each election season, and only in the year 2000 they somehow got stuck.
-
 ## How do you read a color?
 
 ### Green
