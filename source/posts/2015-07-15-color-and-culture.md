@@ -20,11 +20,11 @@ Four posts in this series:
 ## A yellow and blue fence
 ![yellow and blue painted fence](https://i.imgur.com/MTiklTJ.jpg)
 
-This is a cute fence that used to be painted blue and yellow and it was around a kindergarten building in Moscow, Russia early last year. But, the color of the fence almost caused it to be shut down. Because, about the same time, there was political turmoil between Russia and Ukraine - with tension and suspicion pointing both ways - and the fence colors just happened to be a cheery combination of blue and yellow that matched the flag of the Ukraine. 
+This is a cute fence that used to be painted blue and yellow and it was around a kindergarten building in Moscow, Russia early last year. But, the color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
 
-After a brief scare, the kindergarten was not shut down or burned to the ground, but merely had to repaint its fence in one of the fastest territory improvement projects they had ever completed.
+After the brief scare, the kindergarten was not shut down or burned to the ground, but instead, simply had to repaint the fence. 
 
-This shows - we can’t use colors without understanding their cultural context, and what they could mean to the audience. Let’s look at a few more curious examples.
+This shows we can’t use colors without understanding their cultural context. Let’s look at some other curious examples of what colors could mean to audiences of differing cultures.
 
 ## Did Ancient Greeks care about color?
 ![Dark maroon sea photo](https://i.imgur.com/FyimJwL.jpg)
