@@ -40,9 +40,8 @@ Not necessarily. It is still a mystery to historians how exactly color was perce
 
 Color systems in Greek, Latin and other languages do not map neatly to the rainbow. Umberto Eco compares the [color terms in the Hanunó'o language](https://books.google.com/books?id=DRd1DZ-5MX0C&lpg=PA168&dq=color%20umberto%20eco%20Hanunoo&pg=PA170#v=onepage&q&f=false) to the ones we use today. Instead of hue, tint and shade, they describe objects as light and dark, but also fresh vs. dry and edible vs. inedible.
 
-## Color is poetry in Heian period Japan
+## Color is poetry
 ![Japanese kimono with layers of colored silk on a print](https://i.imgur.com/JGdn7kd.jpg)
-![A second print of a group of courtiers in kimono](https://i.imgur.com/SaricBU.jpg)
 
 Japan in the Heian period is the opposite of Homer’s Greece. People at court really care about colors. By looking at the arrangement of the layers of silk in someone’s sleeve, you could judge their social status, sophistication, and knowledge of the arts.
 
