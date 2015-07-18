@@ -25,11 +25,17 @@ xml.urlset 'xmlns' => "http://www.sitemaps.org/schemas/sitemap/0.9" do
     end
   end
   xml.url do
-      xml.loc "https://dockyard.com/ember-consulting"
-      xml.lastmod Date.today.to_time.iso8601
-      xml.changefreq 'weekly'
-      xml.priority '0.9'
-    end
+    xml.loc "https://dockyard.com/ember-consulting"
+    xml.lastmod Date.today.to_time.iso8601
+    xml.changefreq 'weekly'
+    xml.priority '0.9'
+  end
+  xml.url do
+    xml.loc "https://dockyard.com/design-consulting"
+    xml.lastmod Date.today.to_time.iso8601
+    xml.changefreq 'weekly'
+    xml.priority '0.9'
+  end
   sitemap.resources.select { |page| page.path =~ /\.html/ }.each do |page|
     xml.url do
       xml.loc "https://dockyard.com/blog#{page.url.sub(/.html/, '')}"
