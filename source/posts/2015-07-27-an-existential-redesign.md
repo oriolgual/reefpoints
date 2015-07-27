@@ -12,7 +12,7 @@ tags: design, design process, design thinking, business, user experience
 
 **tl;dr** Particularly in branding oriented design, designing for yourself *really is* much harder than designing for others. Iteration is important, but ensuring you’re iterating in the direction you actually want to be heading is equally (if not more) important.
 
-When we started our company repositioning, we knew we had a great, passionate team of designers and engineers together in one office space. We knew that our focus on collaboration would allow us to create something larger than ourselves. The unique story wasn’t that we collaborate, but it’s more about who we are and why we’re here together. What we’ve come to realize is that everyone, whether they’re a designer, developer, or project manager, is here to deliver the most impactful and delightful user experience they can. Period. Full stop.
+When we started our company repositioning, we knew we had a great, passionate team of designers and engineers together in one office space. We knew that our focus on collaboration would allow us to create something larger than ourselves. The unique story wasn’t that we collaborate, but is more about who we are and why we’re here together. What we’ve come to realize is that everyone, whether they’re a designer, developer, or project manager, is here to deliver the most impactful and delightful user experience they can. Period. Full stop.
 
 Communicating those goals to everyone outside the walls of the business is the real challenge, however. Boiling down those huge goals that are important to us (the reasons we exist) into something that is consumable and effective for the business is a struggle. Most of the writing felt inaccurate, fluffy, or just purely missed the mark. The same was true for visual communication of that language.
 
@@ -56,6 +56,6 @@ But that message will never be perfect, will it? Putting up a site like ours and
 
 We treat our releases now like we would any client project. We experiment, collaborate, create timelines, do reviews, and dedicate people to the project full time. This is how we’re able to deliver on client projects, and it’s how we’ll continue to deliver on the DockYard website, events, and other projects.
 
-![An evolution of our logomark](https://i.imgur.com/PtDC6HB.gifv)
+![An evolution of our logomark](https://i.imgur.com/PtDC6HB.gif)
 
 The site and brand are a significant improvement over what we’ve had in the past, and they’re a great base for continuous iteration. Content, photography, illustration, and even branding will evolve with much greater ease here, and that makes me very excited for what’s to come.
