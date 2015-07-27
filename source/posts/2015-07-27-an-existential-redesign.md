@@ -45,7 +45,7 @@ Some pattern work was considered for masthead imagery, but ultimately it never c
 ![A very silly placeholder photography of an astronaut on fire](https://i.imgur.com/y0eZm7r.jpg)
 
 ## Content is hard, people!
-We knew it wasn’t going to be easy, of course, but then we tried hiring an outside editor to help us improve the content we had created according to our messaging goals. They made a lot of promises, and we framed our project timeline around them. After several disappearances and  excuses, then later explaining they never made movement on the work, we moved on. We went back to the process we use for every blog post: one owner of the content, and team review on Github or Google Docs.
+We knew it wasn’t going to be easy, of course, but then we tried hiring an outside editor to help us improve the content we had created according to our messaging goals. They made a lot of promises, and we framed our project timeline around them. After several disappearances and  excuses, then later finding out that they never made movement on the work, we moved on. We went back to the process we use for every blog post: one owner of the content, and team review on Github or Google Docs.
 
 Aside from that, we had created a lot of content over the years, but had deemed it all out of date with our current thinking. So we wrote it all over again. In the process of writing we discovered better branding positioning and a better content strategy.
 
