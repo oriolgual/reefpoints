@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "An Existential Redesign"
-comments: false
 author: 'Steven Trevathan'
 twitter: 'strevat'
 social: true
@@ -9,7 +8,7 @@ summary: 'Reflections on the experience of creating the new DockYard'
 published: true
 tags: design, design process, design thinking, business, user experience
 ---
-[The visual evolution](http://i.imgur.com/m6qxC6g.jpg)
+![The visual evolution](http://i.imgur.com/m6qxC6g.jpg)
 **tl;dr** Particularly in branding oriented design, designing for yourself *really is* much harder than designing for others. Iteration is important, but ensuring you’re iterating in the direction you actually want to be heading is equally (if not more) important.
 
 When we started our company repositioning, we knew we had a great, passionate team of designers and engineers together in one office space. We knew that our focus on collaboration would allow us to create something larger than ourselves. The unique story wasn’t that we collaborate, but it’s more about who we are and why we’re here together. What we’ve come to realize is that everyone, whether they’re a designer, developer, or project manager, is here to deliver the most impactful and delightful user experience they can. Period. Full stop.
@@ -23,7 +22,7 @@ I’m very happy with the release of our site and company direction, and I hope 
 ## The sawing in the garage
 It started small, quiet, with hardly any expectation to grow into a project. We were experimenting to see what something more representative of our design process and skill might look like. And what a very big project that became.
 
-[Early sketches in the design process](http://i.imgur.com/BoA1Q9Z.jpg)
+![Early sketches in the design process](http://i.imgur.com/BoA1Q9Z.jpg)
 
 Initially, we were in unbound exploration mode using our 20% time (we reserve Fridays for improving craft / professional development) to freely experiment with the design vision for DockYard. Undoubtedly a valuable use of time as it stirred up the realization of our need for a full repositioning, but the actual scope of the project crept up on us fast.
 
@@ -34,15 +33,15 @@ We followed many paths. Many were really not optimal, even though at times quite
 
 - **Illustrate darn near everything**
 This is one of those reactions to your own work where you feel a little crammed in a box and just want to “do you”. After a couple days of self reflection on this we had to tell ourselves the obvious: we’re designing a site for a product design and development services company, not a game or event promotional site. This served the latter much better than the former, and we moved on after a few iterations that included degrees of illustration use. While beautiful, unique, and fun to experiment with, they didn’t meet our own business goals. It was part of what we do, not **all** we do.
-[Illustrated city over a world of water that contained the rest of the page content](http://i.imgur.com/J9tpLl9.jpg)
+![Illustrated city over a world of water that contained the rest of the page content](http://i.imgur.com/J9tpLl9.jpg)
 
 - **Patterns**
 Some pattern work was considered for masthead imagery, but ultimately it never communicated anything, so we killed that as well. Perhaps we’ll bring back some patterns in the future, but it’s going to depend on the content of the page. In these cases they felt like mere decoration without reason.
-[An animated grid pattern concept](http://i.imgur.com/SaCLphO.jpg)
+![An animated grid pattern concept](http://i.imgur.com/SaCLphO.jpg)
 
 - **Photography**
  We relied upon photography pretty heavily for our last site, and perhaps subconsciously we decided we would avoid it for the new site. Because we did, and for a long time. We used some silly photographs here and there that we found as placeholder, but didn’t take the approach seriously until iteration began on the site design you see today.
-[A very silly placeholder photography of an astronaut on fire](http://i.imgur.com/y0eZm7r.jpg)
+![A very silly placeholder photography of an astronaut on fire](http://i.imgur.com/y0eZm7r.jpg)
 
 ## Content is hard, people!
 We knew it wasn’t going to be easy, of course, but then we tried hiring an outside editor to help us improve the content we had created according to our messaging goals. They made a lot of promises, and we framed our project timeline around them. After several disappearances and  excuses, then later explaining they never made movement on the work, we moved on. We went back to the process we use for every blog post: one owner of the content, and team review on Github or Google Docs.
@@ -56,6 +55,6 @@ But that message will never be perfect, will it? Putting up a site like ours and
 
 We treat our releases now like we would any client project. We experiment, collaborate, create timelines, do reviews, and dedicate people to the project full time. This is how we’re able to deliver on client projects, and it’s how we’ll continue to deliver on the DockYard website, events, and other projects.
 
-[An evolution of our logomark](http://i.imgur.com/PtDC6HB.gifv)
+![An evolution of our logomark](http://i.imgur.com/PtDC6HB.gifv)
 
 The site and brand are a significant improvement over what we’ve had in the past, and they’re a great base for continuous iteration. Content, photography, illustration, and even branding will evolve with much greater ease here, and that makes me very excited for what’s to come.
