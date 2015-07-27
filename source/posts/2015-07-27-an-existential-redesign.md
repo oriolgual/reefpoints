@@ -9,6 +9,7 @@ published: true
 tags: design, design process, design thinking, business, user experience
 ---
 ![The visual evolution](http://i.imgur.com/m6qxC6g.jpg)
+
 **tl;dr** Particularly in branding oriented design, designing for yourself *really is* much harder than designing for others. Iteration is important, but ensuring you’re iterating in the direction you actually want to be heading is equally (if not more) important.
 
 When we started our company repositioning, we knew we had a great, passionate team of designers and engineers together in one office space. We knew that our focus on collaboration would allow us to create something larger than ourselves. The unique story wasn’t that we collaborate, but it’s more about who we are and why we’re here together. What we’ve come to realize is that everyone, whether they’re a designer, developer, or project manager, is here to deliver the most impactful and delightful user experience they can. Period. Full stop.
