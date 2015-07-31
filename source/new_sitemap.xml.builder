@@ -8,7 +8,7 @@ xml.urlset 'xmlns' => "http://www.sitemaps.org/schemas/sitemap/0.9" do
       xml.priority '0.6'
     end
   end
-  ['learnivore', 'credit-card-reviews', 'scratch-wireless'].each do |work|
+  ['learnivore', 'credit-card-reviews', 'scratch-wireless', 'mcgraw-hill-education'].each do |work|
     xml.url do
       xml.loc "https://dockyard.com/work/#{work}"
       xml.lastmod Date.today.to_time.iso8601
