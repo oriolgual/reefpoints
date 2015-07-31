@@ -1,13 +1,5 @@
 .l-wrap--blog__filter
   %strong.filter__header= "#{pluralize(blog.articles.select { |article| article.author == authorname }.size, 'post')} by #{authorname}"
 
-  .author__avatar-wrap
-    - if current_path == 'authors/christopher-plummer.html'
-      %img{src: "/images/team/default.jpg", class: 'author__avatar'}
-    - else
-      %img{src: "/images/team/#{authorname.parameterize}.jpg", class: 'author__avatar'}
-    %p.author__bio= partial 'shared/' + authorname.parameterize<<'-bio'
-    - unless current_path == 'authors/angelo-simeoni.html' || current_path == 'authors/chris-gill.html' || current_path == 'authors/russ-jones.html' || current_path == 'authors/christopher-plummer.html' || current_path == 'authors/alex-navasardyan.html' || current_path == 'authors/logan-faerber.html'
-      = link_to 'Read the full bio →', "http://dockyard.com/team##{authorname.parameterize}", class: 'author__link'
 
   = partial 'articles', :locals => { :articles => page_articles }

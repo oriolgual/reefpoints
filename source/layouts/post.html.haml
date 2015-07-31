@@ -16,44 +16,6 @@
 
     .post__content
       = yield
-
-    .post__share
-      %a.twitter-share-button{href: 'https://twitter.com/share', data: { url: "http://reefpoints.dockyard.com#{current_page.url}", via: 'DockYard' }} Tweet
-      :javascript
-        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
-      .g-plusone{data: {size: 'medium', width: '100', href: '#'}}
-      :javascript
-        (function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
-      %span.post__share--github If you see an issue, please send a <a href='https://github.com/dockyard/reefpoints/blob/master/source/posts/', class='text-link post__issue', target: '_blank'>pull request</a> to contribute.
-
-    .related-posts-wrap
-      - if blog.articles.select { |article| article.author == current_page.author }.size > 1
-        .post__avatar-wrap
-          %img.post__avatar{src: "/images/team/#{current_page.author.parameterize}.jpg"}
-          %h5.post__avatar__name= current_page.author
-          %h5.post__avatar__position.headline--sub
-            = partial 'shared/' + current_page.author.parameterize<<'-position'
-          - if current_page.social
-            = partial 'shared/social'
-        .related-posts
-          %h3.related-posts__header.headline--sub= "Other posts by #{current_page.author.split[0...1].join(' ')}"
-          - blog.articles.select { |article| article.author == current_page.author && article.path != current_page.path }[0..1].each do |post|
-            = link_to post.url, class: 'related-post' do
-              %h2.related-post__title= post.title
-              %p= ordinal_date post.date
-          = link_to "See all #{pluralize(blog.articles.select { |article| article.author == current_page.author }.size, 'post')} by #{current_page.author.split[0...1].join(' ')}", author_path(current_page.author), class: 'related-posts-link text-link'
-      - else
-        .post__avatar-wrap-is-centered
-          - if current_page.author == "Christopher Plummer"
-            %img{src: "/images/team/default.jpg", class: 'post__avatar'}
-          - else
-            %img{src: "/images/team/#{current_page.author.parameterize}.jpg", class: 'post__avatar'}
-          %h5.post__avatar__name= current_page.author
-          %h5.post__avatar__position.headline--sub
-            = partial 'shared/' + current_page.author.parameterize<<'-position'
-          - if current_page.social
-            = partial 'shared/social'
-
     %p.post__tags= tag_links(current_page.tags)
 
     - if current_page.comments
