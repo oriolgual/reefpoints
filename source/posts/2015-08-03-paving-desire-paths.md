@@ -9,7 +9,7 @@ published: true
 tags: design, design thinking, user experience, observations
 ---
 
-![A desire path](http://i.imgur.com/HCN4mDr.jpg?1)
+![A desire path](https://i.imgur.com/HCN4mDr.jpg?1)
 
 <a href="https://flic.kr/p/5kDxUt">Desire path</a> by <a href="https://flic.kr/ps/2gcpv7">wetwebwork </a> is licensed under <a href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 
@@ -23,7 +23,7 @@ However this is not the best practice. What the park planner lacks in this scena
 
 Imagine instead they had planted grass and trees and waited a year or so for users to interact with the park. The result would be a network of natural paths created and defined by users. At this point, the park planner could then pave all the paths, feeling confident that the decisions were justified. This method of design is not only efficient, it is also affordable. A little bit of research can save on both time and money, all while creating a better experience.  
 
-Desire paths are a design principle that can be applicable to any industry. Let’s take a look at Twitter. During its humble beginnings Twitter was a pretty basic service, offering not much besides a stream of updates from your friends. Over time,Twitter noticed some unexpected trends appearing in their service. People who wanted to reply to someone else would simply direct it at them with an @ symbol and then enter the user's name. (i.e. @Bill). As more people began doing this, Twitter began to take notice, eventually integrating it into the service. The same thing happened with hashtags and group discussions. 
+Desire paths are a design principle that can be applicable to any industry. Let’s take a look at Twitter. During its humble beginnings Twitter was a pretty basic service, offering not much besides a stream of updates from your friends. Over time, Twitter noticed some unexpected trends appearing in their service. People who wanted to reply to someone else would simply direct it at them with an @ symbol and then enter the user's name. (i.e. @Bill). As more people began doing this, Twitter began to take notice, eventually integrating it into the service. The same thing happened with hashtags and group discussions. 
 
 What Twitter did correctly was first come up with a solid concept and deploy it, paying close attention to their user base. They provided the infrastructure, then sat back and watched as people used it to their liking. From this, natural trends began to emerge, paths became visible, and soon features were being defined - not by the service, but by the users.
 
