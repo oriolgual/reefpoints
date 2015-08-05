@@ -39,12 +39,13 @@ config :plug, :mimes, %{
 }
 ```
 
-Next you will likely have to recompile Plug:
+Now we have to force Plug to recompile. To do this we have to `touch` a
+file in the dependnecy. This may seem a little odd but the [documentation
+recommends this](https://github.com/elixir-lang/plug/blob/0118337b990aa2109a7b9152ea1e244a37c7dd07/lib/plug/mime.ex#L5-L16).
+
+`> touch deps/plug/mix.exs`
 
 `> mix deps.compile plug`
-
-[Check out the associated documentation for
-this](https://github.com/elixir-lang/plug/blob/0118337b990aa2109a7b9152ea1e244a37c7dd07/lib/plug/mime.ex#L5-L16)
 
 I like to namespace my APIs so I created a scope and piped it through my
 `api` pipeline:
