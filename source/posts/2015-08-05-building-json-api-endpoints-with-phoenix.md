@@ -29,6 +29,15 @@ pipeline :api do
 end
 ```
 
+We next need to add the corresponding MIME type:
+
+# config/config.exs
+
+config :plug, :mimes, %{
+  "application/vnd.api+json" => ["json-api"]
+}
+```
+
 Next you will likely have to recompile Plug:
 
 `> mix deps.compile plug`
