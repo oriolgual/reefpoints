@@ -31,6 +31,7 @@ end
 
 We next need to add the corresponding MIME type:
 
+```
 # config/config.exs
 
 config :plug, :mimes, %{
