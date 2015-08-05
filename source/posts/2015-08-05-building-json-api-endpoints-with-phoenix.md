@@ -18,7 +18,7 @@ hooked everything up.
 
 You first need to tell Phoenix that it should accept `json-api` format.
 I created a new
-[pipeline/2](http://hexdocs.pm/phoenix/Phoenix.Router.html#pipeline/2)
+`[pipeline/2](http://hexdocs.pm/phoenix/Phoenix.Router.html#pipeline/2)`
 for the API:
 
 ```elixir
@@ -101,10 +101,10 @@ deatils.
 
 ## Consuming
 
-Ember Data not only expected to get JSON API format but also sends JSON
+Ember Data not only expects to get JSON API format but also sends JSON
 API format back to the server when you are creating or updating. The
-attributes come in hyphenated and everythig is nested under `"data" =>
-"attributes"`. Here is how I made life easier for me.
+attributes keys come in hyphenated and everythig is nested under `"data" =>
+"attributes"`. Here is how I made life easier for mmyself.
 
 I first wrote a new plug that deserializes all params that are coming in
 by forcing hyphenated keys to underscore format. It works recursively on
@@ -158,11 +158,14 @@ end
 ```
 
 Next, JSON API's schema is verbose and I didn't want to have to deal with this in my actions,
-Elixir's pattern matching is perfect for this.
+Elixir's pattern matching is perfect for this. I capture all the
+attributes into `params`:
 
 ```elixir
 def create(conn, %{"data" => %{"attributes" => params}, "type" => "json-api"}) do
-  # create action
+  # create action now has
+  # a "params" object with all the
+  # attribute date from the client request
 end
 ```
 
@@ -170,5 +173,5 @@ We can even guard the action for JSON API specific types.
 
 ## Conclusion
 
-Getting JSON API working with Phoenix takes a hoops to jump through, but
+Getting JSON API working with Phoenix takes a few hoops to jump through, but
 hopefully this helps you get up and running.
