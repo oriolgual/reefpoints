@@ -12,7 +12,7 @@ tags: ember, javascript, addon
 > /swäv/
 > "Smooth in texture, performance, or style"
 
-You may have heard of this thing called [`ember-suave`](https://github.com/dockyard/ember-suave). It's a handy Ember CLI addon that [Robert Jackson](https://twitter.com/rwjblue) and I put together a few months ago to enforce code style consistency across teams and projects.
+You may have heard of this thing called [`ember-suave`](https://github.com/dockyard/ember-suave). It's a handy Ember CLI addon that [Robert Jackson](https://twitter.com/rwjblue) and I put together a few months ago to enforce code style consistency across teams and projects. _If you're wondering how the addon got its name, just ask Rob. He was feeling inspired that day._
 
 `ember-suave` uses [JSCS](http://jscs.info/) to ensure that your code conforms to a set of code style rules, and fails your tests if it doesn't.
 
@@ -36,13 +36,13 @@ With JSCS, you control which rules to enable within a project by specifying the 
 
 Assuming you're adhering to a single style guide for all your projects, the configuration would be the same everywhere. `ember-suave` exists so you don't have to recreate and maintain that file in every project. The addon comes bundled with a default configuration file that's nicely tucked away within the addon itself so you don't have to muck with it.
 
-Using the addon consists simply of running `ember install ember-suave`, then monitor your console for error messages during development.
+Using the addon consists simply of running `ember install ember-suave`, then monitoring your console for error messages during development.
 
 `ember-suave` also creates a test for each file it finds in your project, so that you can enforce the code style rules as part of your continuous integration flow, and fail any builds that don't comply.
 
 ## You don't rule `ember-suave`. `ember-suave` rules you.
 
-Actually, that's not quite true. The addon was made to be quite configurable.
+Actually, that's not exactly true. The addon was made to be quite configurable.
 
 You can use it as is, or you can tweak which rules to enable or disable. To configure `ember-suave`, simply create a `.jscsrc` file at the root of your project, listing just those rules that you want to modify. The addon will take care of merging your custom configuration with its own. For example, the following `.jscsrc` file would set a different indentation style from the default of 2 spaces. It would also disable the `requireSpaceBetweenArguments` rule and instruct JSCS to ignore all the files in the `fixtures` folder:
 
@@ -56,7 +56,7 @@ You can use it as is, or you can tweak which rules to enable or disable. To conf
 
 ## Need more suaveness?
 
-If you have a particular code style need but no  rule exists in JSCS yet, you can easily roll your own. In fact, `ember-suave` ships with a few [custom rules](https://github.com/dockyard/ember-suave/tree/master/lib/rules) already. Let's take a look at the rule that disallows the use of `var`, preferring `const` and `let` instead:
+If you have a particular code style need but no rule exists in JSCS yet, you can easily roll your own. In fact, `ember-suave` ships with a few [custom rules](https://github.com/dockyard/ember-suave/tree/master/lib/rules) already. Let's take a look at the rule that disallows the use of `var`, preferring `const` and `let` instead:
 
 ```js
 // lib/rules/disallow-var.js
@@ -147,4 +147,4 @@ You can also refer to the many [rules](https://github.com/jscs-dev/node-jscs/tre
 
 `ember-suave` started as an internal need at DockYard to enforce our [style guide](https://github.com/dockyard/styleguides/blob/master/javascript.md) in a painless, automatable way.
 
-That said, the addon was built such that anyone can take advantage of the tool. If you start a new Ember CLI project, I recommend you check it out. And if you're thinking of dropping it into an existing project, but fear that the sheer amount of potential error messages would be too time-consuming to address all at once, you can always start by disabling all the rules, then re-enable them one rule at a time. Or you could exclude specific folders too; whatever helps bring more suaveness to your code.
+That said, the addon was built such that anyone can take advantage of the tool. If you start a new Ember CLI project, I recommend you check it out. And if you're thinking of dropping it into an existing project, but fear that the sheer amount of potential error messages would be too time-consuming to address all at once, you can always start by disabling all the rules, then re-enable them one rule at a time. Or you could exclude specific folders; whatever helps bring more suaveness to your code.
