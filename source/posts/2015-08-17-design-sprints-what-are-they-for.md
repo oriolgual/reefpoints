@@ -60,6 +60,7 @@ Sprints result in prototypes of your product or parts of it, and allow you to te
 
 ![Design Discovery can help illuminate the bigger picture](https://i.imgur.com/qoYW3wC.jpg)
 [Original image source](https://en.wikipedia.org/wiki/Cave)
+
 **Discovery** usually requires more time and resources, but shows the larger picture.
 
 The combination of design discovery and visual design is a holistic process. It is a better investment in cases where you’re developing a new product, or have long term business goals and would like an investigation from all angles into how to achieve them.
