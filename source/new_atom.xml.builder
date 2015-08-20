@@ -15,7 +15,7 @@ xml.feed 'xmlns' => 'http://www.w3.org/2005/Atom' do
       xml.link 'rel' => 'alternate', 'href' => article_url
       xml.id article_url
       article.tags.each do |tag|
-        xml.category 'term' => tag.downcase.gsub(/\s+/, '-').underscore.dasherize
+        xml.category 'term' => tag.downcase.gsub(/\s+/, '-').underscore.dasherize, 'label' => tag
       end
       xml.published article.date.to_time.iso8601
       xml.updated File.mtime(article.source_file).iso8601
