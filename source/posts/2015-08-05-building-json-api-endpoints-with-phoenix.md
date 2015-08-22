@@ -18,7 +18,7 @@ hooked everything up.
 
 You first need to tell Phoenix that it should accept `json-api` format.
 I created a new
-`[pipeline/2](http://hexdocs.pm/phoenix/Phoenix.Router.html#pipeline/2)`
+[`pipeline/2`](http://hexdocs.pm/phoenix/Phoenix.Router.html#pipeline/2)
 for the API:
 
 ```elixir
