@@ -15,7 +15,9 @@ customize tooltips.'
 ## What I wanted
 
 This came about when I was trying to create an error tooltip with borders and a transparent background following this design:
+
 ![Design for customized tooltip](https://i.imgur.com/baJdTwK.png)
+
 It has a subtle wave texture to it so it was important that the
 tooltip held transparency. I also wanted to set up a constraint for myself
 to not add extra HTML elements.
@@ -47,6 +49,7 @@ dash. Unfortunately we don’t have that level of customization for
 border-style’s. Or if we could use some sort of border gradient with color stops,
 but after trying that, I figured out that it didn’t play well with border-radius. Then I thought to use some type of clipping
 and I would even be able to angle my clip-path to fit better with my triangle tip! The path I figured worked best is outlined in black:
+
 ![Clip-path I used to remove part of tooltip border](https://i.imgur.com/qNTsmqh.jpg)
 
 If you are unfamiliar with clip-path, [Bennett Feely’s tool clippy](http://bennettfeely.com/clippy/) helps visualize clip-path polygons and provides a good starting point with its dragging feature.
