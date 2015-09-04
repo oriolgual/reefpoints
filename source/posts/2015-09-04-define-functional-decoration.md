@@ -28,4 +28,4 @@ Here are a few examples of what I'd call Functional Decoration:
 
 At the end of the day, my goal with the concept of Functional Decoration is to do necessary repair from damages caused by scorched earth dismantling of decoration (such as skueomorphism) and to help myself and my team to make better use of the communicative tool decoration can be.
 
-And I really just wish there was a better word for "decoration".
+And I really just wish there was a better word than "decoration".
