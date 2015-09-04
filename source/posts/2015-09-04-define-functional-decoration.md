@@ -15,7 +15,7 @@ Designers working in graphic, industrial, architectural, and user experience des
 
 However, in all of these industries, you will find naysayers of the purge remain. The way they explain their stance may not exemplify much thought on the issue: they “like” decoration, they find that it “adds life” to something that would otherwise be boring. It’s easy for us to dismiss the ideas as coming from people with little design pedigree, but their understanding of why they like decoration is hard for them to explain because they **feel** the function of it. And come on, we all know how hard it is to explain our feelings.
 
-I think if we’re able to open our hearts a little to unpopular beliefs, we’ll find that Decoration does indeed have a role in design. I think that role could be called Functional Decoration.
+I think if we’re able to open our hearts a little to unpopular beliefs, we’ll find that decoration does indeed have a role in design. I think that role could be called Functional Decoration.
 
 Good content paired with a functional decoration can create a new context through which expectations shift, or distort our sense of "normal”, and allow us to better understand something. Doing this also allows us to exemplify the experience of a thing (a process, an event, a product, a concept, a history) without having to explicitly detail it.
 
