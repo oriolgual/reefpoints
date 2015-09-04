@@ -23,7 +23,7 @@ If you don’t believe in that, can you tell me if you felt real emotions when s
 
 In this way, Functional Decoration extends the readers imagination to help their mind do the dirty work of turning text into imagined expectations of an experience. Done well, it can be much better than the content on its own.
 
-Examples of what I see as functional decoration:
+Examples of Functional Decoration:
 * [XOXOs changing background pattern and use of overlay yellow on blue.](http://2015.xoxofest.com/) The absence of photography, the unabashed use of a basic but vibrant blue and yellow, and the dynamic overlaying shapes describe an inclusive nature of their event well: “you're with friends, it's ok to be you here”
 * [Super-Loopers "pixellated" visuals](http://superlooper.universlabs.co.uk/) pay homage to the environment that inspired the software but also acts as a visual description of the sound you're hearing.
 * [Bloomberg’s "What is Code?"](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford uses graphics and pattern as functional decoration in that they themselves are illustrations of the content. They facilitate a sometimes humorous and other times very awe-struck wonder of the origins of computing and its concentric cultures.
