@@ -17,7 +17,7 @@ However, in all of these industries, you will find naysayers of the purge remain
 
 I think if we’re able to open our hearts a little to unpopular beliefs, we’ll find that decoration does indeed have a role in design. I think that role could be called Functional Decoration.
 
-Good content paired with a functional decoration can create a new context through which expectations shift, or distort our sense of "normal”, and allow us to better understand something. Doing this also allows us to exemplify the experience of a thing (a process, an event, a product, a concept, a history) without having to explicitly detail it.
+Good content paired with a Functional Decoration can create a new context through which expectations shift, or distort our sense of "normal”, and allow us to better understand something. Doing this also allows us to exemplify the experience of a thing (a process, an event, a product, a concept, a history) without having to explicitly detail it.
 
 If you don’t believe in that, can you tell me if you felt real emotions when seeing Inside Out, Up, Spirited Away, or Princess Mononoke? If we stripped the “decorative” medium from these films we would have a very different experience. I think proponents for moderate use of decoration are experiencing something similar to trying to convince someone who refuses to watch anything but live action films that animated films can be a meaningful story, too.
 
