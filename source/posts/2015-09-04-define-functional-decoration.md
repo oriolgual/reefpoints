@@ -9,7 +9,7 @@ published: true
 tags: design, design process, user experience
 ---
 
-If you’re unfamiliar with the implications of decoration in design, a good first start is to read Beatrice Warde’s [“The Crystal Goblet, or Printing Should Be Invisible”](http://gmunch.home.pipeline.com/typo-L/misc/ward.htm). It sums up fairly well a belief I carry to the products we produce at DockYard.
+If you’re unfamiliar with the implications of decoration in design, a good place to start is to read Beatrice Warde’s [“The Crystal Goblet, or Printing Should Be Invisible”](http://gmunch.home.pipeline.com/typo-L/misc/ward.htm). It sums up fairly well a belief I carry to the products we produce at DockYard.
 
 Designers working in graphic, industrial, architectural, and user experience design have experienced many revolutions of overly decorative design followed by a great decorative purge. A most recent example of this is the explosion of “flat design” and aggression turned toward all things skeuomorphic. This was inevitable, and I welcome the sea change.
 
