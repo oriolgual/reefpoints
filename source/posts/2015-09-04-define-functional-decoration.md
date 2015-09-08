@@ -13,7 +13,7 @@ If you’re unfamiliar with the implications of decoration in design, a good pla
 
 Designers working in graphic, industrial, architectural, and user experience design have experienced many revolutions of overly decorative design followed by a great decorative purge. A most recent example of this is the explosion of “flat design” and aggression turned toward all things skeuomorphic. This was inevitable, and I welcome the sea change.
 
-However, I think if we’re able to open our hearts a little to unpopular ideas for a minute, we’ll find that decoration does indeed have a functional role in design. I think that role could be called Functional Decoration. Let me explain what I think Functional Decoration is by explaining what I think it can do.
+However, I think if we’re able to open our hearts for a minute to unpopular ideas , we’ll find that decoration does indeed have a functional role in design. I think that role could be called Functional Decoration. Let me explain what I think Functional Decoration is by explaining what I think it can do.
 
 Functional Decoration is decoration that assists in creating a new context through which expectations shift, or distort our sense of "normal", to allow us to amplify the messages within the content it surrounds. It can let us exemplify the experience of a thing better than purely representing it in the written word. It can be effective in emphasizing the tone of a process, providing a sense of the experience of an event, or perhaps even an expectation of the performance of a product.
 
