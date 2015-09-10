@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Design is about systems"
+social: true
+author: Maria Matveeva
+twitter: "rgbcolor"
+summary: "A design change is not just a design change"
+published: true
+tags: Design, Design thinking, Observations, UX Design
+---
+
+Every day on the way to work, I have to pick between risk and waste of time. And I usually pick risk. 
+
+You see, there is this intersection that takes a pedestrian three separate lights to cross. For cars, it’s just one. 
+
+*If you obey all traffic signals*, walking North, you’ll cross this intersection in two cycles. In the opposite direction, it can take three cycles.
+
+I've never seen an intersection *designed* so a car had to wait more than one cycle to get across?
+
+![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/4ClJOkS.png)
+
+Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions, it’s easy to assume there is no traffic coming, and jaywalk. It often happens  just as the cars start moving. In addition to being dangerous for people, this slows down the cars and busses even more, adding to residual delays as they eventually clear the intersection on red.
+
+
+## This intersection design is stupid
+
+As a pedestrian, I have a choice between jaywalking (running) as I glance left, right, and back to see if any cars are coming - or waiting several minutes extra to cross. It seems such an injustice that I have to request a pedestrian light up to three times while cars clear this monstrous intersection in just one. As a user of this intersection, I feel like I am an afterthought, not a primary consideration. 
+
+*What if we mandate that all intersections be crossable in one light? What if we prioritize pedestrians, not cars?*  
+
+I start to imagine potential legislation, participating in a “healthy city” campaign of some sort, and even a crosswalk design that would accommodate a faster, safer crossing for me.
+
+
+## This intersection is part of a system
+
+Then I think about it more. Why was this intersection designed to accommodate cars better than pedestrians? Why do most cities in the US still feel like they’re planned for cars and not people? (Because they are. Long story.) I start to imagine all the infrastructure changes that might be required for this seemingly simple change: to alter the path of a crosswalk, and make it feel more efficient.
+
+I think this way because as a designer, I am responsible for making sure that the things I build and “make pretty” actually work. I don’t put a button or a variable into a mockup unless I know it can be supported by engineering, and is necessary for the user. Because of this responsibility, I can’t really enjoy lofty, speculative discussions about potential changes it might be nice to make. 
+
+
+## Design thinking is both a blessing and a curse
+
+As a designer, I can’t help but think about how the environment around me works, and why. I’m a walking critique machine, a small nudge will get it started.
+
+But even when I can often see clear ways to fix situations that annoy me, I can just as clearly see why change won’t be easy or fast. I can see, or at least imagine, the systems that stand behind every designed detail of my life. 
