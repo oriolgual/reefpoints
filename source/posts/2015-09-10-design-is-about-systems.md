@@ -19,7 +19,7 @@ I've never seen an intersection *designed* so a car had to wait more than one cy
 
 ![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/4ClJOkS.png)
 
-Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions, it’s easy to assume there is no traffic coming, and jaywalk. It often happens  just as the cars start moving. In addition to being dangerous for people, this slows down the cars and busses even more, adding to residual delays as they eventually clear the intersection on red.
+Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions, it’s easy to assume there is no traffic coming, and jaywalk. It often happens  just as the cars start moving. In addition to being dangerous for people, this slows down the cars and buses even more, adding to residual delays as they eventually clear the intersection on red.
 
 
 ## This intersection design is stupid
