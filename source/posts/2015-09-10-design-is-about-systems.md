@@ -15,7 +15,7 @@ There is an intersection that takes a pedestrian three separate lights to cross.
 
 ![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/Uvxx0zl.png)
 
-Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions (look at crosswalk 2), it’s easy to look to just one side, assume there is no traffic, and jaywalk. It often happens just as the cars start moving. In addition to being dangerous for people, this slows down the cars and buses even more, adding to residual delays as they eventually clear the intersection on red.
+Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions (look at Crossing 2), it’s easy to look to just one side, assume there is no traffic, and jaywalk. It often happens just as the cars start moving. In addition to being dangerous for people, this slows down the cars and buses even more, adding to residual delays as they eventually clear the intersection on red.
 
 
 ## This intersection design is stupid
