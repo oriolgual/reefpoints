@@ -9,17 +9,15 @@ published: true
 tags: Design, Design thinking, Observations, UX Design
 ---
 
-Every day on the way to work, I have to pick between risk and waste of time. 
+As I commute, every time I have to pick between risk and delay.
 
 There is an intersection that takes a pedestrian three separate lights to cross. For cars, it’s just one. 
 
-*If you obey all traffic signals*, walking North, you’ll cross this intersection in two cycles. In the opposite direction, it can take three cycles.
+*If you obey all traffic signals* you’ll cross this intersection in two cycles heading downtown. In the opposite direction, it can take three full cycles.
 
-![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/4ClJOkS.png)
+![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/Uvxx0zl.png)
 
-Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions, it’s easy to assume there is no traffic coming, and jaywalk. It often happens just as the cars start moving. In addition to being dangerous for people, this slows down the cars and buses even more, adding to residual delays as they eventually clear the intersection on red.
-
-That being said, I usually pick risk.
+Clearly, this leads to frustration for pedestrians. With cars potentially coming from three different directions (look at crosswalk 2), it’s easy to look to just one side, assume there is no traffic, and jaywalk. It often happens just as the cars start moving. In addition to being dangerous for people, this slows down the cars and buses even more, adding to residual delays as they eventually clear the intersection on red.
 
 
 ## This intersection design is stupid
@@ -28,12 +26,12 @@ As a pedestrian, I have a choice between jaywalking (running) as I glance left, 
 
 *What if we mandate that all intersections be crossable in one light? What if we prioritize pedestrians, not cars?*  
 
-I start to imagine potential legislation, participating in a “healthy city” campaign of some sort, and even a crosswalk design that would accommodate a faster, safer crossing for me.
+I start to imagine potential legislation, participating in a "healthy city" campaign of some sort, and even a crosswalk design that would accommodate a faster, safer crossing for me.
 
 
 ## This intersection is part of a system
 
-Then I think about it more. Why was this intersection designed to accommodate cars better than pedestrians? Why do most cities in the US still feel like they’re planned for cars and not people? (Because they are. Long story.) I start to imagine all the infrastructure changes that might be required for this seemingly simple change: to alter the path of a crosswalk, and make it feel more efficient.
+Then I think about it more. Why was this intersection designed to accommodate cars better than pedestrians? Why do most cities in the US still feel like they’re planned for cars and not people? Because they are. Long story. I start to imagine all the infrastructure changes that might be required for this seemingly simple change: to alter the path of a crosswalk, and make it feel more efficient.
 
 I think this way because as a designer, I am responsible for making sure that the things I build and “make pretty” actually work - and for more than one type of user. I don’t put a button or a variable into a mockup unless I know it can be supported by engineering, and is necessary for the user. Because of this sense of responsibility, I can’t really enjoy lofty, speculative discussions about potential changes it might be nice to make. 
 
