@@ -11,9 +11,7 @@ tags: Design, Design thinking, Observations, UX Design
 
 As I commute, every time I have to pick between risk and delay.
 
-There is an intersection that takes a pedestrian three separate lights to cross. For cars, it’s just one. 
-
-*If you obey all traffic signals* you’ll cross this intersection in two cycles heading downtown. In the opposite direction, it can take three full cycles.
+There is an intersection that takes a pedestrian three separate lights to cross. For cars, it’s just one. *If you obey all traffic signals* you’ll cross this intersection in two traffic-light cycles heading downtown. In the opposite direction, it can take three full cycles.
 
 ![Three crosswalks to get across one busy street from point A to point B](https://i.imgur.com/Uvxx0zl.png)
 
