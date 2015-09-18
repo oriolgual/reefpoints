@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back to the Basics with Ember.Object"
+title: "Ember Best Practices: How to avoid leaking state into factories"
 twitter: edeblois
 github: brzpegasus
 author: "Estelle DeBlois"
@@ -10,7 +10,9 @@ comments: true
 published: true
 ---
 
-`Ember.Object` is one of the first things we learn as Ember developers, and to no surprise. Pretty much every object we work with in Ember, whether it's a route, component, model, or service, extends from `Ember.Object`. But every now and then, I see it used incorrectly, like this:
+At DockYard, we spend our days writing code with Ember, from building web apps, to creating and maintaining addons, and contributing back to the Ember ecosystem. We hope to share some of the experience we've gathered along the way through a series of blog posts that will focus on idiomatic Ember practices, patterns, anti-patterns, and common pitfalls. This is the first in that series, so let's start by going back to the basics with `Ember.Object`.
+
+`Ember.Object` is one of the first things we learn as Ember developers, and to no surprise. Pretty much every object we work with in Ember, whether it's a route, component, model, or service, [extends from Ember.Object](http://emberjs.jsbin.com/boqapo). But every now and then, I see it used incorrectly, like this:
 
 ```js
 export default Ember.Component.extend({
@@ -47,7 +49,7 @@ You can define a new type of observable object by extending from `Ember.Object`:
 ```js
 const Post = Ember.Object.extend({
   title: 'Untitled',
-  author: 'Unknown',
+  author: 'Anonymous',
 
   header: computed('title', 'author', function() {
     const title = this.get('title');
@@ -62,8 +64,8 @@ New objects of type `Post` can now be created by calling `Post.create()`. Each p
 ```js
 const post = Post.create();
 post.get('title'); // => 'Untitled'
-post.get('author'); // => 'Unknown'
-post.get('header'); // => 'Untitled by Unknown'
+post.get('author'); // => 'Anonymous'
+post.get('header'); // => 'Untitled by Anonymous'
 post instanceof Post; // => true
 ```
 
@@ -76,8 +78,8 @@ post.get('header'); // => '"Heads? Or Tails?" by R & R Lutece'
 
 const anotherPost = Post.create();
 anotherPost.get('title'); // => 'Untitled'
-anotherPost.get('author'); // => 'Unknown'
-anotherPost.get('header'); // => 'Untitled by Unknown'
+anotherPost.get('author'); // => 'Anonymous'
+anotherPost.get('header'); // => 'Untitled by Anonymous'
 ```
 
 Because updating properties this way has no impact on other instances, it is easy to think that all operations done on an instance are safe. But let's expand on this example a bit more.
@@ -162,4 +164,4 @@ It should be obvious now why you should not write components like the example I 
 
 This error may be encountered when using mixins as well. Even though `Ember.Mixin` is not an `Ember.Object`, properties and methods defined on the mixin get merged with the `Ember.Object` you mix it into. The result would be the same: you may end up sharing state between all objects that use the mixin.
 
-If you found this post helpful, stay tuned for more blog posts from myself and fellow DockYarders on Ember best practices and common pitfalls in the future!
+If you found this post helpful, stay tuned for more blog posts from myself and fellow DockYarders on Ember best practices in the future!
