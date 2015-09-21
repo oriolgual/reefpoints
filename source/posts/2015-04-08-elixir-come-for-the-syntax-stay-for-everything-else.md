@@ -109,7 +109,7 @@ guess I'm just chasing that Ruby dragon, trying to catch that high
 again.
 
 
-#### Conclusion
+### Conclusion
 
 We've been exploring Elixir heavily over the past few months. The more I
 dig into the language the more I love it. We're going to bet pretty

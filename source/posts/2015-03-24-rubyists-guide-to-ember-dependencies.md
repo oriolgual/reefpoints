@@ -25,18 +25,18 @@ For better or worse, there is no dominant, single package manager in JavaScript.
 In this post, I'll provide a basic dependency management primer for
 those moving from Ruby to JavaScript.
 
-# npm
+## npm
 Ember-CLI uses npm to manage internal dependencies. npm resembles RubyGems, in so far as it allows you to install and manage third-party libraries, which in this case, are Node.js programs.
 
-## package.json
+### package.json
 Libraries for npm are referred to as “packages.” Each package has a `package.json` file which lists the dependencies of the library itself. In this regard, the `package.json` is analogous to a RubyGem’s `gemspec` file.
 
-## .npmrc
+### .npmrc
 You can configure how node packages get installed via the
 [.npmrc file](https://docs.npmjs.com/files/npmrc). You may have one
 globally, per user (`~/.npmrc`), or per project.
 
-## Installing dependencies
+### Installing dependencies
 To install an npm package, run `npm install [package-name]` from the
 command line.
 
@@ -54,23 +54,23 @@ libraries you pull down to prevent you from having to download
 libraries that are already on your system. You'll find that cache:
 `~/.npm/`.
 
-# Bower
+## Bower
 While you'll use npm to manage your server-side Node.js dependencies, you’ll use Bower for managing front-end assets, such as JavaScript, HTML, CSS, image, and font files.
 
-## .bowerrc
+### .bowerrc
 Bower itself is an npm package. Its libraries are referred to as “components” and the end user can configure their installations via a `.bowerrc` file. This file specifies where dependent components will be installed, the URL where the component will be registered (its registry), and the JSON file used to define the component (`bower.json` by default) among other things.
 
-## bower.json
+### bower.json
 The [`bower.json`](http://bower.io/docs/creating-packages/#bowerjson) file resembles the [gemspec](http://guides.rubygems.org/specification-reference/) file you find in Ruby gems. It contains the library metadata, such as the name, version, dependencies, and development dependencies for the library.
 
 As we mentioned, components can be searched for via registries. The registry matches the name of a component with the endpoint at which it’s hosted. [Bower.io/search](http://bower.io/search/) closely resembles [rubygems.org](https://rubygems.org/gems) in this way.
 
-## Installing dependencies
+### Installing dependencies
 When you install a Bower component via `bower install [component_name]`, the repository will be cached locally to expedite any future installations of the component. In case you’re curious, the bower cache location is: `~/.cache/bower/`.
 
 Unlike npm, Bower components are installed "flat" as opposed to in a hierarchical manner; all of your project's components (and their dependencies) will be installed into `bower_components/` directory, by default. For example, if one of your components is dependent on the `underscore.js` library, both will sit side-by-side in the `bower_components/` directory (remember, with npm, dependencies of dependencies are continually nested in their parent's directory within a `node_modules/` directory).
 
-# Conclusion
+## Conclusion
 Here's a quick wrap-up of the analogous files between Ruby and the JS
 package managers we discussed:
 

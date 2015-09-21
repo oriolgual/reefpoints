@@ -18,11 +18,11 @@ I am sure you are familiar with this situation: you’re invited (or invite your
 This is what campus maps often look like:
 ![An old map showing a campus as an island surrounded by unknown waters](http://imgur.com/Aulbb3t.jpg)
 
-The reason most outsiders find campus maps confusing and difficult to use is the shift in the frame of reference. 
+The reason most outsiders find campus maps confusing and difficult to use is the shift in the frame of reference.
 
 For someone who lives or works on campus, the frame of reference is relative to the borders and shape of the universe that is the university (or corporate, or hospital) campus. They might consider their office to be “in the far North corner” relative to the outline of the campus on a map. Or, they might think of themselves as “right in the middle of the Art Department”. The Art Department here is amorphous: it’s something that may either span two city blocks, or half of a floor in a physical building.
 
-For an outsider, the frame of reference is still the surrounding landscape. They may not know precisely when they entered the school campus (there is no painted border on the ground) or that they are in its top left corner. The “you are here” marker on the campus map helps, but it still takes a while to adjust to the landmarks differentiated by department, not by road or city block. To find a building, they are forced to adapt to a new system of coordinates. 
+For an outsider, the frame of reference is still the surrounding landscape. They may not know precisely when they entered the school campus (there is no painted border on the ground) or that they are in its top left corner. The “you are here” marker on the campus map helps, but it still takes a while to adjust to the landmarks differentiated by department, not by road or city block. To find a building, they are forced to adapt to a new system of coordinates.
 
 
 ## Work with an outsider
