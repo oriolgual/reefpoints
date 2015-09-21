@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ember Best Practices: How to avoid leaking state into factories"
+title: "Ember Best Practices: Avoid leaking state into factories"
 twitter: edeblois
 github: brzpegasus
 author: "Estelle DeBlois"
@@ -10,7 +10,7 @@ comments: true
 published: true
 ---
 
-At DockYard, we spend our days writing code with Ember, from building web apps, to creating and maintaining addons, and contributing back to the Ember ecosystem. We hope to share some of the experience we've gathered along the way through a series of blog posts that will focus on idiomatic Ember practices, patterns, anti-patterns, and common pitfalls. This is the first in that series, so let's start by going back to the basics with `Ember.Object`.
+At DockYard, we spend a lot of time with Ember, from building web apps, creating and maintaining addons, to contributing back to the Ember ecosystem. We hope to share some of the experience we've gathered along the way through a series of blog posts that will focus on idiomatic Ember practices, patterns, anti-patterns, and common pitfalls. This is the first in that series, so let's start by going back to the basics with `Ember.Object`.
 
 `Ember.Object` is one of the first things we learn as Ember developers, and to no surprise. Pretty much every object we work with in Ember, whether it's a route, component, model, or service, [extends from Ember.Object](http://emberjs.jsbin.com/boqapo). But every now and then, I see it used incorrectly, like this:
 
