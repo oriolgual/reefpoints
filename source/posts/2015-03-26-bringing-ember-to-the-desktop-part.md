@@ -51,10 +51,10 @@ For a touch of user friendliness, the app even ships with your favorite
 mascot:
 
 _Mac:_
-<img alt="Mac Icon" src="https://cloud.githubusercontent.com/assets/1691398/6853610/9ee8c52c-d3c2-11e4-971a-3472bfd35609.png" style="width: 600px; height: 205px;">
+<img alt="Mac Icon" src="https://cloud.githubusercontent.com/assets/1691398/6853610/9ee8c52c-d3c2-11e4-971a-3472bfd35609.png">
 
-_Windows:_
-<img alt="Win Icon" src="https://cloud.githubusercontent.com/assets/1691398/6853614/a32becc2-d3c2-11e4-9ed4-83d645825f4b.png" style="width: 114px; height: 312px;">
+<em style="display: block;">Windows:</em>
+<img alt="Windows Icon" src="https://cloud.githubusercontent.com/assets/1691398/6853614/a32becc2-d3c2-11e4-9ed4-83d645825f4b.png">
 
 ## Getting Started
 

@@ -25,7 +25,7 @@ Brian has a great post describing the UX Dev team, [The most difficult position 
 
 Mainly with [Ember.js](http://emberjs.com/) the Development team wires up all of the functionality required with the HTML and CSS provided by UX Dev.
 
-#Our current process
+## Our current process
 
 What helps us the most when we have multiple teams on a project is clear communication.
 
@@ -39,7 +39,7 @@ In a previous post we went over how to add comments to your code in [Helping Our
 
 **Note:** we use [Handlebars](http://handlebarsjs.com/) for our templating.
 
-##Pseudo-code comments
+### Pseudo-code comments
 
 ```hbs
 <a class="t-link" href="">about</a>
@@ -64,7 +64,7 @@ This method works great for adding notifications to the page, you just need to s
 {{! end if}}
 ```
 
-##TODO comment
+### TODO comment
 
 ```hbs
 {{! TODO: Toggle class .is-selected on <a> when active}}
@@ -74,7 +74,7 @@ This method works great for adding notifications to the page, you just need to s
 
 If we don’t need to add complete blocks of code to the HTML we will use a TODO comment to let the developers know a class needs to be added to the next line of code.
 
-#What's new: Track Everything
+## What’s new: Track Everything
 
 In addition to adding comments it is recommended to provide a trackable issue referencing the comment in your code. On GitHub this is very easy and we can assign the issue to a team member.
 
@@ -82,13 +82,13 @@ We don’t do this for every individual comment but rather make a checklist in t
 
 An example of a simple page would be a static "About Us" page that only has about 1 - 2 comments and no complex conditionals.
 
-##Issue example
+### Issue example
 
 ![GitHub issue for component comments](http://i.imgur.com/8VHiilm.png)
 
 Having trackable issues for comments is helpful because there can be so many of them. Keeping everything organized in a project management system like GitHub is very helpful.
 
-##Final Thoughts
+### Final Thoughts
 Our goal as UX Developers is to provide crystal clear communication with the Design and Development teams so the client gets the best product possible.
 
 Having standardized techniques for communicating the application HTML conditionals within your team can greatly help the workflow and make everyone's life easier.
