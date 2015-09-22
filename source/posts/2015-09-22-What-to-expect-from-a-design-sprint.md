@@ -21,7 +21,7 @@ Part of establishing project goals is determining the outcomes and deliverables 
 
  * A working prototype. Usually for a one-week design sprint, the result is a clickable prototype and one or two user stories. The thinking that went into defining the user flow and key interactions can be tested and validated through the prototype and user testing.
 
- * Detailed wireframes and a full user flow. Often times, a series of sprints are held to explore a more complex product. With each week focusing on a different facet of the product, wireframes and prototypes from each sprint can start to carry over to inform design decisions in consecutive weeks. With consecutive sprints, it is possible to explore the product more deeply and examine the connections and interdependencies between the proposed user flows. It is possible to have a developed user flow with several of the major screens sketched, prototyped, and even beginning to explore elements of visual design.
+ * Detailed wireframes and a full user flow. Often times, a series of sprints are held to explore a more complex product. With each week focusing on a different facet of the product, wireframes and prototypes from each sprint can start to carry over to inform design decisions in consecutive weeks. With consecutive sprints, it is possible to explore the product more deeply and examine the connections and interdependencies between the proposed user flows.
 
  * Preliminary visual design. If the content of a given sprint is narrow in scope, there may be time at the end of the sprint to begin visual design. Developing a visual style for the product can inform prototypes in consecutive sprints, or lay a framework for visual tone in the product itself.
 
