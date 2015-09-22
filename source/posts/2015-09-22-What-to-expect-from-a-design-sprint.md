@@ -1,3 +1,4 @@
+---
 layout: post
 title: "What to expect from a Design Sprint"
 social: true
@@ -7,6 +8,7 @@ github: atreni
 summary: "participation, outcomes, and deliverables"
 published: true
 tags: design sprints, design strategy, UX design
+---
 
 A design sprint is a research strategy which focuses on and explores a feature or specific part of a product. With a limited scope and a short duration of a week, a sprint can test and validate ideas about user flow, functionality, and interaction design around a specific product goal. 
 
