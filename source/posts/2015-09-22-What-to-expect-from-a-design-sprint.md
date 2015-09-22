@@ -5,7 +5,7 @@ social: true
 author: Ashley Treni
 twitter: "_ashleytreni"
 github: atreni
-summary: "participation, outcomes, and deliverables"
+summary: "Participation, outcomes, and deliverables"
 published: true
 tags: design sprints, design strategy, UX design
 ---
