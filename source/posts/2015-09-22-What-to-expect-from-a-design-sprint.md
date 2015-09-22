@@ -10,10 +10,7 @@ published: true
 tags: design sprints, design strategy, UX design
 ---
 
-A design sprint is a research strategy which focuses on and explores a feature or specific part of a product. With a limited scope and a short duration of a week, a sprint can test and validate ideas about user flow, functionality, and interaction design around a specific product goal. 
-
-
-To elaborate on [Maria's post about Design Sprints] (https://dockyard.com/blog/2015/08/17/design-sprints-what-are-they-for), here's a "what to expect" about participation, outcomes, and deliverables.
+A design sprint is a research strategy which focuses on and explores a feature or specific part of a product. With a limited scope and a short duration of a week, a sprint can test and validate ideas about user flow, functionality, and interaction design around a specific product goal. To elaborate on [Maria's post about Design Sprints] (https://dockyard.com/blog/2015/08/17/design-sprints-what-are-they-for), here's a "what to expect" about participation, outcomes, and deliverables.
 
 
 A stakeholder from the product in development is a very important participant in the design sprint, and they should expect to be hands on and present for the full sprint duration. Design sprints move very fast, and their industry knowledge and understanding of the product is key to a successful outcome. The team can move forward quickly and efficiently with the availability to ask questions and help make informed assumptions along the way. Stakeholders come with unique insights about the product that can illuminate conditions of the target market, knowledge about users, business goals, and any known limitations or pre-existing conditions up front.
