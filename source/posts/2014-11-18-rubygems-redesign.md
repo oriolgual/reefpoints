@@ -9,7 +9,7 @@ published: true
 tags: design, ruby
 ---
 
-![rubygems-redesign.png](/images/rubygems-redesign.png)
+![RubyGems Redesign](https://i.imgur.com/Wy7zNYB.png)
 
 Today I am very proud to announce that the DockYard-led redesign of
 [rubygems.org](http://rubygems.org) has been launched.
@@ -23,7 +23,7 @@ Faerber](https://twitter.com/LoganFaerber) and built out by [Amanda
 Cheung](https://twitter.com/acacheung). You can see how happy it has
 made them.
 
-![hooray-rubygems](/images/hooray-rubygems.jpg)
+![Hooray!](https://i.imgur.com/l6jQ1f0.jpg)
 
 We would have been lost without the guidance from Ruby Central folks [Evan
 Phoenix](https://twitter.com/evanphx),
