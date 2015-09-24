@@ -25,7 +25,7 @@ from the parent component. In the example below, the button is in a component
 that is inside of another component. The controller has an action to increment
 the counter.
 
-<a class="jsbin-embed" href="http://jsbin.com/suvat/4/embed?output">Ember Starter Kit</a><script src="http://static.jsbin.com/js/embed.js"></script>
+<iframe class="jsbin-embed" src="http://jsbin.com/suvat/4/embed?output"></iframe>
 
 Our components' templates are super simple:
 

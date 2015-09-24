@@ -20,9 +20,7 @@ the list and the item.
 We can preserve the position by taking advantage of `didInsertElement`
 on the list's view.
 
-<a class="jsbin-embed"
-href="http://emberjs.jsbin.com/nevaxipe/2/embed?output">Ember Starter
-Kit</a><script src="http://static.jsbin.com/js/embed.js"></script>
+<iframe class="jsbin-embed" src="http://emberjs.jsbin.com/nevaxipe/2/embed?output"></iframe>
 
 **Note: there seems to be a bug with the latest stable in Chrome where
 the position is never reset if you hit the backbutton. In reality it is

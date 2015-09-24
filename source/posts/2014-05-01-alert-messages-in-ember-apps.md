@@ -26,9 +26,7 @@ allowfullscreen></iframe>
 
 It currently only exists on [jsbin](http://jsbin.com)
 
-<a class="jsbin-embed"
-href="http://jsbin.com/luhoquxi/7/embed?output">WoofWoof! Notifier for
-Ember</a><script src="http://static.jsbin.com/js/embed.js"></script>
+<iframe class="jsbin-embed" src="http://jsbin.com/luhoquxi/7/embed?output"></iframe>
 
 So for the time being you'll need to copy/paste. We'll be extracting it
 into a plugin soon enough.
