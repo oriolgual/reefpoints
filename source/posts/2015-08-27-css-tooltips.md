@@ -52,13 +52,7 @@ and I would even be able to angle my clip-path to fit better with my triangle ti
 
 If you are unfamiliar with clip-path, [Bennett Feely’s tool clippy](http://bennettfeely.com/clippy/) helps visualize clip-path polygons and provides a good starting point with its dragging feature.
 
-<p data-height="780" data-theme-id="0" data-slug-hash="VLoEqa"
-data-default-tab="result" data-user="acacheung" class='codepen'>See the
-Pen <a href='http://codepen.io/acacheung/pen/VLoEqa/'>Transparent
-tooltip with border</a> by Amanda Cheung (<a
-href='http://codepen.io/acacheung'>@acacheung</a>) on <a
-href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<iframe src="http://codepen.io/acacheung/embed/VLoEqa?height=780" scrolling="no" frameborder="0" height="780" allowtransparency="true" allowfullscreen="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;"></iframe>
 
 It’s not the [DRYest](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), but it is flexible for tooltips that are multi-line as well
 as tooltips that are longer in length. This also works with box-shadows, but clip-path would need to be adjusted and it can also handle transparency for the borders. Unfortunately at this time, Firefox and IE are not
