@@ -61,6 +61,14 @@ module Middleman::Blog::BlogArticle
   def illustration_alt
     data['illustration_alt']
   end
+
+  def ember_start_version
+    data['ember_start_version']
+  end
+
+  def ember_end_version
+    data['ember_end_version']
+  end
 end
 
 helpers do
@@ -89,6 +97,8 @@ helpers do
         summary: article.summary,
         illustration: article.illustration,
         illustration_alt: article.illustration_alt,
+        emberStartVersion: article.ember_start_version,
+        emberEndVersion: article.ember_end_version,
         tags: article.tags.map { |tag| Utils.normalize_tag(tag).parameterize },
         shallow: article.shallow?,
         date: article.date
