@@ -7,9 +7,9 @@ social: true
 summary: 'Invisible systems of the design process.'
 published: true
 tags: design, design process, design thinking
-illustration: 'ashley_conversation.jpg'
-illustration_alt: 'Forest creatures of the Round Table'
 ---
+
+<img class="illustration" src="http://i.imgur.com/sxxEnba.jpg" alt="Forest creatures of the Round Table">
 
 Our understanding of design is perpetually in flux. Over the years design has transitioned from print and typography to web design, communication design to interaction design, user experience design to information design and design thinking. The space of design expands to encapsulate all these areas, while simultaneously formalizing specialized methodologies.
 

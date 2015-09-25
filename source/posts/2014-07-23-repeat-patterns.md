@@ -8,9 +8,9 @@ social: true
 published: true
 comments: true
 summary: 'My favorite technique to avoid the obvious tiled look.'
-illustration: 'maria_patterns.jpg'
-illustration_alt: 'A most zen-like practice'
 ---
+
+<img class="illustration" src="http://i.imgur.com/2GWB8Et.jpg" alt="A most zen-like practice">
 
 I enjoy the look of hand-drawn things. And I use patterns a lot. But when the two are combined, the results are often disappointing. My least favorite thing is to see a pattern where identical copies of a hand drawn object were repeated without variation. The automatic repetition here is not appropriate to the shaky handmade look of the art.
 
