@@ -9,6 +9,7 @@ social: true
 published: true
 comments: true
 summary: 'Ember.Object.create explained'
+ember_start_version: '1.5'
 ---
 
 Let's say we have a `Month` object. A `Month` has `weeks`.
