@@ -10,6 +10,8 @@ social: true
 summary: "Let your actions be handled in your controllers and routes"
 published: true
 tags: emberjs
+ember_start_version: '1.9'
+ember_start_version: '1.13'
 ---
 
 If you're building components for re-use, you're likely to run into the
