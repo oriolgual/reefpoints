@@ -8,6 +8,7 @@ tags: ember, addon, javascript
 social: true
 comments: true
 published: true
+ember_start_version: '1.11'
 summary: "I wrote a post last year about how I made an Ember Mixin that would let Ember Components or Views know if their DOM element had entered or left the viewport. This time, I want to talk about how I improved the original Mixin to use the requestAnimationFrame API for improved performance at close to 60FPS."
 ---
 

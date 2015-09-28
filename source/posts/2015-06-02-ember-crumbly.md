@@ -9,6 +9,7 @@ social: true
 comments: true
 published: true
 summary: "ember-crubmly is a simple Component that is placed once in your application, and then generates a dynamic breadcrumb by looking up the current route hierarchy. The addon has a simple declarative API, which makes integration with your app super easy."
+ember_start_version: '1.12'
 ---
 
 Breadcrumb navigation isn't a new concept, in fact, it's usefulness has been endlessly debated about by UX designers all over. Today, I won't get into the nitty gritty on whether or not your app should include one, but I'd like to share an addon I built for a project I'm working on that required it.
