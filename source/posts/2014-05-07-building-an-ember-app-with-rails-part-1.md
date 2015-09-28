@@ -9,6 +9,7 @@ social: true
 summary: ember-cli & Rails
 published: true
 tags: ember, ruby, ruby on rails
+ember_start_version: '1.5'
 ---
 *This is a four-part series:
 [Part 1](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html),

@@ -9,6 +9,7 @@ social: true
 summary: A simple mixin for your views
 published: true
 tags: ember
+ember_start_version: '1.5'
 ---
 
 If you have a long list of items on a page and a user follows a link
