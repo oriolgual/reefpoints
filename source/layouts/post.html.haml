@@ -4,10 +4,6 @@
     .l-wrap--blog__post
       = partial "shared/ads/#{ad_partial}"
 
-  - if has_illustration?
-    .post__illustration-wrap
-      %img.post__illustration{src: "/images/illustrations/#{current_page.illustration}", alt: "#{current_page.illustration_alt}"}
-
   .l-wrap--blog__post
     %h1.post__title= current_page.title
 
