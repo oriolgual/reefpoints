@@ -32,6 +32,34 @@ class Utils
     end
   end
 
+  # Add target="_blank" to a tags that link to external sites
+  def self.process_anchor_tags(body)
+    # This regext will pull the quoted and escaped value for an href
+    # returned value format: \"https://dockyard.com\"
+    href_regex = /(?<=href=)\\?['"]([^"']*)(?:\\?["'])/
+
+    body.gsub(href_regex) do |url|
+      processed_url = url
+      if is_external_url(url)
+        processed_url = "#{url} target=\"_blank\""
+      end
+
+      processed_url
+    end
+  end
+
+  def self.is_external_url(url)
+    # This regex will match relative urls, and dockyard.com urls (including sub domains)
+    # example matching urls:
+    # \"https://dockyard.com\"
+    # \"http://dockyard.com\"
+    # \"//dockyard.com\"
+    # \"http://reefpoints.dockyard.com\"
+    # \"/some/relative/path\"
+    internal_url_regex = /((?:http:\/\/|https:\/\/|\/\/|.+).?dockyard.com|^(?:\\"\/))/
+
+    !url.match(internal_url_regex)
+  end
 end
 
 module Middleman::Blog::BlogArticle
@@ -93,7 +121,7 @@ helpers do
         id: article.url.gsub('.html', '').sub(/^\//,''),
         title: article.title,
         dockyarder: article.author.parameterize,
-        body: article.body,
+        body: Utils.process_anchor_tags(article.body),
         summary: article.summary,
         emberStartVersion: article.ember_start_version,
         emberEndVersion: article.ember_end_version,
