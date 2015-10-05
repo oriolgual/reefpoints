@@ -18,6 +18,7 @@ In this guidebook we provide everything you can (and cannot) expect of the metho
 This content is free and we’d love for those already running sprints to contribute wisdom from their experiences. For now, anyone who’d like to make edits, suggestions, or additions to this guide may send pull requests or open issues on the github repository. The README has some instructions for how we’ll manage these.
 
 Plans for future releases:
+
 * Adding the original 5-day process plan.
 * Adding more real life examples / photographed documentation.
 * Creating tools that allow readers to suggest and accept additions or edits on the guide.
