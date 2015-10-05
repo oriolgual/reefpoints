@@ -9,11 +9,13 @@ published: true
 tags: design, design process, user experience
 ---
 
-We’re extremely excited to announce the release of our initial version of the Design Sprints Guide. This releases focuses on a special 4-day variant of the ever popular rapid-validation product design methodology.
+[Design Sprints](http://i.imgur.com/15ZEMGK.png)
+
+We’re extremely excited to announce the release of our first version of the [Design Sprints Guide](https://dockyard.com/design-sprints). This releases focuses on a special 4-day variant of the ever popular rapid-validation product design methodology.
 
 In this guidebook we provide everything you can (and cannot) expect of the methodology, the processes and tools you can use for running a design sprint yourself, and a boat-load of resources for further reading.
 
-This content is free (so you don’t have to buy some immediately out-of-date book) and we’d love for those already running sprints to contribute wisdom from their experiences. For now, anyone who’d like to make edits, suggestions, or additions to this guide may send pull requests or open issues on the github repository. The README has some instructions for how we’ll manage these.
+This content is free and we’d love for those already running sprints to contribute wisdom from their experiences. For now, anyone who’d like to make edits, suggestions, or additions to this guide may send pull requests or open issues on the github repository. The README has some instructions for how we’ll manage these.
 
 Plans for future releases:
 * Adding the original 5-day process plan.
