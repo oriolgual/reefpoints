@@ -9,7 +9,7 @@ published: true
 tags: design, design process, user experience
 ---
 
-![Design Sprints](http://i.imgur.com/15ZEMGK.png)
+![Design Sprints](http://i.imgur.com/wgebVlz.png)
 
 We’re extremely excited to announce the release of our first version of the [Design Sprints Guide](https://dockyard.com/design-sprints). This releases focuses on a special 4-day variant of the ever popular rapid-validation product design methodology.
 
