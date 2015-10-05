@@ -25,4 +25,4 @@ Plans for future releases:
 
 We hope you’ll find this guide useful. If not, we really hope you’ll help us improve it.
 
-Huge thanks to the DockYard design team for putting this together: Maria Matveeva ([@rgbcolor](https://twitter.com/rgbcolor)), Ashley Treni ([@ashleytreni](https://twitter.com/ashleytreni)), Tim Walsh ([@imakemusic](https://twitter.com/imakemusic)), and Patrick Branigan ([@pbranigan](https://twitter.com/pbranigan)).
+**Huge credit and thanks to the DockYard design team for putting this together:** Maria Matveeva ([@rgbcolor](https://twitter.com/rgbcolor)), Ashley Treni ([@ashleytreni](https://twitter.com/ashleytreni)), Tim Walsh ([@imakemusic](https://twitter.com/imakemusic)), and Patrick Branigan ([@pbranigan](https://twitter.com/pbranigan)).
