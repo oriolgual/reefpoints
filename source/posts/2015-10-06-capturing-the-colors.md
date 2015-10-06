@@ -13,9 +13,9 @@ tags: design, color, art, design process
 
 ![Red fall foliage](https://i.imgur.com/5G48mpK.jpg)
 
-For me, autumn is the most fascinating, but also the most frustrating time for colors. The obvious fall foliage attraction (all the streets and parks are suddenly so pretty!) and the fall fashion (summer was casual, fall calls for a slightly dressed-up, more academic, more pulled together style) combine to create an intense appetite for color. Naturally and seasonally, I am attracted to the rich earthy rust and gold in the leaves, but also the burgundy, darker navy and all kinds of leather colors that people dressed better than I am wear to their offices downtown.
+For me, autumn is the most fascinating time for colors. The obvious fall foliage attraction (all the streets and parks are suddenly so pretty!) and the fall fashion (summer was casual, fall calls for a slightly dressed-up, more academic, more pulled together style) combine to create an intense appetite for color. Naturally and seasonally, I am attracted to the rich earthy rust and gold in the leaves, but also the burgundy, darker navy and all kinds of leather colors that people wear to the offices downtown.
 
-The color effect of autumn is also frustrating to try to capture.
+The color effect of autumn is also frustratingly difficult to try to capture.
 
 
 ## Difficult to capture.
@@ -33,7 +33,7 @@ Peak foliage color attracts crowds every single year. Everyone dutifully takes p
 The reason photos often don’t live up to out vibrant expectations (think ~90% of all sunset photos ever) is partially that the camera is only able to capture a small part of what our eye can see (the human eye has a very high dynamic range), and partially our brain.
 
 
-The way our eyes “read” colors is not only based on the colors’ measurable intensity, hue, and brightness, but also on the context. For fall foliage specifically, we might “read” a very saturated orange in the maple leaves when they are surrounded by less saturated brown leaves, grass or buildings, and against a complimentary blue sky.
+The way our brains “read” colors is not only based on the colors’ measurable intensity, hue, and brightness, but also on the context. For fall foliage specifically, we might “read” a very saturated orange in the maple leaves when they are surrounded by less saturated brown leaves, grass or buildings, and against a complimentary blue sky.
 
 So, I imagine that reality is somewhere in-between: my brain makes the fall colors feel very intense, while a camera might dull them in the process of trying to capture all the information.
 
