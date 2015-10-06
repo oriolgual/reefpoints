@@ -15,7 +15,7 @@ tags: design, color, art, design process
 
 For me, autumn is the most fascinating time for colors. The obvious fall foliage attraction (all the streets and parks are suddenly so pretty!) and the fall fashion (summer was casual, fall calls for a slightly dressed-up, more academic, more pulled together style) combine to create an intense appetite for color. Naturally and seasonally, I am attracted to the rich earthy rust and gold in the leaves, but also the burgundy, darker navy and all kinds of leather colors that people wear to the offices downtown.
 
-The color effect of autumn is also frustratingly difficult to try to capture.
+There's just one problem. The color effects of autumn are frustratingly difficult to capture.
 
 
 ## Difficult to capture.
