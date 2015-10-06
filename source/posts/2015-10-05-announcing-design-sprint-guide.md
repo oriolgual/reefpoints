@@ -25,4 +25,4 @@ Plans for future releases:
 
 We hope you’ll find this guide useful. If not, we really hope you’ll help us improve it.
 
-**Huge credit and thanks to the DockYard design team for putting the Design Sprints Guide together:** Maria Matveeva ([@rgbcolor](https://twitter.com/rgbcolor)), Ashley Treni ([@ashleytreni](https://twitter.com/ashleytreni)), Tim Walsh ([@imakemusic](https://twitter.com/imakemusic)), and Patrick Branigan ([@pbranigan](https://twitter.com/pbranigan)).
+**Huge credit and thanks to the DockYard design team for putting the Design Sprints Guide together:** Maria Matveeva ([@rgbcolor](https://twitter.com/rgbcolor)), Ashley Treni ([@ashleytreni](https://twitter.com/ashleytreni)), Cory Tanner ([@ctannerweb](https://twitter.com/ctannerweb)), Amanda Chueng ([@acacheung](https://twitter.com/acacheung)), Tim Walsh ([@imakemusic](https://twitter.com/imakemusic)), and Patrick Branigan ([@pbranigan](https://twitter.com/pbranigan)).
