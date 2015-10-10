@@ -8,6 +8,7 @@ tags: ember, javascript
 social: true
 comments: true
 published: true
+ember_start_version: '1.13'
 ---
 
 At DockYard, we spend a lot of time with Ember, from building web apps, creating and maintaining addons, to contributing back to the Ember ecosystem. We hope to share some of the experience we've gathered along the way through a series of blog posts that will focus on idiomatic Ember practices, patterns, anti-patterns, and common pitfalls. This is the first in that series, so let's start by going back to the basics with `Ember.Object`.
