@@ -10,6 +10,7 @@ social: true
 published: true
 comments: true
 summary: 'Computed Properties magic explained'
+ember_start_version: '1.0'
 ---
 
 Note: Short version of this post is a part of [Ember.Js
