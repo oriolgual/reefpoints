@@ -9,6 +9,7 @@ legacy_category: ember
 social: true
 summary: "A SimpleForm-like FormBuilder for Ember"
 published: true
+ember_start_version: '1.0'
 tags: javascript, ember libraries
 ---
 

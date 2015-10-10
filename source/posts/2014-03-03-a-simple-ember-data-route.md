@@ -8,6 +8,7 @@ github: bcardarella
 social: true
 summary: "A basic pattern for routes with Ember Data content"
 published: true
+ember_start_version: '1.4'
 tags: ember
 ---
 

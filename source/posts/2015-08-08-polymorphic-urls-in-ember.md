@@ -7,6 +7,7 @@ twitter: bcardarella
 github: bcardarella
 published: true
 tags: ember, javascript
+ember_start_version: '1.13'
 ---
 
 Ember makes it easy to consume polymorphic records, assuming you have

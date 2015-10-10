@@ -9,6 +9,7 @@ legacy_category: ember
 social: true
 summary: "For design!"
 published: true
+ember_start_version: '0.9.8'
 tags: javascript, design
 ---
 

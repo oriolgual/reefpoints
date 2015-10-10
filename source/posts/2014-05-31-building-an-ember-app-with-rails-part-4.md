@@ -8,6 +8,7 @@ twitter: bcardarella
 social: true
 published: true
 tags: ember, ruby, ruby on rails
+ember_start_version: '1.5'
 ---
 
 *This is a four-part series:

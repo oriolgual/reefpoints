@@ -7,6 +7,7 @@ twitter: 'bcardarella'
 social: true
 published: true
 tags: ember, opinion
+ember_start_version: '1.8'
 ---
 
 It's getting close to Christmas and I've got a few things on my list for

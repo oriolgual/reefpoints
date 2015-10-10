@@ -9,6 +9,7 @@ social: true
 summary: 'A quick demo of cycling between a set of values'
 published: true
 tags: ember
+ember_start_version: '1.0'
 ---
 
 This is a quick one. I needed to cycle between the values in a set.

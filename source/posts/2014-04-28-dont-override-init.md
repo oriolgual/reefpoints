@@ -9,6 +9,7 @@ social: true
 summary: Use events instead
 published: true
 tags: ember, best practices
+ember_start_version: '1.5'
 ---
 
 Too frequently I see the following problem. Someone creates a new

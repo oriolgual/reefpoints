@@ -7,6 +7,7 @@ twitter: 'bcardarella'
 social: true
 published: true
 tags: ember, javascript
+ember_start_version: '1.10'
 ---
 
 After having published many Ember addons I have started to develop my
