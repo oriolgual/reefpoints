@@ -9,6 +9,7 @@ social: true
 comments: true
 published: true
 tags: ember, testing, best practices
+ember_start_version: '1.5'
 ---
 
 ### Intro
