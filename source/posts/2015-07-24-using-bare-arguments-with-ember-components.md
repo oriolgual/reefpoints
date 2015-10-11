@@ -10,6 +10,7 @@ social: true
 summary: "Positional parameters help you create cleaner APIs for your components"
 published: true
 tags: ember
+ember_start_version: '1.13'
 ---
 
 [`ember-cli-async-button`](https://github.com/dockyard/ember-cli-async-button)

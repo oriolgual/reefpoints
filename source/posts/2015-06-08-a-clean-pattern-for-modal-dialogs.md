@@ -10,6 +10,7 @@ social: true
 summary: "The project you are working on has a number of modal dialogs, and the component helper can help"
 published: true
 tags: ember, components
+ember_start_version: '1.12'
 ---
 
 Recently, I was working on a project which had a number of different modals. I
