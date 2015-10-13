@@ -44,7 +44,7 @@ directly to elements, like this: `<input oninput={{action "doThing"}}>`.
 
 What's wrong with `{{input}}`?
 ----------------------------
-But the real reason is that they involve two-way data bindings. For
+The reason is that they involve two-way data bindings. For
 many reasons, Ember and the Ember ecosystem is moving away from two-way
 bindings, and towards a Data Down, Actions Up architecture (DDAU).
 
@@ -79,7 +79,7 @@ May your forms be filled, your inputs valid, and your error template
 never render!
 
 
-[ember-best-practices]: /blog/categories/ember-best-practices
+[ember-best-practices]: /blog/categories/ember
 [page-objects]: /blog/2015/09/25/ember-best-practices-acceptance-tests
 [dont-leak-state]: /blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories
 [improved-actions]: https://github.com/emberjs/rfcs/blob/master/text/0050-improved-actions.md
