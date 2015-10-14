@@ -3,7 +3,7 @@ layout: post
 title: 'Making the DIY conference badges'
 twitter: rgbcolor
 author: 'Maria Matveeva'
-tags: design, diy, events
+tags: design, conferences
 social: true
 published: true
 comments: true
@@ -33,24 +33,24 @@ This allowed me the freedom to experiment with the badges. The only restriction 
 
 We decided to skip printing people's names altogether, and ask them to write names instead. This also allowed people to put a twitter handle and other useful information on the badges, and be funny with them. I am an introvert, so I appreciate any excuse to start a conversation. Stickers, twitter handles and stick figures on badges helped make interaction easier.
 
-![](/images/post-assets/maria/DIY-badges-01.jpg)
+![Badges](https://i.imgur.com/UgBuSJx.jpg)
 
 ## No printed lanyards
 
 Custom printed lanyards, in the quality we wanted, were way above our budget. Instead, we tried a few DIY ideas: string, ribbon, rope and strips of jersey fabric. The fabric turned out to be the most comfortable to wear. Knit jersey ("tee-shirt") fabric will roll into a soft string if you cut 1" wide strips and stretch them out. We used about 2.5 yards of 52" wide fabric to make the 200 strips. We could make the strips a half to a third of the width of the fabric, depending on how long we wanted the strips to be.
 
-![](/images/post-assets/maria/DIY-badges-02.jpg)
+![Supplies](https://i.imgur.com/lRjE1Tf.jpg)
 
 An added benefit of using fabric is a much better selection of colors compared to lanyards. We managed to get a near-perfect match to our attendee shirts!
 
-![](/images/post-assets/maria/DIY-badges-03.jpg)
+![Matched colors](https://imgur.com/tMhxpV7.jpg)
 
 ## Actually, no printed anything
 
 To make a color impression at a low cost we used a rubber stamp with a purple ink pad. We did not commit to placing any sponsor logos on the badges, so I had complete freedom with this design. We ordered a rubber stamp of the Wicked Good Conferences logo by itself so we can reuse it for the next conferences. To make the badge itself, we stamped and punched a hole in standard 3×5" index cards.
 
-![](/images/post-assets/maria/DIY-badges-04.jpg)
-![](/images/post-assets/maria/DIY-badges-05.jpg)
+![Stamping...](https://i.imgur.com/Iai4JJ4.jpg)
+![Stamped!](https://i.imgur.com/OrrtLlj.jpg)
 
 ## Budget breakdown
 * 1×2" Custom rubber stamp": $12 + shipping

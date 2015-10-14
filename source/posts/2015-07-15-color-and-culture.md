@@ -6,7 +6,7 @@ author: Maria Matveeva
 twitter: "rgbcolor"
 summary: "Part 2 of 4 in the UX color series"
 published: true
-tags: UX, UX design, Design, color, art
+tags: user experience, UX design, design, color, art
 ---
 
 *This post is based on a talk I will be presenting at [UX Camp](http://uxcamp.com/) July 18–20, 2015.*
@@ -20,9 +20,9 @@ Four posts in this series:
 ## A dangerous color combination
 ![yellow and blue painted fence](https://i.imgur.com/MTiklTJ.jpg)
 
-This was a fence painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag. 
+This was a fence painted blue and yellow. It stood around a kindergarten building in Moscow, Russia early last year. The color of the fence almost caused the kindergarten to be shut down. Because, at about the same time, there was political turmoil between Russia and Ukraine and the fence colors just happened to be a cheery combination of blue and yellow that matched the Ukrainian flag.
 
-After the brief scare, the kindergarten was not shut down or burned to the ground. Instead, they simply had to repaint the fence. 
+After the brief scare, the kindergarten was not shut down or burned to the ground. Instead, they simply had to repaint the fence.
 
 This shows we can’t use colors without understanding their cultural context. Let’s look at some other curious examples of what colors could mean to audiences of differing cultures.
 
@@ -52,11 +52,11 @@ Japan in the Heian period is the opposite of Homer’s Greece. People at court r
 
 The color green is most often used to mean money. It just happens that one of the richest countries in the world prints “greenbacks”. Our green currency is partially due to the plentiful and stable ink that was available at the time, but also related to an earlier Dutch reference: the cloth on bankers’ money counting tables used to be a deep emerald green. Regardless of the source - other countries with much more varied color currencies simply had to adjust to how the US reads “green”.
 
-In predominantly Muslim countries, a stronger cultural reference for the color green is the religion of Islam. 
+In predominantly Muslim countries, a stronger cultural reference for the color green is the religion of Islam.
 
-When  we’re talking about natural things, or, say, sourcing construction materials - green stands for ecology and recycling. 
+When  we’re talking about natural things, or, say, sourcing construction materials - green stands for ecology and recycling.
 
-And, of course, the meaning of green in user interfaces is similar to a traffic light: green is “success”. 
+And, of course, the meaning of green in user interfaces is similar to a traffic light: green is “success”.
 
 Let’s keep going.
 
