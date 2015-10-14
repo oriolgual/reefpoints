@@ -19,7 +19,7 @@ what should and shouldn't go in there.
 
 ## It's not a dump ##
 
-![Dump](/images/dump.jpg)
+![Dump](https://i.imgur.com/aEAcAz4.jpg)
 
 Does this look familiar? It does to me. This is what my `lib/` directory
 looked like before I got fed up with it. That truck, that was me dumping more

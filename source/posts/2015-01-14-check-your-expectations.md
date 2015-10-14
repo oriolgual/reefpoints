@@ -10,7 +10,7 @@ published: true
 tags: design, observations
 ---
 
-![](/images/post-assets/maria/blog-bathroom-expectations-01.jpg)
+![Person with gas mask](https://i.imgur.com/8pbNwei.jpg)
 *This is what we walked through one Friday evening as we were leaving work.*
 
 The building we work in is under construction. There are many small and large annoyances that come with a live construction site nearby. One thing has been particularly awkward: access to our restrooms.
@@ -27,7 +27,7 @@ A "family" bathroom (explicitly marked as such) is for one or many users. It is 
 
 At MOMA PS1 there is an explicitly declared unisex shared restroom. It has three stalls (with doors) and a urinal facing the back wall. It is a bit unsettling to use for the first time, but the explicit declaration makes it feel like a shared awkward experience, rather than a disadvantage of one group of people or another.
 
-In summary - our expectations always determine what we consider to be unacceptable. The example of bathrooms in our office building clearly shows that a construction worker's expectation ("this is my work site") and my female co-workers' expectation ("this is a space for women only") did not line up. More importantly, both parties were "right" in their own way. 
+In summary - our expectations always determine what we consider to be unacceptable. The example of bathrooms in our office building clearly shows that a construction worker's expectation ("this is my work site") and my female co-workers' expectation ("this is a space for women only") did not line up. More importantly, both parties were "right" in their own way.
 
 To me as a designer, this awkward situation clearly illustrates how important it is to understand a client's or a colleague's expectations in any given situation. It is entirely possible – especially when working with a client in an industry I am not familiar with – to commit terrible missteps without even knowing they happened.
 

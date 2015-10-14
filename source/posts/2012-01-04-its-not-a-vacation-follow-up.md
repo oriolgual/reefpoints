@@ -17,7 +17,7 @@ a week and go to the same city and work our asses off.
 
 Result: We kicked ass.
 
-![Dan Pickett & Russ Jones](/images/20120104/danandruss.jpg)
+![Dan Pickett & Russ Jones](https://i.imgur.com/4oG6ECL.jpg)
 
 The city we chose to work from for the week is Providence, RI. It was
 close enough most of the team to not be expensive to travel to yet far
@@ -25,7 +25,7 @@ enough away to necessitate not going home each night. On top of that,
 Providence is a very affordable city and it has a tech scene that is
 starting to take off.
 
-![Tazza Cafe](/images/20120104/tazza.jpg)
+![Tazza Cafe](https://i.imgur.com/nBZMrGO.jpg)
 
 For the week we worked from [Tazza Cafe](http://tazzacaffe.com) and I
 have only the highest praise for the atmosphere, the food, and the
@@ -40,7 +40,7 @@ Pickett](http://enlightsolutions.com) along with the DockYard regulars
 of [Angelo Simeoni](http://cssboy.com), [Russ
 Jones](http://codeofficer.com), and myself.
 
-![Downtown Providence](/images/20120104/downtownprovidence.jpg)
+![Downtown Providence](https://i.imgur.com/eGkHJxu.jpg)
 
 During the week we got to meet many from the local tech scene. Monday
 night we crashed a [Betaspring](http://betaspring) event and Thursday we
