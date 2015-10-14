@@ -10,13 +10,13 @@ published: true
 tags: design, design process, design thinking
 ---
 
-Just as a single color can have conflicting associations between different cultures, mental models can vary widely between users. If you haven’t heard of [mental models](http://en.wikipedia.org/wiki/Mental_model), they are a beholder’s mental image of a designed object and how it may be interfaced with. 
+Just as a single color can have conflicting associations between different cultures, mental models can vary widely between users. If you haven’t heard of [mental models](http://en.wikipedia.org/wiki/Mental_model), they are a beholder’s mental image of a designed object and how it may be interfaced with.
 
 Understanding the mental models your users have created of your product (or similar product experiences) is important. It will help you improve either by adjusting the product to better fit their mental model or by changing the users’ mental model to better fit your product. Neither are simple.
 
 To give you a sense of how a mental model is constructed or applied to a product, let's imagine looking at a new object in extreme slow motion:
 
-The object is placed before you. The first thing you notice is its size and shape. It’s small enough to fit in the palm of your hand, thin, and rectangular in shape. Its color is off-white. In this first glance you might make some general assumptions about the object’s nature and function, but given that there are countless objects that could share these qualities, your observation continues. 
+The object is placed before you. The first thing you notice is its size and shape. It’s small enough to fit in the palm of your hand, thin, and rectangular in shape. Its color is off-white. In this first glance you might make some general assumptions about the object’s nature and function, but given that there are countless objects that could share these qualities, your observation continues.
 
 On the grey rectangle you can clearly see a small red button, a small green button, a large square button, and a series of small grey buttons in a familiar 3x3 grid. Given that the device is small enough to fit in your hand, has multiple buttons, and lacks a screen, you might conclude that it’s a remote of some kind. And you might stop there, unless you actually have to use the remote.
 
@@ -39,7 +39,7 @@ Going against the grain of a mental model is generally a bad idea, but it can be
 
 What happens when you go against the grain for no good reason? Lots of avoidable and silly mistakes, that’s what. Take this remote for our projector as an example.
 
-![A very frustrating projector remote](/images/post-assets/steve/mental-models-remote.jpg)
+![A very frustrating projector remote](https://i.imgur.com/ybHKog9.jpg)
 *For emphasis, I’ve erased the small labels generally ignored by users when turning the projector on or off.*
 
 We know it’s a remote at first glance because we’ve used them before. The shape seems to suggest both purpose and a direction for use. Which end of the remote would you point toward the projector?

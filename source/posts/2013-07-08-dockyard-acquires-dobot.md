@@ -18,7 +18,7 @@ This is a huge move for DockYard, and a simple one for Dobot (they have
 been working out of our office for the past few months so they don't
 actually need to move anywhere).
 
-![DockYard acquires Dobot](/images/acquire.gif)
+![DockYard acquires Dobot](https://i.imgur.com/5vrk992.gif)
 
 Please see the announcement for [Steven
 Trevathan](http://reefpoints.dockyard.com/announcement/2013/07/08/steven-trevathan-is-a-dockyarder.html)

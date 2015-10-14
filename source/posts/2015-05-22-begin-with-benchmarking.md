@@ -8,7 +8,7 @@ twitter: '_ashleytreni'
 github: 'atreni'
 summary: 'Utilizing design research strategies'
 published: true
-tags: design research, benchmarking, design strategy
+tags: benchmarking
 ---
 
 Design research is critical to the beginning stage of every design project. Research orients us in the world in which we intend to build and the audience we intend to build for. It is helpful to begin by identifying other services that already exist in that space, to observe the current market offerings. Building a research catalog for reference and critique is what we refer to as "benchmarking."

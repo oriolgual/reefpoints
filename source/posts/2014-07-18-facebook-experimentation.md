@@ -3,7 +3,7 @@ layout: post
 title: 'Facebook Experiment'
 twitter: rgbcolor
 author: 'Maria Matveeva'
-tags: experiments, advertising
+tags: experiments
 social: true
 published: true
 comments: true
