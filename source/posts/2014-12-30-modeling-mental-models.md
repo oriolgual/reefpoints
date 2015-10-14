@@ -38,7 +38,6 @@ If the object is truly unique, layers of mystery may remain for a broad user bas
 Going against the grain of a mental model is generally a bad idea, but it can be valuable. It should be by design, of course, and might provide some comparative market value and interest. An example of this working was the introduction of the iPod and its very unique interface (the wheel) while competitors had basically indistinguishable and boring (by comparison) arrow key pads. The iPod might have been a little more difficult to use, but the innovative design wasn’t enough of a challenge to stop people from using it. Instead the change helped Apple greatly differentiate their product from other MP3 players.
 
 What happens when you go against the grain for no good reason? Lots of avoidable and silly mistakes, that’s what. Take this remote for our projector as an example.
-
 ![A very frustrating projector remote](https://i.imgur.com/ybHKog9.jpg)
 *For emphasis, I’ve erased the small labels generally ignored by users when turning the projector on or off.*
 

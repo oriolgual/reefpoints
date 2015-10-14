@@ -11,7 +11,6 @@ comments: true
 This article serves as a continuation of a “Client Targeted” article recently published by our own Michael Dupuis (<a href="http://reefpoints.dockyard.com/2014/09/12/features-as-business-objectives.html">Features As Business Objectives</a>). These posts aim to provide our current and prospective clients insight into how we approach development at DockYard.
 
 Building “Quality” software does not happen by accident. It is actually one of the unspoken sides of the “iron triangle” of project constraints (Scope, Cost, Time) - or should we call it a diamond now? Let’s not go there!
-
 ![image](http://i.imgur.com/DEWme3R.jpg)
 
 When making an investment in development of an application, the level of desired quality influences project cost and schedule.  Building an appropriate Quality Plan for a project requires time, planning and execution which is the responsibility of DockYard and the clients with whom we engage.  Below I layout the primary types of quality related practices we may consider applying to our (your) projects; always driven by clients’ unique context (See my earlier blog post about context driving practices - <a href="http://reefpoints.dockyard.com/2014/06/06/process-paradox.html">Process Paradox</a>).  This article does not serve to describe these quality practices in depth but will cover the basics in terms of how they could apply to client projects.  Any one of these practices in isolation is not an effective recipe for quality, it is the degree to which these practices are commingled in a logical way that results in positive outcomes.
@@ -25,7 +24,6 @@ Before the Engineer writes a line of code they are investing time in thinking ab
 The cost and eventual savings related to this practice manifest themselves as time spent thinking vs. coding vs. testing. When we estimate what it will take to develop a given feature, we consider the time spent thinking about these tests, writing the tests, maintaining the tests in addition to writing the feature code.  However, keep in mind that the time spent testing later on in the project, when the code base has grown exponentially, is reduced due to this upfront investment of time (see figure below) because we have a growing set of automated tests that will ensure we continue to maintain high quality throughout the development cycle.
 
 ![image]( http://imgur.com/2HBq9ie.jpg)
-
 ## Practice #2 - Pair Programing / Code Reviews
 
 Sometimes (usually) two heads are better than one.  Pair Programming is exactly as it is described. Two engineers team up to work side by side on a single unit of code (or feature.) In a 2013 article published by the Economist a study conducted by Laurie Williams of the University of Utah showed “*...paired programmers are 15% slower than two independent individual programmers, while "error-free" code increased from 70% to 85%. Since testing and debugging are often many times more costly than initial programming, this is an impressive result. Pairs typically consider more design alternatives than programmers working alone, and arrive at simpler, more maintainable designs; they also catch design defects early.*”
