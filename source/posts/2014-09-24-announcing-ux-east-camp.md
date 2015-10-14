@@ -7,7 +7,7 @@ twitter: 'strevat'
 social: true
 summary: 'A weekend of creative thinking and collaboration.'
 published: true
-tags: design, design process, design thinking, conferences, uxeast
+tags: design, design process, design thinking, conferences, ux east
 ---
 
 We are pleased to announce [UX East's UX Camp](http://uxeast.org/), a weekend of creative thinking, collaboration, and design in one big house on Nov 14—16th in [Bryant Pond, ME](https://goo.gl/maps/JPqdT).

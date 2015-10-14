@@ -7,7 +7,7 @@ author: Maria Matveeva
 twitter: "rgbcolor"
 summary: "Part 1 of 4 in the UX color series"
 published: true
-tags: UX, UX design, Design, color, art
+tags: user experience, UX design, design, color, art
 ---
 
 *This post is based on a talk I presented at [UX Burlington](http://uxburlington.com/)*

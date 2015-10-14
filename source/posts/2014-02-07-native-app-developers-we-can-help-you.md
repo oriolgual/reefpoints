@@ -9,7 +9,7 @@ github: danmcclain
 social: true
 summary: "Have an existing application? We can help you out!"
 published: true
-tags: business development, mobile, services
+tags: business, mobile, services
 ---
 
 If you have an existing app, and are looking for a server component,

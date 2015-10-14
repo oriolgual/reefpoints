@@ -3,7 +3,7 @@ layout: post
 title: 'My project for UX Camp'
 twitter: rgbcolor
 author: 'Maria Matveeva'
-tags: uxeast, user experience, design, conferences, design process
+tags: ux east, ux camp, user experience, design, conferences, design process
 social: true
 published: true
 comments: false
