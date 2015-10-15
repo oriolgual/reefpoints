@@ -16,7 +16,7 @@ Sometimes we have extra data in the join that we would like to make use of, but 
 data in there can be combersome depending on our approach. For example, given the
 following diagram and schema:
 
-![Diagram](/images/diagram.png)
+![Diagram](https://i.imgur.com/8JgW3es.png)
 
 ```ruby
 ActiveRecord::Schema.define(:version => 20120324170519) do

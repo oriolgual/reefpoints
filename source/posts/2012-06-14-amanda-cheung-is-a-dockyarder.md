@@ -11,7 +11,7 @@ legacy_category: announcement
 tags: office
 ---
 
-![Amanda Cheung](/images/amanda-cheung.jpg)
+![Amanda Cheung](https://i.imgur.com/mwQmXZ0.jpg)
 
 Yesterday was Amanda's first day with DockYard, she joins our growing
 team as a designer with a desire to develop. She brings excellent design

@@ -10,7 +10,7 @@ legacy_category: announcement
 tags: office
 ---
 
-![Russ Jones](/images/russ-jones.png)
+![Russ Jones](https://i.imgur.com/9AZ94dd.png)
 
 Russ and I met during the first [Rails Camp New
 England](http://railscamps.com). Over the past few years we've gotten to know one another and have been looking to collaborate as developers. Last March Russ, myself, and a few others, got together to talk about the possibility of starting our own consultancy. Since getting a bunch of freelancers on the same schedule is difficult, it wasn't until 8 months later that I was finally able to bring Russ in on a project.

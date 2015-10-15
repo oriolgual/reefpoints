@@ -10,7 +10,7 @@ published: true
 tags: office, announcement
 ---
 
-![Romina Vargas](/images/rvargas.jpg)
+![Romina Vargas](https://i.imgur.com/LVxKfWm.jpg)
 
 Romina was a DockYard intern that we just recently hired to full-time!
 Over the past few months Romina has taken on all of the challenges we've

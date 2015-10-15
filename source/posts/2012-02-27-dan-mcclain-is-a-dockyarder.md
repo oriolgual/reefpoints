@@ -10,7 +10,7 @@ legacy_category: announcement
 tags: office
 ---
 
-![Dan McClain](/images/dan-mcclain.png)
+![Dan McClain](https://i.imgur.com/641zQv4.png)
 
 Today I'm happy to announce that Dan McClain is joining our team! I've
 gotten to know Dan over the past few months through

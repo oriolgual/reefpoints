@@ -10,7 +10,7 @@ published: true
 tags: office, announcement
 ---
 
-![Robert Jackson](/images/rjackson.jpg)
+![Robert Jackson](https://i.imgur.com/bI7Lcru.jpg)
 Today is Robert Jackson's first day at DockYard. Robert is joining our
 team as a Sr. Rails and Sr. Ember developer by way of Florida (but he'll
 soon be joining us in the Northeast). Robert is a member of the Ember

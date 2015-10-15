@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Michael](/images/dupuis.jpg)
+![Michael](https://i.imgur.com/DctpNjW.jpg)
 Recently we added another great mind to the DockYard team: Michael
 Dupuis. Mike joins our Boston office and has already been busy building
 out client apps in Ruby on Rails and Ember.js for us! He also comes with

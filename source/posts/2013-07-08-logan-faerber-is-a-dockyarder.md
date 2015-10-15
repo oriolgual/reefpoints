@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Logan](/images/logan-faerber.jpg)
+![Logan](https://i.imgur.com/hmv9VHG.jpg)
 Along with his other fellow Dobot-er we welcome Logan Faerber to the
 DockYard team today!
 

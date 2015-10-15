@@ -17,11 +17,11 @@ If only there was a better way...
 
 [KSS](http://warpspire.com/kss/) is a methodology and set of tools that will help you create automated, living styleguides. Through the KSS menting syntax and the KSS parser, the guide can be updated automatically throughout the development cycle. All those little adjustments and decisions that happen in conversations outside your documented channels will be reflected in your KSS styleguide. In theory, the styleguide will show the most up-to-date styles. KSS styleguides also render element states like `:hover` as you can see in this [example from GitHub](https://github.com/styleguide/css/):
 
-![GitHub Styleguide](/images/github-styleguide.jpg)
+![GitHub Styleguide](https://i.imgur.com/nfwgONd.jpg)
 
 A KSS styleguide can be designed to reflect the look and layout of your project using existing styles:
 
-![Two KSS Styleguides](/images/kss-styleguide-examples.jpg)
+![Two KSS Styleguides](https://i.imgur.com/oq4P8vd.jpg)
 
 **KSS isn't magic. It's not going to create the styleguide for you.** You still have to do a lot of custom configuration and coding. Coding the styleguide starts with commenting your CSS. You have been leaving helpful comments for future developers all along, right? KSS [defines a syntax](http://warpspire.com/kss/syntax/) for these comments:
 

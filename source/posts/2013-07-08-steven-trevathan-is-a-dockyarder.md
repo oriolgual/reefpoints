@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Steven](/images/steven-trevathan.jpg)
+![Steven](https://i.imgur.com/XbSfLIm.jpg)
 
 I'm very happy to announce today that DockYard has joined forces with
 Boston design firm Dobot! Leader designer Steven Trevathan has come on

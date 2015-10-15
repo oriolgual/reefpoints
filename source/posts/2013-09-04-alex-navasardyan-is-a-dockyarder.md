@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Alex](/images/alex-navasardyan.png)
+![Alex](https://i.imgur.com/PyRe08M.png)
 
 Alex has been friend for a while now, I got to know him when I started
 attending the [Boston Ember meetup](www.meetup.com/Boston-Ember-js/).

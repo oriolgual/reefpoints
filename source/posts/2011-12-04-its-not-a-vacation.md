@@ -11,7 +11,7 @@ tags: office
 
 ### DockYard is invading The Ocean State! ###
 
-![Ocean State](/images/ocean_state.jpg)
+![Ocean State](https://i.imgur.com/j46sVqU.jpg)
 
 There is one annoying issue working with a remote team:
 Everybody is remote. There is something lost when you don't get to see the people you're working with.

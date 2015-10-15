@@ -10,7 +10,7 @@ social: true
 summary: Come one, come all!
 published: true
 ---
-![OpenHack](/images/openhack.png)
+![OpenHack](https://i.imgur.com/a3LfvgG.png)
 Last night we hosted Boston's first
 [OpenHack](http://openhack.github.com/)
 event.

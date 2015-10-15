@@ -12,7 +12,7 @@ published: true
 tags: office, intern
 ---
 
-![Marin](/images/abernethy.jpg)
+![Marin](https://i.imgur.com/SiT4FRr.jpg)
 Marin comes to us as from Trinity College for the summer. We've been
 overwhelming her with Ruby, Linux, SQL, JavaScript, and VIM. She's
 excelled and we're excited to see what she can accomplish over the

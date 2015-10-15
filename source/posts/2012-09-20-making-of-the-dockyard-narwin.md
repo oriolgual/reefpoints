@@ -14,7 +14,7 @@ published: true
 Half narwhal, half penguin. He's a cute lil' fella with quite the personality. He set the stage for the redesign of our website while becoming DockYard's new brand mascot.
 
 The Final Version:
-![DockYard](/images/narwin.jpg)
+![DockYard](https://i.imgur.com/gadHFL4.jpg)
 
 The Evolution:
-![DockYard Narwin](/images/narwin.gif)
+![DockYard Narwin](https://i.imgur.com/dxjG83r.gif)

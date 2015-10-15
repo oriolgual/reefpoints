@@ -11,7 +11,7 @@ legacy_category: announcement
 tags: office
 ---
 
-![Doug Yun](/images/doug-yun.png)
+![Doug Yun](https://i.imgur.com/netbX9E.png)
 
 Doug has been training with us for the past month and this week we've
 released him from his cage on the nearest client app. He's running wild!

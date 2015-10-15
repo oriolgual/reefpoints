@@ -46,6 +46,6 @@ The pieces are aligned to the grid, of course, but they are hand drawn so sizes 
 
 ![swatches](https://i.imgur.com/jEK1YAq.png)
 
-[Download the Illustrator file](/images/downloadables/patterns/pattern-swatches-CS5-and-later.ai) and use these patterns in any project. We only ask that you do not resell them. Enjoy!
+[Download the Illustrator file](/images/downloads/repeat-patterns.ai) and use these patterns in any project. We only ask that you do not resell them. Enjoy!
 
 

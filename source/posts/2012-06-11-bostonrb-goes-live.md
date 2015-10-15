@@ -11,7 +11,7 @@ social: true
 tags: community
 ---
 
-![BostonRB](/images/bostonrb.png)
+![BostonRB](https://i.imgur.com/raigWYs.png)
 
 Starting tomorrow night (June 12th, 2012) [The Boston Ruby Group](http://bostonrb.org)
 will be streaming its monthly meeting live via [Google Hangouts on Air](http://googleblog.blogspot.com/2012/05/google-hangouts-on-air-broadcast-your.html)

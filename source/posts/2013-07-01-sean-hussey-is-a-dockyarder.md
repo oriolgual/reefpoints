@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Sean Hussey](/images/hussey.png)
+![Sean Hussey](https://i.imgur.com/SNr5ZrZ.png)
 Today is the first day for Sean Hussey at DockYard. He has been
 contracting with us for the past few months and I was finally able to
 lock him down recently. Sean and I have known one another for years as

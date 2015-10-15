@@ -12,7 +12,7 @@ published: true
 tags: office
 ---
 
-![Sager](/images/mike-sager.png)
+![Sager](https://i.imgur.com/dtyb8Zg.png)
 
 I'm very happy to announce that Mike Sager has joined DockYard! Sager
 and I met while working on The Campaign That Shall Not Be Named (it was

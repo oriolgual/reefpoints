@@ -10,7 +10,7 @@ comments: true
 
 We've all seen the **Motivational Posters**:
 
-![Motivate](/images/motivational-1.jpg)
+![Motivate](https://i.imgur.com/ChxXPmT.jpg)
 
 I always hear people talk about
 **motivation**. *What motivates you?* *I'm lacking motivation.* Well I'm

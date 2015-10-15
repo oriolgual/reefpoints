@@ -10,7 +10,7 @@ published: true
 tags: office, announcement
 ---
 
-![Lin Reid](/images/lreid.jpg)
+![Lin Reid](https://i.imgur.com/lEkTCoq.jpg)
 
 Lin comes to us from Alaska. Normally that is all that you need to say
 but Lin also brought us jerked-bear (actual Alaskan black bear) on his first day with us as an
