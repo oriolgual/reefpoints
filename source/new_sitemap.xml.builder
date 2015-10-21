@@ -31,6 +31,12 @@ xml.urlset 'xmlns' => "http://www.sitemaps.org/schemas/sitemap/0.9" do
     xml.priority '0.9'
   end
   xml.url do
+    xml.loc "https://dockyard.com/phoenix-consulting"
+    xml.lastmod Date.today.to_time.iso8601
+    xml.changefreq 'weekly'
+    xml.priority '0.9'
+  end
+  xml.url do
     xml.loc "https://dockyard.com/services/design"
     xml.lastmod Date.today.to_time.iso8601
     xml.changefreq 'weekly'
