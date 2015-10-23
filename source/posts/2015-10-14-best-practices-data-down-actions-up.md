@@ -9,7 +9,7 @@ published: true
 tags: ember, javascript, best practices
 ---
 
-Welcome back for to the fourth installment of DockYard's Ember Best Practices Blog Post Series! Last time Aaron Sikes explains why we can move away from the Ember `{{input}}` helper with angle-bracket components and improved actions. Aaron briefly discusses "Data down, actions up", the topic of this post. So if you want a bit of context, stick around here for a minute then head over to his [post](https://dockyard.com/blog/2015/10/05/ember-best-practices-using-native-input-elements) afterwards.
+Welcome back to the fourth installment of DockYard's Ember Best Practices Blog Post Series! Last time Aaron Sikes explains why we can move away from the Ember `{{input}}` helper with angle-bracket components and improved actions. Aaron briefly discusses "Data down, actions up", the topic of this post. So if you want a bit of context, stick around here for a minute then head over to his [post](https://dockyard.com/blog/2015/10/05/ember-best-practices-using-native-input-elements) afterwards.
 
 
 ## Data Down, Actions Up
