@@ -8,7 +8,7 @@ twitter: michaeldupuisjr
 github: michaeldupuisjr
 summary: "Need to determine the dependent key for your computed
 property at runtime?"
-published: false
+published: true
 tags: ember, javascript
 ember_start_version: 1.13
 ---
