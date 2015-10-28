@@ -96,7 +96,7 @@ provides an input box for the expense `amount`, and has a "Save" button.
 </tr>
 ```
 
-In our `expense-summary` component we implement the `save` action.
+In our `expense-summary` component we implement the `amountChanged` action.
 
 ```js
 // expense-summary/component.js
@@ -104,7 +104,7 @@ import Ember from 'ember';
 
 export default Ember.Component.extend({
   actions: {
-    save() {
+    amountChanged() {
       const expense = this.get('expense');
       expense.save();
     }
@@ -141,7 +141,7 @@ export default Ember.Component.extend({
   actions: {
     amountChanged() {
       const expense = this.get(this, 'expense');
-      this.sendAction('update', expense); 
+      this.sendAction('amountChanged', expense); 
     }
   }
 });
@@ -191,7 +191,7 @@ Here is what that might look like for our budget form example.
 export default Ember.Component.extend({
   actions: {
     amountChanged() {
-      this.attrs.update(this.get('expense'));
+      this.attrs.amountChanged(this.get('expense'));
     }
   }
 });
