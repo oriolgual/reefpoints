@@ -20,7 +20,7 @@ extracted it as a Phoenix library this weekend.
 
 ## Introducing ValidField
 
-Let's import `ValidField`[valid-field] and get right to the tests:
+Let's import [ValidField][valid-field] and get right to the tests:
 
 ```elixir
 defmodule App.UserTest do
