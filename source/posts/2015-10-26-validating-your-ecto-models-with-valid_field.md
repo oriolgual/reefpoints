@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing ValidField"
+title: "Validating your Ecto Models with ValidField"
 comments: true
 author: Dan McClain
 twitter: "_danmcclain"
